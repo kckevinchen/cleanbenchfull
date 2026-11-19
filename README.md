@@ -12,6 +12,7 @@
 [![Python: 3.10+](https://img.shields.io/badge/Python-3.10%2B-3776ab?logo=python&logoColor=white)](#use-the-benchmark)
 [![Code license: MIT](https://img.shields.io/badge/code_license-MIT-64748b)](LICENSE)
 
+[**Full paper**](paper/CleanBench-full.pdf) |
 [**Dataset & scorer**](benchmark/README.md) |
 [**Annotation workbench**](#run-the-workbench) |
 [**Citation**](#citation)
@@ -19,6 +20,9 @@
 </div>
 
 ## Full-version experiments
+
+The latest [full paper](paper/CleanBench-full.pdf) and
+[Overleaf source package](paper/CleanBench-overleaf.zip) are in [`paper/`](paper/README.md).
 
 This repository accompanies the full version of CleanBench, including the
 constraint generation and score-threshold experiments. The
@@ -29,8 +33,10 @@ python scripts/reproduce_table3.py
 python scripts/reproduce_constraints.py
 ```
 
-Both commands recompute the reported results from saved predictions without API
-credentials. See [constraint experiments](docs/constraint_experiment.md) for the
+Both commands recompute saved results without API credentials.
+`reproduce_constraints.py` reproduces the selected constraint results used in
+the latest paper. `reproduce_table3.py` currently reproduces the comparison with
+the original constraint inputs. See [constraint experiments](docs/constraint_experiment.md) for the
 seven native methods, fixed constraint inputs, and Docker threshold sweeps, and
 [Docker baseline runs](docker/README.md) for fresh Table 3 runs.
 
