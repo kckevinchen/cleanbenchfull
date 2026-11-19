@@ -34,9 +34,10 @@ python scripts/reproduce_constraints.py
 ```
 
 Both commands recompute saved results without API credentials.
-`reproduce_constraints.py` reproduces the selected constraint results used in
-the latest paper. `reproduce_table3.py` currently reproduces the comparison with
-the original constraint inputs. See [constraint experiments](docs/constraint_experiment.md) for the
+`reproduce_table3.py` reproduces Table 3 with the original constraint inputs
+and the full version's 1,409-cell scoring rule. `reproduce_constraints.py`
+reproduces the appendix's threshold and selection experiments.
+See [constraint experiments](docs/constraint_experiment.md) for the
 seven native methods, fixed constraint inputs, and Docker threshold sweeps, and
 [Docker baseline runs](docker/README.md) for fresh Table 3 runs.
 
