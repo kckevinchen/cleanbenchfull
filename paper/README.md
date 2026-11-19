@@ -3,6 +3,9 @@
 - [Read the full paper](CleanBench-full.pdf) (24 pages).
 - [Download the Overleaf source package](CleanBench-overleaf.zip).
 
+Recent revisions are highlighted in blue for author review. Set
+`\togglefalse{reviewchanges}` in `preamble.tex` for the clean presentation.
+
 This version includes the constraint-selection experiment, violation coverage,
 and updated Table 3 results using five-fold semantic-score selection for seven
 constraint-based methods. The macro results and associated analyses use the
