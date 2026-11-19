@@ -1,0 +1,27 @@
+{
+  "adapters": {
+    "rich_native_runtime.py": {
+      "source": "src/evaluation/rich_native_runtime.py",
+      "source_sha256": "fe4e6d80256cbfc48a735885a865f4ab9919df910f9bb64d1551c9d0657caf5c",
+      "packaged_sha256": "8c61198d4988ad9118e2bc70ccfafd40f584ae48dc7fde12420996726e0b720f"
+    },
+    "rich_uniclean_runtime.py": {
+      "source": "src/evaluation/rich_uniclean_runtime.py",
+      "source_sha256": "6854e55094a78b7268baca1b862b161f88c313765686b86df3e4430bdd2a64d2",
+      "packaged_sha256": "fe437d197c7e793beed0939b36e36f17469641a7b9f98792ea566a5cef85d710"
+    },
+    "rules.py": {
+      "source": "src/evaluation/constraint_bank/rules.py",
+      "source_sha256": "dd08d2c775e6d38223d6b2f1216e5c61a2bf43e22f220a345f9dedad8a920279",
+      "packaged_sha256": "7c75b135846b7220cf9d5cd0dae17e08ade4dfdca426b3f702027216f3b5d47b"
+    },
+    "RichNativeBridge.java": {
+      "source": "external/llunatic/RichNativeBridge.java",
+      "source_sha256": "3a0c5980d82609560690fb0b657301d116405e12a9f5f649295c7781d2aa6fd5",
+      "packaged_sha256": "3a0c5980d82609560690fb0b657301d116405e12a9f5f649295c7781d2aa6fd5"
+    }
+  },
+  "adaptation": "Namespace and portable runtime paths; cleaning procedures copied from the evaluated implementations.",
+  "pool": "GPT-5.2 GT-assisted generation, GT-overlap filtering and coverage-preserving compression; separate semantic scoring on dirty data.",
+  "pool_source_sha256": "44322508815ab1dd2a39c51de8fb6fffc2b9f1e424a88786c59c78b357cfabc5"
+}

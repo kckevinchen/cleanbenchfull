@@ -1,0 +1,957 @@
+{"dataset": "005c05b7029cb909b653bd2942b5272c5030e130.xlsx_ed8fbac9", "row": 0, "col": 2, "corrected_value": "Dash Brick and Building Supply Struben Valley (Pty) Ltd"}
+{"dataset": "005c05b7029cb909b653bd2942b5272c5030e130.xlsx_ed8fbac9", "row": 17, "col": 1, "corrected_value": "Hexion Specialty Chemicals, Inc."}
+{"dataset": "005c05b7029cb909b653bd2942b5272c5030e130.xlsx_ed8fbac9", "row": 31, "col": 2, "corrected_value": "Pacific Breeze (Pty) Ltd"}
+{"dataset": "005c05b7029cb909b653bd2942b5272c5030e130.xlsx_ed8fbac9", "row": 36, "col": 2, "corrected_value": "Property Protection Management SA (Pty) Ltd & Parking Strategies SA (Pty) Ltd"}
+{"dataset": "005c05b7029cb909b653bd2942b5272c5030e130.xlsx_ed8fbac9", "row": 65, "col": 2, "corrected_value": "Patula Construction (Pty) Ltd"}
+{"dataset": "005c05b7029cb909b653bd2942b5272c5030e130.xlsx_ed8fbac9", "row": 92, "col": 1, "corrected_value": "Premier Motor Group, a division of Imperial Group (Pty) Ltd"}
+{"dataset": "015701bee6ba07504ddd91738901d6d00d5a4aee.xlsx_630b9afc", "row": 0, "col": 3, "corrected_value": "Will provide contact information of Project Managers for project specific requirements."}
+{"dataset": "015701bee6ba07504ddd91738901d6d00d5a4aee.xlsx_630b9afc", "row": 1, "col": 3, "corrected_value": "Will provide contact information of Project Managers for project specific requirements."}
+{"dataset": "015701bee6ba07504ddd91738901d6d00d5a4aee.xlsx_630b9afc", "row": 2, "col": 3, "corrected_value": "Will provide contact information of Project Managers for project specific requirements."}
+{"dataset": "015701bee6ba07504ddd91738901d6d00d5a4aee.xlsx_630b9afc", "row": 3, "col": 3, "corrected_value": "Will provide contact information of Project Managers for project specific requirements."}
+{"dataset": "015701bee6ba07504ddd91738901d6d00d5a4aee.xlsx_630b9afc", "row": 4, "col": 3, "corrected_value": "Will provide contact information of Project Managers for project specific requirements."}
+{"dataset": "02772e260687ddf720b721abff896b087bf665c8.xlsx_cebe9f24", "row": 26, "col": 2, "corrected_value": "Yuba Environmental Science Charter Academy"}
+{"dataset": "034dbd8acf4fc61cafcbe94764a17b78e6ba2e11.xlsx_558f4dfc", "row": 0, "col": 0, "corrected_value": "Proteostasis"}
+{"dataset": "034dbd8acf4fc61cafcbe94764a17b78e6ba2e11.xlsx_558f4dfc", "row": 2, "col": 0, "corrected_value": "Tregs"}
+{"dataset": "034dbd8acf4fc61cafcbe94764a17b78e6ba2e11.xlsx_558f4dfc", "row": 4, "col": 0, "corrected_value": "Tregs"}
+{"dataset": "034dbd8acf4fc61cafcbe94764a17b78e6ba2e11.xlsx_558f4dfc", "row": 6, "col": 0, "corrected_value": "Tregs"}
+{"dataset": "034dbd8acf4fc61cafcbe94764a17b78e6ba2e11.xlsx_558f4dfc", "row": 7, "col": 0, "corrected_value": "Antigen"}
+{"dataset": "034dbd8acf4fc61cafcbe94764a17b78e6ba2e11.xlsx_558f4dfc", "row": 9, "col": 0, "corrected_value": "Proteostasis"}
+{"dataset": "034dbd8acf4fc61cafcbe94764a17b78e6ba2e11.xlsx_558f4dfc", "row": 10, "col": 0, "corrected_value": "M2 Macrophage"}
+{"dataset": "034dbd8acf4fc61cafcbe94764a17b78e6ba2e11.xlsx_558f4dfc", "row": 11, "col": 0, "corrected_value": "M2 Macrophage"}
+{"dataset": "034dbd8acf4fc61cafcbe94764a17b78e6ba2e11.xlsx_558f4dfc", "row": 12, "col": 0, "corrected_value": "Proteostasis"}
+{"dataset": "034dbd8acf4fc61cafcbe94764a17b78e6ba2e11.xlsx_558f4dfc", "row": 13, "col": 0, "corrected_value": "M2 Macrophage"}
+{"dataset": "034dbd8acf4fc61cafcbe94764a17b78e6ba2e11.xlsx_558f4dfc", "row": 14, "col": 0, "corrected_value": "Proteostasis"}
+{"dataset": "034dbd8acf4fc61cafcbe94764a17b78e6ba2e11.xlsx_558f4dfc", "row": 15, "col": 0, "corrected_value": "Proteostasis"}
+{"dataset": "034dbd8acf4fc61cafcbe94764a17b78e6ba2e11.xlsx_558f4dfc", "row": 16, "col": 0, "corrected_value": "Tregs"}
+{"dataset": "034dbd8acf4fc61cafcbe94764a17b78e6ba2e11.xlsx_558f4dfc", "row": 18, "col": 0, "corrected_value": "Tregs"}
+{"dataset": "034dbd8acf4fc61cafcbe94764a17b78e6ba2e11.xlsx_558f4dfc", "row": 19, "col": 0, "corrected_value": "Checkpoint"}
+{"dataset": "034dbd8acf4fc61cafcbe94764a17b78e6ba2e11.xlsx_558f4dfc", "row": 20, "col": 0, "corrected_value": "Tregs"}
+{"dataset": "034dbd8acf4fc61cafcbe94764a17b78e6ba2e11.xlsx_558f4dfc", "row": 21, "col": 0, "corrected_value": "Proteostasis"}
+{"dataset": "034dbd8acf4fc61cafcbe94764a17b78e6ba2e11.xlsx_558f4dfc", "row": 22, "col": 0, "corrected_value": "Astrocyte"}
+{"dataset": "034dbd8acf4fc61cafcbe94764a17b78e6ba2e11.xlsx_558f4dfc", "row": 23, "col": 0, "corrected_value": "Tregs"}
+{"dataset": "034dbd8acf4fc61cafcbe94764a17b78e6ba2e11.xlsx_558f4dfc", "row": 24, "col": 0, "corrected_value": "Proteostasis"}
+{"dataset": "034dbd8acf4fc61cafcbe94764a17b78e6ba2e11.xlsx_558f4dfc", "row": 25, "col": 0, "corrected_value": "Proteostasis"}
+{"dataset": "034dbd8acf4fc61cafcbe94764a17b78e6ba2e11.xlsx_558f4dfc", "row": 26, "col": 0, "corrected_value": "Tregs"}
+{"dataset": "034dbd8acf4fc61cafcbe94764a17b78e6ba2e11.xlsx_558f4dfc", "row": 27, "col": 0, "corrected_value": "Proteostasis"}
+{"dataset": "034dbd8acf4fc61cafcbe94764a17b78e6ba2e11.xlsx_558f4dfc", "row": 28, "col": 0, "corrected_value": "Proteostasis"}
+{"dataset": "034dbd8acf4fc61cafcbe94764a17b78e6ba2e11.xlsx_558f4dfc", "row": 29, "col": 0, "corrected_value": "Proteostasis"}
+{"dataset": "034dbd8acf4fc61cafcbe94764a17b78e6ba2e11.xlsx_558f4dfc", "row": 30, "col": 0, "corrected_value": "Tregs"}
+{"dataset": "034dbd8acf4fc61cafcbe94764a17b78e6ba2e11.xlsx_558f4dfc", "row": 31, "col": 0, "corrected_value": "M2 Macrophage"}
+{"dataset": "034dbd8acf4fc61cafcbe94764a17b78e6ba2e11.xlsx_558f4dfc", "row": 32, "col": 0, "corrected_value": "Antigen"}
+{"dataset": "034dbd8acf4fc61cafcbe94764a17b78e6ba2e11.xlsx_558f4dfc", "row": 33, "col": 0, "corrected_value": "Proteostasis"}
+{"dataset": "034dbd8acf4fc61cafcbe94764a17b78e6ba2e11.xlsx_558f4dfc", "row": 34, "col": 0, "corrected_value": "Proteostasis"}
+{"dataset": "034dbd8acf4fc61cafcbe94764a17b78e6ba2e11.xlsx_558f4dfc", "row": 35, "col": 0, "corrected_value": "Proteostasis"}
+{"dataset": "034dbd8acf4fc61cafcbe94764a17b78e6ba2e11.xlsx_558f4dfc", "row": 37, "col": 0, "corrected_value": "Astrocyte"}
+{"dataset": "034dbd8acf4fc61cafcbe94764a17b78e6ba2e11.xlsx_558f4dfc", "row": 38, "col": 0, "corrected_value": "Oncogene"}
+{"dataset": "034dbd8acf4fc61cafcbe94764a17b78e6ba2e11.xlsx_558f4dfc", "row": 39, "col": 0, "corrected_value": "Tregs"}
+{"dataset": "034dbd8acf4fc61cafcbe94764a17b78e6ba2e11.xlsx_558f4dfc", "row": 40, "col": 0, "corrected_value": "Proteostasis"}
+{"dataset": "034dbd8acf4fc61cafcbe94764a17b78e6ba2e11.xlsx_558f4dfc", "row": 41, "col": 0, "corrected_value": "Tregs"}
+{"dataset": "034dbd8acf4fc61cafcbe94764a17b78e6ba2e11.xlsx_558f4dfc", "row": 42, "col": 0, "corrected_value": "Proteostasis"}
+{"dataset": "034dbd8acf4fc61cafcbe94764a17b78e6ba2e11.xlsx_558f4dfc", "row": 44, "col": 0, "corrected_value": "Proteostasis"}
+{"dataset": "034dbd8acf4fc61cafcbe94764a17b78e6ba2e11.xlsx_558f4dfc", "row": 45, "col": 0, "corrected_value": "T cell Activation"}
+{"dataset": "034dbd8acf4fc61cafcbe94764a17b78e6ba2e11.xlsx_558f4dfc", "row": 47, "col": 0, "corrected_value": "M2 Macrophage"}
+{"dataset": "034dbd8acf4fc61cafcbe94764a17b78e6ba2e11.xlsx_558f4dfc", "row": 48, "col": 0, "corrected_value": "Proteostasis"}
+{"dataset": "034dbd8acf4fc61cafcbe94764a17b78e6ba2e11.xlsx_558f4dfc", "row": 49, "col": 0, "corrected_value": "M2 Macrophage"}
+{"dataset": "034dbd8acf4fc61cafcbe94764a17b78e6ba2e11.xlsx_558f4dfc", "row": 50, "col": 0, "corrected_value": "Proteostasis"}
+{"dataset": "034dbd8acf4fc61cafcbe94764a17b78e6ba2e11.xlsx_558f4dfc", "row": 51, "col": 0, "corrected_value": "Proteostasis"}
+{"dataset": "034dbd8acf4fc61cafcbe94764a17b78e6ba2e11.xlsx_558f4dfc", "row": 52, "col": 0, "corrected_value": "Tregs"}
+{"dataset": "034dbd8acf4fc61cafcbe94764a17b78e6ba2e11.xlsx_558f4dfc", "row": 54, "col": 0, "corrected_value": "Checkpoint"}
+{"dataset": "034dbd8acf4fc61cafcbe94764a17b78e6ba2e11.xlsx_558f4dfc", "row": 55, "col": 0, "corrected_value": "Oncogene"}
+{"dataset": "034dbd8acf4fc61cafcbe94764a17b78e6ba2e11.xlsx_558f4dfc", "row": 56, "col": 0, "corrected_value": "Proteostasis"}
+{"dataset": "034dbd8acf4fc61cafcbe94764a17b78e6ba2e11.xlsx_558f4dfc", "row": 57, "col": 0, "corrected_value": "M2 Macrophage"}
+{"dataset": "034dbd8acf4fc61cafcbe94764a17b78e6ba2e11.xlsx_558f4dfc", "row": 58, "col": 0, "corrected_value": "Proteostasis"}
+{"dataset": "034dbd8acf4fc61cafcbe94764a17b78e6ba2e11.xlsx_558f4dfc", "row": 59, "col": 0, "corrected_value": "M2 Macrophage"}
+{"dataset": "034dbd8acf4fc61cafcbe94764a17b78e6ba2e11.xlsx_558f4dfc", "row": 61, "col": 0, "corrected_value": "Proteostasis"}
+{"dataset": "034dbd8acf4fc61cafcbe94764a17b78e6ba2e11.xlsx_558f4dfc", "row": 62, "col": 0, "corrected_value": "Tregs"}
+{"dataset": "034dbd8acf4fc61cafcbe94764a17b78e6ba2e11.xlsx_558f4dfc", "row": 63, "col": 0, "corrected_value": "Tregs"}
+{"dataset": "034dbd8acf4fc61cafcbe94764a17b78e6ba2e11.xlsx_558f4dfc", "row": 64, "col": 0, "corrected_value": "Proteostasis"}
+{"dataset": "034dbd8acf4fc61cafcbe94764a17b78e6ba2e11.xlsx_558f4dfc", "row": 67, "col": 0, "corrected_value": "M2 Macrophage"}
+{"dataset": "034dbd8acf4fc61cafcbe94764a17b78e6ba2e11.xlsx_558f4dfc", "row": 68, "col": 0, "corrected_value": "Proteostasis"}
+{"dataset": "034dbd8acf4fc61cafcbe94764a17b78e6ba2e11.xlsx_558f4dfc", "row": 70, "col": 0, "corrected_value": "Myeloid Activation"}
+{"dataset": "034dbd8acf4fc61cafcbe94764a17b78e6ba2e11.xlsx_558f4dfc", "row": 71, "col": 0, "corrected_value": "Astrocyte"}
+{"dataset": "03d4cd518bb384be83d224597c7aa5c5698145f9.xlsx_845641bb", "row": 6, "col": 1, "corrected_value": "Whitehead"}
+{"dataset": "03d4cd518bb384be83d224597c7aa5c5698145f9.xlsx_845641bb", "row": 17, "col": 1, "corrected_value": "?"}
+{"dataset": "03d4cd518bb384be83d224597c7aa5c5698145f9.xlsx_845641bb", "row": 19, "col": 6, "corrected_value": "1/1/1900"}
+{"dataset": "041fc45fbec5f1e9eb68662da3ce9e017c685ab8.xlsx_fcee92d5", "row": 17, "col": 1, "corrected_value": "Pacific Esplanade"}
+{"dataset": "047a17db9cd660bcc59982658992245f666403c7.xlsx_e6aa6cbe", "row": 91, "col": 0, "corrected_value": "null"}
+{"dataset": "047a17db9cd660bcc59982658992245f666403c7.xlsx_e6aa6cbe", "row": 91, "col": 1, "corrected_value": "null"}
+{"dataset": "057cea75d45ed0364c66797d4944a822bae74c79.xlsx_badcc7a6", "row": 2, "col": 10, "corrected_value": "NULL"}
+{"dataset": "057cea75d45ed0364c66797d4944a822bae74c79.xlsx_badcc7a6", "row": 3, "col": 7, "corrected_value": "NULL"}
+{"dataset": "05a45518cb7a0ec40d8ac58d2376395d9d7b8a68.xlsx_4109c511", "row": 0, "col": 7, "corrected_value": "?"}
+{"dataset": "05a45518cb7a0ec40d8ac58d2376395d9d7b8a68.xlsx_4109c511", "row": 1, "col": 7, "corrected_value": "?"}
+{"dataset": "05a45518cb7a0ec40d8ac58d2376395d9d7b8a68.xlsx_4109c511", "row": 2, "col": 7, "corrected_value": "Consultant Clinical Psychologist, MBT adult accredited practitioner, Lecturer and VIG practitioner"}
+{"dataset": "05a45518cb7a0ec40d8ac58d2376395d9d7b8a68.xlsx_4109c511", "row": 3, "col": 7, "corrected_value": "Consultant Clinical Psychologist, MBT adult accredited practitioner, Lecturer and VIG practitioner"}
+{"dataset": "05a45518cb7a0ec40d8ac58d2376395d9d7b8a68.xlsx_4109c511", "row": 4, "col": 7, "corrected_value": "Consultant Clinical Psychologist, MBT adult accredited practitioner, Lecturer and VIG practitioner"}
+{"dataset": "05a45518cb7a0ec40d8ac58d2376395d9d7b8a68.xlsx_4109c511", "row": 5, "col": 7, "corrected_value": "Consultant Clinical Psychologist, MBT adult accredited practitioner, Lecturer and VIG practitioner"}
+{"dataset": "05a45518cb7a0ec40d8ac58d2376395d9d7b8a68.xlsx_4109c511", "row": 6, "col": 7, "corrected_value": "Consultant Clinical Psychologist, MBT adult accredited practitioner, Lecturer and VIG practitioner"}
+{"dataset": "05a45518cb7a0ec40d8ac58d2376395d9d7b8a68.xlsx_4109c511", "row": 7, "col": 7, "corrected_value": "Consultant Clinical Psychologist, MBT adult accredited practitioner, Lecturer and VIG practitioner"}
+{"dataset": "05a45518cb7a0ec40d8ac58d2376395d9d7b8a68.xlsx_4109c511", "row": 9, "col": 7, "corrected_value": "Consultant Clinical Psychologist, MBT adult accredited practitioner, Lecturer and VIG practitioner"}
+{"dataset": "05a45518cb7a0ec40d8ac58d2376395d9d7b8a68.xlsx_4109c511", "row": 10, "col": 7, "corrected_value": "Psychologist and Psychotherapist (child and adolescent psychotherapy )"}
+{"dataset": "05a45518cb7a0ec40d8ac58d2376395d9d7b8a68.xlsx_4109c511", "row": 11, "col": 7, "corrected_value": "Psychologist and Psychotherapist (child and adolescent psychotherapy )"}
+{"dataset": "05a45518cb7a0ec40d8ac58d2376395d9d7b8a68.xlsx_4109c511", "row": 11, "col": 8, "corrected_value": "Spanish, English"}
+{"dataset": "05a45518cb7a0ec40d8ac58d2376395d9d7b8a68.xlsx_4109c511", "row": 13, "col": 7, "corrected_value": "?"}
+{"dataset": "05a45518cb7a0ec40d8ac58d2376395d9d7b8a68.xlsx_4109c511", "row": 14, "col": 7, "corrected_value": "?"}
+{"dataset": "05a45518cb7a0ec40d8ac58d2376395d9d7b8a68.xlsx_4109c511", "row": 14, "col": 8, "corrected_value": "Spanish, English"}
+{"dataset": "05a45518cb7a0ec40d8ac58d2376395d9d7b8a68.xlsx_4109c511", "row": 15, "col": 7, "corrected_value": "?"}
+{"dataset": "05a45518cb7a0ec40d8ac58d2376395d9d7b8a68.xlsx_4109c511", "row": 16, "col": 7, "corrected_value": "?"}
+{"dataset": "05a45518cb7a0ec40d8ac58d2376395d9d7b8a68.xlsx_4109c511", "row": 17, "col": 7, "corrected_value": "Psychologist and Psychotherapist (child and adolescent psychotherapy )"}
+{"dataset": "05a45518cb7a0ec40d8ac58d2376395d9d7b8a68.xlsx_4109c511", "row": 18, "col": 7, "corrected_value": "Psychologist and Psychotherapist (child and adolescent psychotherapy )"}
+{"dataset": "05a45518cb7a0ec40d8ac58d2376395d9d7b8a68.xlsx_4109c511", "row": 18, "col": 8, "corrected_value": "Spanish, English"}
+{"dataset": "05a45518cb7a0ec40d8ac58d2376395d9d7b8a68.xlsx_4109c511", "row": 19, "col": 7, "corrected_value": "Psychologist and Psychotherapist (child and adolescent psychotherapy )"}
+{"dataset": "05a45518cb7a0ec40d8ac58d2376395d9d7b8a68.xlsx_4109c511", "row": 21, "col": 7, "corrected_value": "Child and Adolescent Psychotherapist, Dramatherapist"}
+{"dataset": "05a45518cb7a0ec40d8ac58d2376395d9d7b8a68.xlsx_4109c511", "row": 22, "col": 7, "corrected_value": "Child and Adolescent Psychotherapist, Dramatherapist"}
+{"dataset": "05a45518cb7a0ec40d8ac58d2376395d9d7b8a68.xlsx_4109c511", "row": 24, "col": 7, "corrected_value": "?"}
+{"dataset": "05a45518cb7a0ec40d8ac58d2376395d9d7b8a68.xlsx_4109c511", "row": 25, "col": 7, "corrected_value": "Psychologist and Psychotherapist (child and adolescent psychotherapy )"}
+{"dataset": "05a45518cb7a0ec40d8ac58d2376395d9d7b8a68.xlsx_4109c511", "row": 26, "col": 4, "corrected_value": "Connecticut"}
+{"dataset": "05a45518cb7a0ec40d8ac58d2376395d9d7b8a68.xlsx_4109c511", "row": 26, "col": 7, "corrected_value": "Psychologist and Psychotherapist (child and adolescent psychotherapy )"}
+{"dataset": "05a45518cb7a0ec40d8ac58d2376395d9d7b8a68.xlsx_4109c511", "row": 26, "col": 8, "corrected_value": "Swedish, English"}
+{"dataset": "05a45518cb7a0ec40d8ac58d2376395d9d7b8a68.xlsx_4109c511", "row": 27, "col": 7, "corrected_value": "?"}
+{"dataset": "05a45518cb7a0ec40d8ac58d2376395d9d7b8a68.xlsx_4109c511", "row": 28, "col": 7, "corrected_value": "Psychologist and Psychotherapist (child and adolescent psychotherapy )"}
+{"dataset": "064c6302b81d758dff1b8dc2d4c57346e3de8e37.xlsx_2038795a", "row": 17, "col": 3, "corrected_value": "9/9/2020"}
+{"dataset": "064c6302b81d758dff1b8dc2d4c57346e3de8e37.xlsx_2038795a", "row": 97, "col": 2, "corrected_value": "10/10/2019"}
+{"dataset": "064c6302b81d758dff1b8dc2d4c57346e3de8e37.xlsx_2038795a", "row": 97, "col": 3, "corrected_value": "10/10/2019"}
+{"dataset": "064c6302b81d758dff1b8dc2d4c57346e3de8e37.xlsx_2038795a", "row": 98, "col": 2, "corrected_value": "10/30/2019"}
+{"dataset": "064c6302b81d758dff1b8dc2d4c57346e3de8e37.xlsx_2038795a", "row": 98, "col": 3, "corrected_value": "10/30/2019"}
+{"dataset": "064c6302b81d758dff1b8dc2d4c57346e3de8e37.xlsx_2038795a", "row": 99, "col": 2, "corrected_value": "10/24/2019"}
+{"dataset": "064c6302b81d758dff1b8dc2d4c57346e3de8e37.xlsx_2038795a", "row": 99, "col": 3, "corrected_value": "10/25/2019"}
+{"dataset": "07e75f0e54729c8aafb1486e23333673155321b9.xlsx_a02a4379", "row": 47, "col": 0, "corrected_value": "INTERSTATE LOGISTICS"}
+{"dataset": "07e75f0e54729c8aafb1486e23333673155321b9.xlsx_a02a4379", "row": 89, "col": 1, "corrected_value": "WEEHAWKEN"}
+{"dataset": "083c5143329b05e7651c73c8385ede89fcfcddfd.xlsx_33b0b42b", "row": 1, "col": 13, "corrected_value": "?"}
+{"dataset": "083c5143329b05e7651c73c8385ede89fcfcddfd.xlsx_33b0b42b", "row": 3, "col": 13, "corrected_value": "35,812 / 21,224"}
+{"dataset": "08695d5dca36f170165779d4032f35ce62a64ff9.xlsx_69c732a3", "row": 5, "col": 0, "corrected_value": "null"}
+{"dataset": "08695d5dca36f170165779d4032f35ce62a64ff9.xlsx_69c732a3", "row": 5, "col": 1, "corrected_value": "null"}
+{"dataset": "08695d5dca36f170165779d4032f35ce62a64ff9.xlsx_69c732a3", "row": 6, "col": 0, "corrected_value": "null"}
+{"dataset": "08695d5dca36f170165779d4032f35ce62a64ff9.xlsx_69c732a3", "row": 6, "col": 1, "corrected_value": "null"}
+{"dataset": "0cb0363a3fb3c431bf71f3067feb9ba7cec0a4c7.xlsx_9a6e117e", "row": 1, "col": 1, "corrected_value": "Other Waiver"}
+{"dataset": "0cb0363a3fb3c431bf71f3067feb9ba7cec0a4c7.xlsx_9a6e117e", "row": 4, "col": 1, "corrected_value": "Over Limit on Grades 4-8"}
+{"dataset": "0cb0363a3fb3c431bf71f3067feb9ba7cec0a4c7.xlsx_9a6e117e", "row": 6, "col": 1, "corrected_value": "Minimum School Day"}
+{"dataset": "0cb0363a3fb3c431bf71f3067feb9ba7cec0a4c7.xlsx_9a6e117e", "row": 7, "col": 1, "corrected_value": "Minimum School Day"}
+{"dataset": "0cb0363a3fb3c431bf71f3067feb9ba7cec0a4c7.xlsx_9a6e117e", "row": 8, "col": 1, "corrected_value": "Minimum School Day"}
+{"dataset": "0cb0363a3fb3c431bf71f3067feb9ba7cec0a4c7.xlsx_9a6e117e", "row": 13, "col": 1, "corrected_value": "Below 1982-83 Base Minimum Minutes"}
+{"dataset": "0cb0363a3fb3c431bf71f3067feb9ba7cec0a4c7.xlsx_9a6e117e", "row": 15, "col": 1, "corrected_value": "Other Waiver"}
+{"dataset": "0cb0363a3fb3c431bf71f3067feb9ba7cec0a4c7.xlsx_9a6e117e", "row": 19, "col": 1, "corrected_value": "Sale of Surplus Property"}
+{"dataset": "0cb0363a3fb3c431bf71f3067feb9ba7cec0a4c7.xlsx_9a6e117e", "row": 22, "col": 1, "corrected_value": "Elimination of Election Requirement"}
+{"dataset": "0cb0363a3fb3c431bf71f3067feb9ba7cec0a4c7.xlsx_9a6e117e", "row": 23, "col": 1, "corrected_value": "Elimination of Election Requirement"}
+{"dataset": "0cb0363a3fb3c431bf71f3067feb9ba7cec0a4c7.xlsx_9a6e117e", "row": 25, "col": 1, "corrected_value": "Shared Schoolsite Council with Reduced Number and Composition"}
+{"dataset": "0cb0363a3fb3c431bf71f3067feb9ba7cec0a4c7.xlsx_9a6e117e", "row": 27, "col": 1, "corrected_value": "Resource Teacher Caseload"}
+{"dataset": "0cb0363a3fb3c431bf71f3067feb9ba7cec0a4c7.xlsx_9a6e117e", "row": 28, "col": 1, "corrected_value": "Resource Teacher Caseload"}
+{"dataset": "0cb0363a3fb3c431bf71f3067feb9ba7cec0a4c7.xlsx_9a6e117e", "row": 29, "col": 1, "corrected_value": "Resource Teacher Caseload"}
+{"dataset": "0cb0363a3fb3c431bf71f3067feb9ba7cec0a4c7.xlsx_9a6e117e", "row": 30, "col": 1, "corrected_value": "Resource Teacher Caseload"}
+{"dataset": "0cb0363a3fb3c431bf71f3067feb9ba7cec0a4c7.xlsx_9a6e117e", "row": 32, "col": 1, "corrected_value": "Resource Teacher Caseload"}
+{"dataset": "0cb0363a3fb3c431bf71f3067feb9ba7cec0a4c7.xlsx_9a6e117e", "row": 34, "col": 1, "corrected_value": "CAASPP"}
+{"dataset": "0d8d4e5610ffb4315fd0f7c48b558a264c9a3ce2.xlsx_24eb0a4d", "row": 12, "col": 2, "corrected_value": "LAKESIDE SCHOOL DISTRICT(GARLAND)"}
+{"dataset": "0d8d4e5610ffb4315fd0f7c48b558a264c9a3ce2.xlsx_24eb0a4d", "row": 19, "col": 2, "corrected_value": "SOUTH SIDE SCHOOL DISTRICT(VANBUREN)"}
+{"dataset": "0d8d4e5610ffb4315fd0f7c48b558a264c9a3ce2.xlsx_24eb0a4d", "row": 44, "col": 2, "corrected_value": "MAGNET COVE SCHOOL DISTRICT"}
+{"dataset": "0d8d4e5610ffb4315fd0f7c48b558a264c9a3ce2.xlsx_24eb0a4d", "row": 60, "col": 2, "corrected_value": "WESTSIDE SCHOOL DISTRICT(JOHNSON)"}
+{"dataset": "11a642cd969cdc1beb5f25755604d6e8c0620eab.xlsx_f87b5ebc", "row": 0, "col": 2, "corrected_value": "$3.00 per vehicle"}
+{"dataset": "11a642cd969cdc1beb5f25755604d6e8c0620eab.xlsx_f87b5ebc", "row": 1, "col": 2, "corrected_value": "$3.00 per vehicle"}
+{"dataset": "11a642cd969cdc1beb5f25755604d6e8c0620eab.xlsx_f87b5ebc", "row": 2, "col": 2, "corrected_value": "$3.00 per vehicle"}
+{"dataset": "11a642cd969cdc1beb5f25755604d6e8c0620eab.xlsx_f87b5ebc", "row": 4, "col": 2, "corrected_value": "$3.00 per vehicle"}
+{"dataset": "11a642cd969cdc1beb5f25755604d6e8c0620eab.xlsx_f87b5ebc", "row": 6, "col": 2, "corrected_value": "?"}
+{"dataset": "11a642cd969cdc1beb5f25755604d6e8c0620eab.xlsx_f87b5ebc", "row": 6, "col": 3, "corrected_value": "Open All Year"}
+{"dataset": "11a642cd969cdc1beb5f25755604d6e8c0620eab.xlsx_f87b5ebc", "row": 7, "col": 2, "corrected_value": "$30.00 (1 - 40 people) $3.00 day use per vehicle"}
+{"dataset": "11a642cd969cdc1beb5f25755604d6e8c0620eab.xlsx_f87b5ebc", "row": 7, "col": 3, "corrected_value": "March 1 - Dec. 1"}
+{"dataset": "11a642cd969cdc1beb5f25755604d6e8c0620eab.xlsx_f87b5ebc", "row": 8, "col": 2, "corrected_value": "$3.00 per vehicle"}
+{"dataset": "12385f103f7424a7dc65e57f693fed6bd6661479.xlsx_dfd59722", "row": 5, "col": 0, "corrected_value": "Westbrook Regional Technology Ctr"}
+{"dataset": "1964e33cd62eb015498dae25408fa40946153179.xlsx_d4ab505d", "row": 0, "col": 6, "corrected_value": "Cable Repair/ Maintenance"}
+{"dataset": "1964e33cd62eb015498dae25408fa40946153179.xlsx_d4ab505d", "row": 1, "col": 6, "corrected_value": "Cable Repair/ Maintenance"}
+{"dataset": "1964e33cd62eb015498dae25408fa40946153179.xlsx_d4ab505d", "row": 2, "col": 6, "corrected_value": "Cable Repair/ Maintenance"}
+{"dataset": "1964e33cd62eb015498dae25408fa40946153179.xlsx_d4ab505d", "row": 8, "col": 6, "corrected_value": "Cable Repair/ Maintenance"}
+{"dataset": "1964e33cd62eb015498dae25408fa40946153179.xlsx_d4ab505d", "row": 9, "col": 6, "corrected_value": "Cable Repair/ Maintenance"}
+{"dataset": "1964e33cd62eb015498dae25408fa40946153179.xlsx_d4ab505d", "row": 10, "col": 6, "corrected_value": "Cable Repair/ Maintenance"}
+{"dataset": "1964e33cd62eb015498dae25408fa40946153179.xlsx_d4ab505d", "row": 25, "col": 6, "corrected_value": "Cable Repair/ Maintenance"}
+{"dataset": "1964e33cd62eb015498dae25408fa40946153179.xlsx_d4ab505d", "row": 26, "col": 6, "corrected_value": "Cable Repair/ Maintenance"}
+{"dataset": "1982cc6d3ac0c8fbce93b4abecec04aa90836528.xlsx_6440763e", "row": 4, "col": 0, "corrected_value": "University of Louisiana Monroe-High School Equivalency Program"}
+{"dataset": "1b79fe16b0b654a93e988224b96049cc14bdfa33.xlsx_0796592c", "row": 6, "col": 0, "corrected_value": "n/a"}
+{"dataset": "1b79fe16b0b654a93e988224b96049cc14bdfa33.xlsx_0796592c", "row": 6, "col": 2, "corrected_value": "n/a"}
+{"dataset": "1da46566d4f8dc14824a84a079f4615e63c26af2.xlsx_8cb76d75", "row": 0, "col": 4, "corrected_value": "New project"}
+{"dataset": "210624471_Eskom_Efficiencies", "row": 12, "col": 0, "corrected_value": "Ankerlig (in Atlantis)"}
+{"dataset": "210624471_Eskom_Efficiencies", "row": 13, "col": 0, "corrected_value": "Camden"}
+{"dataset": "210624471_Eskom_Efficiencies", "row": 14, "col": 0, "corrected_value": "Ankerlig (in Atlantis)"}
+{"dataset": "210624471_Eskom_Efficiencies", "row": 15, "col": 0, "corrected_value": "Ankerlig (in Atlantis)"}
+{"dataset": "210624471_Eskom_Efficiencies", "row": 16, "col": 0, "corrected_value": "Ankerlig (in Atlantis)"}
+{"dataset": "210624471_Eskom_Efficiencies", "row": 17, "col": 0, "corrected_value": "Ankerlig (in Atlantis)"}
+{"dataset": "210624471_Eskom_Efficiencies", "row": 19, "col": 0, "corrected_value": "Ankerlig (in Atlantis)"}
+{"dataset": "210624471_Eskom_Efficiencies", "row": 20, "col": 0, "corrected_value": "Ankerlig (in Atlantis)"}
+{"dataset": "210624471_Eskom_Efficiencies", "row": 21, "col": 0, "corrected_value": "Ankerlig (in Atlantis)"}
+{"dataset": "210624471_Eskom_Efficiencies", "row": 22, "col": 0, "corrected_value": "Ankerlig (in Atlantis)"}
+{"dataset": "210624471_Eskom_Efficiencies", "row": 23, "col": 0, "corrected_value": "Ankerlig (in Atlantis)"}
+{"dataset": "210624471_Eskom_Efficiencies", "row": 25, "col": 0, "corrected_value": "Ankerlig (in Atlantis)"}
+{"dataset": "210624471_Eskom_Efficiencies", "row": 26, "col": 0, "corrected_value": "Ankerlig (in Atlantis)"}
+{"dataset": "210624471_Eskom_Efficiencies", "row": 27, "col": 0, "corrected_value": "Ankerlig (in Atlantis)"}
+{"dataset": "210624471_Eskom_Efficiencies", "row": 28, "col": 0, "corrected_value": "Ankerlig (in Atlantis)"}
+{"dataset": "210624471_Eskom_Efficiencies", "row": 29, "col": 0, "corrected_value": "Ankerlig (in Atlantis)"}
+{"dataset": "210624471_Eskom_Efficiencies", "row": 30, "col": 0, "corrected_value": "Ankerlig (in Atlantis)"}
+{"dataset": "219172418_Defect", "row": 1, "col": 0, "corrected_value": "null"}
+{"dataset": "219172418_Defect", "row": 1, "col": 1, "corrected_value": "null"}
+{"dataset": "219172418_Defect", "row": 50, "col": 0, "corrected_value": "null"}
+{"dataset": "219172418_Defect", "row": 50, "col": 1, "corrected_value": "null"}
+{"dataset": "219172418_Defect", "row": 71, "col": 0, "corrected_value": "null"}
+{"dataset": "219172418_Defect", "row": 71, "col": 1, "corrected_value": "null"}
+{"dataset": "221684615_ThirdParty_Domain_Service", "row": 32, "col": 2, "corrected_value": "powerbi-service"}
+{"dataset": "245366646_Table", "row": 6, "col": 1, "corrected_value": "Subscription_Service Act_QFTR"}
+{"dataset": "245366646_Table", "row": 16, "col": 1, "corrected_value": "Subscription_Service Act_QFTR"}
+{"dataset": "252479847_DimDate", "row": 0, "col": 8, "corrected_value": "Wednesday"}
+{"dataset": "252479847_DimDate", "row": 2, "col": 8, "corrected_value": "Wednesday"}
+{"dataset": "252479847_DimDate", "row": 5, "col": 8, "corrected_value": "Wednesday"}
+{"dataset": "252479847_DimDate", "row": 11, "col": 8, "corrected_value": "Wednesday"}
+{"dataset": "252479847_DimDate", "row": 13, "col": 8, "corrected_value": "Wednesday"}
+{"dataset": "252479847_DimDate", "row": 29, "col": 8, "corrected_value": "Wednesday"}
+{"dataset": "252479847_DimDate", "row": 32, "col": 8, "corrected_value": "Wednesday"}
+{"dataset": "252479847_DimDate", "row": 35, "col": 8, "corrected_value": "Wednesday"}
+{"dataset": "252479847_DimDate", "row": 53, "col": 8, "corrected_value": "Wednesday"}
+{"dataset": "252479847_DimDate", "row": 63, "col": 8, "corrected_value": "Wednesday"}
+{"dataset": "252479847_DimDate", "row": 68, "col": 8, "corrected_value": "Wednesday"}
+{"dataset": "252479847_DimDate", "row": 85, "col": 8, "corrected_value": "Wednesday"}
+{"dataset": "252479847_DimDate", "row": 89, "col": 8, "corrected_value": "Wednesday"}
+{"dataset": "252479847_DimDate", "row": 91, "col": 8, "corrected_value": "Wednesday"}
+{"dataset": "252479847_DimDate", "row": 99, "col": 8, "corrected_value": "Wednesday"}
+{"dataset": "252c0cf066293f965eaaa10d419146612502d479.xlsx_84e3d07a", "row": 2, "col": 1, "corrected_value": "Trans to Non WCC Special Sch"}
+{"dataset": "252c0cf066293f965eaaa10d419146612502d479.xlsx_84e3d07a", "row": 3, "col": 6, "corrected_value": "8/23/2019"}
+{"dataset": "252c0cf066293f965eaaa10d419146612502d479.xlsx_84e3d07a", "row": 4, "col": 6, "corrected_value": "8/23/2019"}
+{"dataset": "252c0cf066293f965eaaa10d419146612502d479.xlsx_84e3d07a", "row": 5, "col": 6, "corrected_value": "8/23/2019"}
+{"dataset": "252c0cf066293f965eaaa10d419146612502d479.xlsx_84e3d07a", "row": 13, "col": 2, "corrected_value": "WYCHAVON DISTRICT COUNCIL"}
+{"dataset": "252c0cf066293f965eaaa10d419146612502d479.xlsx_84e3d07a", "row": 20, "col": 1, "corrected_value": "Trans to Non WCC Special Sch"}
+{"dataset": "252c0cf066293f965eaaa10d419146612502d479.xlsx_84e3d07a", "row": 20, "col": 6, "corrected_value": "8/2/2019"}
+{"dataset": "252c0cf066293f965eaaa10d419146612502d479.xlsx_84e3d07a", "row": 28, "col": 2, "corrected_value": "WYCHAVON DISTRICT COUNCIL"}
+{"dataset": "252c0cf066293f965eaaa10d419146612502d479.xlsx_84e3d07a", "row": 59, "col": 6, "corrected_value": "8/16/2019"}
+{"dataset": "252c0cf066293f965eaaa10d419146612502d479.xlsx_84e3d07a", "row": 62, "col": 6, "corrected_value": "8/23/2019"}
+{"dataset": "252c0cf066293f965eaaa10d419146612502d479.xlsx_84e3d07a", "row": 64, "col": 6, "corrected_value": "8/13/2019"}
+{"dataset": "252c0cf066293f965eaaa10d419146612502d479.xlsx_84e3d07a", "row": 65, "col": 6, "corrected_value": "8/23/2019"}
+{"dataset": "252c0cf066293f965eaaa10d419146612502d479.xlsx_84e3d07a", "row": 67, "col": 6, "corrected_value": "8/2/2019"}
+{"dataset": "252c0cf066293f965eaaa10d419146612502d479.xlsx_84e3d07a", "row": 68, "col": 6, "corrected_value": "8/23/2019"}
+{"dataset": "252c0cf066293f965eaaa10d419146612502d479.xlsx_84e3d07a", "row": 69, "col": 6, "corrected_value": "8/23/2019"}
+{"dataset": "252c0cf066293f965eaaa10d419146612502d479.xlsx_84e3d07a", "row": 71, "col": 6, "corrected_value": "8/6/2019"}
+{"dataset": "252c0cf066293f965eaaa10d419146612502d479.xlsx_84e3d07a", "row": 74, "col": 6, "corrected_value": "8/23/2019"}
+{"dataset": "252c0cf066293f965eaaa10d419146612502d479.xlsx_84e3d07a", "row": 75, "col": 6, "corrected_value": "8/23/2019"}
+{"dataset": "252c0cf066293f965eaaa10d419146612502d479.xlsx_84e3d07a", "row": 76, "col": 6, "corrected_value": "8/23/2019"}
+{"dataset": "252c0cf066293f965eaaa10d419146612502d479.xlsx_84e3d07a", "row": 83, "col": 6, "corrected_value": "8/23/2019"}
+{"dataset": "252c0cf066293f965eaaa10d419146612502d479.xlsx_84e3d07a", "row": 84, "col": 6, "corrected_value": "8/23/2019"}
+{"dataset": "252c0cf066293f965eaaa10d419146612502d479.xlsx_84e3d07a", "row": 85, "col": 6, "corrected_value": "8/23/2019"}
+{"dataset": "252c0cf066293f965eaaa10d419146612502d479.xlsx_84e3d07a", "row": 89, "col": 4, "corrected_value": "Independent Fostering"}
+{"dataset": "252c0cf066293f965eaaa10d419146612502d479.xlsx_84e3d07a", "row": 90, "col": 4, "corrected_value": "Independent Fostering"}
+{"dataset": "252c0cf066293f965eaaa10d419146612502d479.xlsx_84e3d07a", "row": 91, "col": 4, "corrected_value": "Independent Fostering"}
+{"dataset": "252c0cf066293f965eaaa10d419146612502d479.xlsx_84e3d07a", "row": 96, "col": 6, "corrected_value": "8/23/2019"}
+{"dataset": "252c0cf066293f965eaaa10d419146612502d479.xlsx_84e3d07a", "row": 97, "col": 6, "corrected_value": "8/6/2019"}
+{"dataset": "252c0cf066293f965eaaa10d419146612502d479.xlsx_84e3d07a", "row": 98, "col": 6, "corrected_value": "8/20/2019"}
+{"dataset": "252c0cf066293f965eaaa10d419146612502d479.xlsx_a8b6d89f", "row": 3, "col": 3, "corrected_value": "AMUSEMENT PARKS, CARNIVALS, CIRCUS, FORTUNE TELLERS"}
+{"dataset": "252c0cf066293f965eaaa10d419146612502d479.xlsx_a8b6d89f", "row": 6, "col": 3, "corrected_value": "BOOKS, PERIODICALS AND NEWSPAPERS"}
+{"dataset": "252c0cf066293f965eaaa10d419146612502d479.xlsx_a8b6d89f", "row": 9, "col": 3, "corrected_value": "CLUBS-CNTRY,MBRSHIP(ATHLET,REC,SPRTS,PRIVATE GOLF)"}
+{"dataset": "252c0cf066293f965eaaa10d419146612502d479.xlsx_a8b6d89f", "row": 10, "col": 3, "corrected_value": "CLUBS-CNTRY,MBRSHIP(ATHLET,REC,SPRTS,PRIVATE GOLF)"}
+{"dataset": "252c0cf066293f965eaaa10d419146612502d479.xlsx_a8b6d89f", "row": 11, "col": 3, "corrected_value": "COMPUTER PROGRAMMING, DATA PROCESSING, INTEGRATED SYSTEMS DESIGN SERVICES"}
+{"dataset": "252c0cf066293f965eaaa10d419146612502d479.xlsx_a8b6d89f", "row": 12, "col": 3, "corrected_value": "COMP PROGRAMMING,DATA PRCSNG,INTGRTD SYS DSGN SRVS"}
+{"dataset": "252c0cf066293f965eaaa10d419146612502d479.xlsx_a8b6d89f", "row": 19, "col": 3, "corrected_value": "CONTRACTORS, SPECIAL TRADE-NOT ELSEWHERE CLASSIFIED"}
+{"dataset": "252c0cf066293f965eaaa10d419146612502d479.xlsx_a8b6d89f", "row": 37, "col": 3, "corrected_value": "EQUIPMENT RENTAL & LEASING SVS, FURNITURE/TOOL RENTAL"}
+{"dataset": "256112560_Rates", "row": 0, "col": 2, "corrected_value": "United States"}
+{"dataset": "256112560_Rates", "row": 1, "col": 2, "corrected_value": "United States"}
+{"dataset": "256112560_Rates", "row": 2, "col": 2, "corrected_value": "United States"}
+{"dataset": "256112560_Rates", "row": 3, "col": 2, "corrected_value": "United States"}
+{"dataset": "25acc70d42668eaba1e7d71792feae8f415d5d6c.xlsx_5636dc3e", "row": 13, "col": 0, "corrected_value": "null"}
+{"dataset": "25acc70d42668eaba1e7d71792feae8f415d5d6c.xlsx_5636dc3e", "row": 14, "col": 0, "corrected_value": "null"}
+{"dataset": "25acc70d42668eaba1e7d71792feae8f415d5d6c.xlsx_5636dc3e", "row": 15, "col": 0, "corrected_value": "null"}
+{"dataset": "25acc70d42668eaba1e7d71792feae8f415d5d6c.xlsx_5636dc3e", "row": 17, "col": 0, "corrected_value": "null"}
+{"dataset": "261928107_Sales", "row": 3, "col": 0, "corrected_value": "United States"}
+{"dataset": "261928107_Sales", "row": 20, "col": 0, "corrected_value": "United States"}
+{"dataset": "276877534_data", "row": 51, "col": 4, "corrected_value": "web-technology"}
+{"dataset": "276877534_data", "row": 61, "col": 4, "corrected_value": "web-technology"}
+{"dataset": "276877534_data", "row": 88, "col": 4, "corrected_value": "web-technology"}
+{"dataset": "276877534_data", "row": 91, "col": 4, "corrected_value": "web-technology"}
+{"dataset": "276877534_data", "row": 92, "col": 4, "corrected_value": "web-technology"}
+{"dataset": "276877534_data", "row": 94, "col": 4, "corrected_value": "web-technology"}
+{"dataset": "276877534_data", "row": 95, "col": 4, "corrected_value": "web-technology"}
+{"dataset": "276877534_data", "row": 96, "col": 4, "corrected_value": "web-technology"}
+{"dataset": "276877534_data", "row": 97, "col": 4, "corrected_value": "web-technology"}
+{"dataset": "276877534_data", "row": 99, "col": 4, "corrected_value": "web-technology"}
+{"dataset": "277653279_DimGeography", "row": 75, "col": 0, "corrected_value": "Chalk River"}
+{"dataset": "291594352_RecruitmentSource", "row": 21, "col": 1, "corrected_value": "null"}
+{"dataset": "299145221_Outage_Circuit", "row": 80, "col": 1, "corrected_value": "null"}
+{"dataset": "299145221_Outage_Circuit", "row": 80, "col": 2, "corrected_value": "null"}
+{"dataset": "29eeac80fcbd5379f89087d8cbf25d04c460a307.xlsx_9026a90d", "row": 17, "col": 10, "corrected_value": "NULL"}
+{"dataset": "29eeac80fcbd5379f89087d8cbf25d04c460a307.xlsx_9026a90d", "row": 24, "col": 10, "corrected_value": "NULL"}
+{"dataset": "29eeac80fcbd5379f89087d8cbf25d04c460a307.xlsx_9026a90d", "row": 25, "col": 10, "corrected_value": "NULL"}
+{"dataset": "29eeac80fcbd5379f89087d8cbf25d04c460a307.xlsx_9026a90d", "row": 26, "col": 10, "corrected_value": "NULL"}
+{"dataset": "29eeac80fcbd5379f89087d8cbf25d04c460a307.xlsx_9026a90d", "row": 27, "col": 10, "corrected_value": "NULL"}
+{"dataset": "2a377df7888fdd9fad48d7f32dadb6897615febf.xlsx_6a59d893", "row": 17, "col": 0, "corrected_value": "null"}
+{"dataset": "2a377df7888fdd9fad48d7f32dadb6897615febf.xlsx_6a59d893", "row": 27, "col": 0, "corrected_value": "null"}
+{"dataset": "2a98e20284fb6c524e7e1e4ece809f6d4a867cfa.xlsx_29abb022", "row": 32, "col": 5, "corrected_value": "St. Thomas Cardinals"}
+{"dataset": "2b9ac2da58d46228f9fbcfb91bd204aa8b030881.xlsx_6e738e10", "row": 0, "col": 0, "corrected_value": "Syringes 10ml for dilution YF/Meningitis"}
+{"dataset": "2b9ac2da58d46228f9fbcfb91bd204aa8b030881.xlsx_6e738e10", "row": 1, "col": 0, "corrected_value": "Syringes 10ml for dilution YF/Meningitis"}
+{"dataset": "2b9ac2da58d46228f9fbcfb91bd204aa8b030881.xlsx_6e738e10", "row": 2, "col": 0, "corrected_value": "Syringes 10ml for dilution YF/Meningitis"}
+{"dataset": "2b9ac2da58d46228f9fbcfb91bd204aa8b030881.xlsx_6e738e10", "row": 3, "col": 0, "corrected_value": "Syringes 10ml for dilution YF/Meningitis"}
+{"dataset": "2b9ac2da58d46228f9fbcfb91bd204aa8b030881.xlsx_6e738e10", "row": 4, "col": 0, "corrected_value": "?"}
+{"dataset": "2b9ac2da58d46228f9fbcfb91bd204aa8b030881.xlsx_6e738e10", "row": 5, "col": 0, "corrected_value": "?"}
+{"dataset": "2b9ac2da58d46228f9fbcfb91bd204aa8b030881.xlsx_6e738e10", "row": 6, "col": 0, "corrected_value": "Syringes 10ml for dilution YF/Meningitis"}
+{"dataset": "2b9ac2da58d46228f9fbcfb91bd204aa8b030881.xlsx_6e738e10", "row": 7, "col": 0, "corrected_value": "?"}
+{"dataset": "2b9ac2da58d46228f9fbcfb91bd204aa8b030881.xlsx_6e738e10", "row": 8, "col": 0, "corrected_value": "?"}
+{"dataset": "300169893_summary", "row": 2, "col": 1, "corrected_value": "Sept"}
+{"dataset": "300169893_summary", "row": 4, "col": 1, "corrected_value": "Sept"}
+{"dataset": "300169893_summary", "row": 20, "col": 1, "corrected_value": "Sept"}
+{"dataset": "300169893_summary", "row": 25, "col": 1, "corrected_value": "Sept"}
+{"dataset": "300169893_summary", "row": 28, "col": 1, "corrected_value": "Sept"}
+{"dataset": "300169893_summary", "row": 32, "col": 1, "corrected_value": "Sept"}
+{"dataset": "300169893_summary", "row": 42, "col": 1, "corrected_value": "Sept"}
+{"dataset": "300169893_summary", "row": 68, "col": 1, "corrected_value": "Sept"}
+{"dataset": "300169893_summary", "row": 73, "col": 1, "corrected_value": "Sept"}
+{"dataset": "300169893_summary", "row": 83, "col": 1, "corrected_value": "Sept"}
+{"dataset": "300169893_summary", "row": 85, "col": 1, "corrected_value": "Sept"}
+{"dataset": "306564866_Tabla_Finanzas", "row": 13, "col": 0, "corrected_value": "Cookie Dough - Oatmeal Raisin"}
+{"dataset": "306564866_Tabla_Finanzas", "row": 26, "col": 0, "corrected_value": "Pepper - Serrano"}
+{"dataset": "306564866_Tabla_Finanzas", "row": 38, "col": 0, "corrected_value": "White (Bianco) Truffle Oil 250 ml"}
+{"dataset": "306564866_Tabla_Finanzas", "row": 55, "col": 0, "corrected_value": "Cookie Dough - Oatmeal Raisin"}
+{"dataset": "306564866_Tabla_Finanzas", "row": 71, "col": 0, "corrected_value": "Ice Cream Bar - Haagen Dazs"}
+{"dataset": "306564866_Tabla_Finanzas", "row": 80, "col": 0, "corrected_value": "Wine - Red, Mateus Rose"}
+{"dataset": "312172209_Table", "row": 0, "col": 7, "corrected_value": "Mar"}
+{"dataset": "312172209_Table", "row": 3, "col": 7, "corrected_value": "Jun"}
+{"dataset": "312172209_Table", "row": 7, "col": 7, "corrected_value": "Nov"}
+{"dataset": "322444589_GST", "row": 50, "col": 2, "corrected_value": "income tax"}
+{"dataset": "322444589_GST", "row": 57, "col": 2, "corrected_value": "income tax"}
+{"dataset": "322444589_GST", "row": 58, "col": 2, "corrected_value": "income tax"}
+{"dataset": "322444589_GST", "row": 65, "col": 2, "corrected_value": "income tax"}
+{"dataset": "322444589_GST", "row": 82, "col": 2, "corrected_value": "income tax"}
+{"dataset": "322444589_GST", "row": 95, "col": 2, "corrected_value": "income tax"}
+{"dataset": "322444589_PMP", "row": 5, "col": 2, "corrected_value": "SSGB"}
+{"dataset": "322444589_PMP", "row": 15, "col": 2, "corrected_value": "CDTP"}
+{"dataset": "322444589_PMP", "row": 61, "col": 2, "corrected_value": "Business Intelligence"}
+{"dataset": "322444589_PMP", "row": 62, "col": 2, "corrected_value": "IFRS"}
+{"dataset": "322444589_PMP", "row": 63, "col": 2, "corrected_value": "IFRS"}
+{"dataset": "322444589_PMP", "row": 64, "col": 2, "corrected_value": "null"}
+{"dataset": "322444589_PMP", "row": 65, "col": 2, "corrected_value": "PMP"}
+{"dataset": "322444589_PMP", "row": 67, "col": 2, "corrected_value": "PMP"}
+{"dataset": "322444589_PMP", "row": 70, "col": 2, "corrected_value": "null"}
+{"dataset": "322444589_PMP", "row": 71, "col": 2, "corrected_value": "IFRS"}
+{"dataset": "322444589_PMP", "row": 72, "col": 2, "corrected_value": "IFRS"}
+{"dataset": "322444589_PMP", "row": 73, "col": 2, "corrected_value": "IFRS"}
+{"dataset": "322444589_PMP", "row": 75, "col": 2, "corrected_value": "PMP"}
+{"dataset": "322444589_PMP", "row": 76, "col": 2, "corrected_value": "PMP"}
+{"dataset": "322444589_PMP", "row": 79, "col": 2, "corrected_value": "CAPM + GB"}
+{"dataset": "322444589_PMP", "row": 80, "col": 2, "corrected_value": "PMP"}
+{"dataset": "322444589_PMP", "row": 81, "col": 2, "corrected_value": "PMP"}
+{"dataset": "322444589_PMP", "row": 82, "col": 2, "corrected_value": "Content writting"}
+{"dataset": "322444589_PMP", "row": 84, "col": 2, "corrected_value": "IFRS"}
+{"dataset": "322444589_PMP", "row": 90, "col": 2, "corrected_value": "IFRS"}
+{"dataset": "322444589_PMP", "row": 91, "col": 2, "corrected_value": "CDTP"}
+{"dataset": "328788422_Table3", "row": 9, "col": 1, "corrected_value": "null"}
+{"dataset": "339097546_Store_Info", "row": 15, "col": 1, "corrected_value": "Reverse inattentive expertise"}
+{"dataset": "39299d49b7f359bd4c61cd06e59130dc0b0e5c60.xlsx_d5c6fcd4", "row": 10, "col": 0, "corrected_value": "Payment from CCA due to TTO"}
+{"dataset": "39299d49b7f359bd4c61cd06e59130dc0b0e5c60.xlsx_d5c6fcd4", "row": 11, "col": 0, "corrected_value": "Payment from CCA due to TTO"}
+{"dataset": "39299d49b7f359bd4c61cd06e59130dc0b0e5c60.xlsx_d5c6fcd4", "row": 13, "col": 0, "corrected_value": "Payment from CCA due to TTO"}
+{"dataset": "39299d49b7f359bd4c61cd06e59130dc0b0e5c60.xlsx_d5c6fcd4", "row": 21, "col": 0, "corrected_value": "Thereof general cash reserve"}
+{"dataset": "39299d49b7f359bd4c61cd06e59130dc0b0e5c60.xlsx_d5c6fcd4", "row": 22, "col": 0, "corrected_value": "Payment from CCA due to TTO"}
+{"dataset": "40365a6705b822b2cdbe7a231ec5dda408932ecd.xlsx_1137a161", "row": 1, "col": 2, "corrected_value": "Unilever N.V. and Unilever PLC"}
+{"dataset": "40365a6705b822b2cdbe7a231ec5dda408932ecd.xlsx_1137a161", "row": 6, "col": 2, "corrected_value": "Afrimat Aggregates Operations (Pty) Ltd"}
+{"dataset": "40365a6705b822b2cdbe7a231ec5dda408932ecd.xlsx_1137a161", "row": 7, "col": 1, "corrected_value": "LEGACY AUTO PROPRIETARY LIMITED in respect of A BMW motor dealership"}
+{"dataset": "40365a6705b822b2cdbe7a231ec5dda408932ecd.xlsx_1137a161", "row": 11, "col": 1, "corrected_value": "Compagnie Generale Des Etablissements Michelin"}
+{"dataset": "40365a6705b822b2cdbe7a231ec5dda408932ecd.xlsx_1137a161", "row": 13, "col": 1, "corrected_value": "Masana Petroleum Solutions (Proprietary)"}
+{"dataset": "40365a6705b822b2cdbe7a231ec5dda408932ecd.xlsx_1137a161", "row": 13, "col": 2, "corrected_value": "BP Southern Africa (Proprietary) Limited Reseller Business"}
+{"dataset": "40365a6705b822b2cdbe7a231ec5dda408932ecd.xlsx_1137a161", "row": 19, "col": 1, "corrected_value": "RCL Foods Sugar and Milling Proprietary Limited"}
+{"dataset": "40365a6705b822b2cdbe7a231ec5dda408932ecd.xlsx_1137a161", "row": 19, "col": 2, "corrected_value": "Johanned Benjamin van der Merwe trading Driehoek Voere and Two (2) others as per schedule 1(2.1)"}
+{"dataset": "40365a6705b822b2cdbe7a231ec5dda408932ecd.xlsx_1137a161", "row": 23, "col": 1, "corrected_value": "The Trustee for the time being of the Balde Trust"}
+{"dataset": "40365a6705b822b2cdbe7a231ec5dda408932ecd.xlsx_1137a161", "row": 31, "col": 2, "corrected_value": "Lonmin Plc"}
+{"dataset": "40365a6705b822b2cdbe7a231ec5dda408932ecd.xlsx_1137a161", "row": 34, "col": 1, "corrected_value": "Robertsons Holdings Proprietary Limited"}
+{"dataset": "40365a6705b822b2cdbe7a231ec5dda408932ecd.xlsx_1137a161", "row": 36, "col": 2, "corrected_value": "Mapochs Mine (Pty) Ltd (in provisional liquidation)"}
+{"dataset": "40365a6705b822b2cdbe7a231ec5dda408932ecd.xlsx_1137a161", "row": 39, "col": 1, "corrected_value": "The Beverage Company Bidco Proprietary Limited"}
+{"dataset": "41060956386910a5ea360d5bbccdd4b905d8076c.xlsx_5c814196", "row": 12, "col": 1, "corrected_value": "Allan Gray Australia Equity Fund-Class B"}
+{"dataset": "41060956386910a5ea360d5bbccdd4b905d8076c.xlsx_5c814196", "row": 20, "col": 5, "corrected_value": "Property"}
+{"dataset": "41060956386910a5ea360d5bbccdd4b905d8076c.xlsx_5c814196", "row": 31, "col": 5, "corrected_value": "Property"}
+{"dataset": "41060956386910a5ea360d5bbccdd4b905d8076c.xlsx_5c814196", "row": 34, "col": 1, "corrected_value": "UBS Diversified Fixed Interest"}
+{"dataset": "41de56bafbff8e0b844f463b5300aa18df1fb8de.xlsx_9f3733c7", "row": 3, "col": 1, "corrected_value": "Selwyn Aquatic Centrel"}
+{"dataset": "41de56bafbff8e0b844f463b5300aa18df1fb8de.xlsx_9f3733c7", "row": 7, "col": 1, "corrected_value": "Selwyn Aquatic Centrel"}
+{"dataset": "41de56bafbff8e0b844f463b5300aa18df1fb8de.xlsx_9f3733c7", "row": 8, "col": 1, "corrected_value": "Selwyn Aquatic Centrel"}
+{"dataset": "41de56bafbff8e0b844f463b5300aa18df1fb8de.xlsx_9f3733c7", "row": 12, "col": 1, "corrected_value": "Selwyn Aquatic Centrel"}
+{"dataset": "41de56bafbff8e0b844f463b5300aa18df1fb8de.xlsx_9f3733c7", "row": 12, "col": 10, "corrected_value": "Southland"}
+{"dataset": "41de56bafbff8e0b844f463b5300aa18df1fb8de.xlsx_9f3733c7", "row": 13, "col": 1, "corrected_value": "?"}
+{"dataset": "41de56bafbff8e0b844f463b5300aa18df1fb8de.xlsx_9f3733c7", "row": 13, "col": 3, "corrected_value": "Rolleston"}
+{"dataset": "41de56bafbff8e0b844f463b5300aa18df1fb8de.xlsx_9f3733c7", "row": 14, "col": 1, "corrected_value": "Selwyn Aquatic Centrel"}
+{"dataset": "41de56bafbff8e0b844f463b5300aa18df1fb8de.xlsx_9f3733c7", "row": 15, "col": 11, "corrected_value": "Swimming Lessons"}
+{"dataset": "43d8a5ec63c16c45498cb9df5657867184e6236e.xlsx_4cbb36c8", "row": 0, "col": 11, "corrected_value": "Wheat, Soy, Milk"}
+{"dataset": "43d8a5ec63c16c45498cb9df5657867184e6236e.xlsx_4cbb36c8", "row": 2, "col": 11, "corrected_value": "Wheat, Soy, Milk"}
+{"dataset": "43d8a5ec63c16c45498cb9df5657867184e6236e.xlsx_4cbb36c8", "row": 6, "col": 11, "corrected_value": "Wheat, Soy, Milk"}
+{"dataset": "43d8a5ec63c16c45498cb9df5657867184e6236e.xlsx_4cbb36c8", "row": 7, "col": 11, "corrected_value": "Wheat, Soy, Milk"}
+{"dataset": "43d8a5ec63c16c45498cb9df5657867184e6236e.xlsx_4cbb36c8", "row": 15, "col": 11, "corrected_value": "Wheat, Soy, Milk"}
+{"dataset": "43d8a5ec63c16c45498cb9df5657867184e6236e.xlsx_4cbb36c8", "row": 16, "col": 11, "corrected_value": "Wheat, Soy, Milk"}
+{"dataset": "43d8a5ec63c16c45498cb9df5657867184e6236e.xlsx_4cbb36c8", "row": 19, "col": 11, "corrected_value": "Wheat, Soy, Milk"}
+{"dataset": "43d8a5ec63c16c45498cb9df5657867184e6236e.xlsx_4cbb36c8", "row": 21, "col": 11, "corrected_value": "Wheat, Soy, Milk"}
+{"dataset": "43d8a5ec63c16c45498cb9df5657867184e6236e.xlsx_4cbb36c8", "row": 37, "col": 11, "corrected_value": "Wheat, Soy, Milk"}
+{"dataset": "43d8a5ec63c16c45498cb9df5657867184e6236e.xlsx_4cbb36c8", "row": 38, "col": 11, "corrected_value": "Wheat, Soy, Milk"}
+{"dataset": "43d8a5ec63c16c45498cb9df5657867184e6236e.xlsx_4cbb36c8", "row": 45, "col": 11, "corrected_value": "Wheat, Soy, Milk"}
+{"dataset": "43d8a5ec63c16c45498cb9df5657867184e6236e.xlsx_4cbb36c8", "row": 49, "col": 11, "corrected_value": "Wheat, Soy, Milk"}
+{"dataset": "43d8a5ec63c16c45498cb9df5657867184e6236e.xlsx_4cbb36c8", "row": 52, "col": 11, "corrected_value": "Wheat, Soy, Milk"}
+{"dataset": "43d8a5ec63c16c45498cb9df5657867184e6236e.xlsx_4cbb36c8", "row": 55, "col": 11, "corrected_value": "Wheat, Soy, Milk"}
+{"dataset": "43d8a5ec63c16c45498cb9df5657867184e6236e.xlsx_4cbb36c8", "row": 60, "col": 11, "corrected_value": "Wheat, Soy, Milk"}
+{"dataset": "43d8a5ec63c16c45498cb9df5657867184e6236e.xlsx_4cbb36c8", "row": 63, "col": 11, "corrected_value": "Wheat, Soy, Milk"}
+{"dataset": "43d8a5ec63c16c45498cb9df5657867184e6236e.xlsx_4cbb36c8", "row": 88, "col": 11, "corrected_value": "Wheat, Soy, Milk"}
+{"dataset": "43d8a5ec63c16c45498cb9df5657867184e6236e.xlsx_4cbb36c8", "row": 92, "col": 11, "corrected_value": "Wheat, Soy, Milk"}
+{"dataset": "43d8a5ec63c16c45498cb9df5657867184e6236e.xlsx_4cbb36c8", "row": 96, "col": 11, "corrected_value": "Wheat, Soy, Milk"}
+{"dataset": "482b1a2eac210d4b8e712b5b141de2bb60d7aa1f.xlsx_69201d43", "row": 39, "col": 3, "corrected_value": "SPU - State General Allocation"}
+{"dataset": "482b1a2eac210d4b8e712b5b141de2bb60d7aa1f.xlsx_69201d43", "row": 41, "col": 3, "corrected_value": "SPU - State General Allocation"}
+{"dataset": "4b553bb5", "row": 58, "col": 0, "corrected_value": "null"}
+{"dataset": "4b553bb5", "row": 58, "col": 1, "corrected_value": "null"}
+{"dataset": "4f5f1031c4460bcee0ac3249d731cd721863e23e.xlsx_8c5161f8", "row": 15, "col": 1, "corrected_value": "West Valley-Mission"}
+{"dataset": "53ebed70ab483953aa3b509dfa37f76a5ddf5689.xlsx_d7fd8575", "row": 77, "col": 0, "corrected_value": "Professional and Technical Services"}
+{"dataset": "53ebed70ab483953aa3b509dfa37f76a5ddf5689.xlsx_d7fd8575", "row": 79, "col": 0, "corrected_value": "Management of Companies and Enterprises"}
+{"dataset": "53ebed70ab483953aa3b509dfa37f76a5ddf5689.xlsx_d7fd8575", "row": 84, "col": 0, "corrected_value": "Educational Services"}
+{"dataset": "541441bd20832d75fbcc184a4cbdbebfc7ec19e8.xlsx_7713c972", "row": 0, "col": 4, "corrected_value": "Cinnaminson Twp Sch Dist"}
+{"dataset": "541441bd20832d75fbcc184a4cbdbebfc7ec19e8.xlsx_7713c972", "row": 3, "col": 4, "corrected_value": "Cinnaminson Twp Sch Dist"}
+{"dataset": "541441bd20832d75fbcc184a4cbdbebfc7ec19e8.xlsx_7713c972", "row": 4, "col": 4, "corrected_value": "Wayne BOE"}
+{"dataset": "541441bd20832d75fbcc184a4cbdbebfc7ec19e8.xlsx_7713c972", "row": 5, "col": 4, "corrected_value": "Cinnaminson Twp Sch Dist"}
+{"dataset": "541441bd20832d75fbcc184a4cbdbebfc7ec19e8.xlsx_7713c972", "row": 8, "col": 4, "corrected_value": "Cinnaminson Twp Sch Dist"}
+{"dataset": "541441bd20832d75fbcc184a4cbdbebfc7ec19e8.xlsx_7713c972", "row": 17, "col": 4, "corrected_value": "South Plainfield BOE"}
+{"dataset": "541441bd20832d75fbcc184a4cbdbebfc7ec19e8.xlsx_7713c972", "row": 19, "col": 4, "corrected_value": "?"}
+{"dataset": "541441bd20832d75fbcc184a4cbdbebfc7ec19e8.xlsx_7713c972", "row": 22, "col": 4, "corrected_value": "NYCSSS-K203/995"}
+{"dataset": "541441bd20832d75fbcc184a4cbdbebfc7ec19e8.xlsx_7713c972", "row": 23, "col": 4, "corrected_value": "Cinnaminson Twp Sch Dist"}
+{"dataset": "541441bd20832d75fbcc184a4cbdbebfc7ec19e8.xlsx_7713c972", "row": 24, "col": 4, "corrected_value": "Cinnaminson Twp Sch Dist"}
+{"dataset": "541441bd20832d75fbcc184a4cbdbebfc7ec19e8.xlsx_7713c972", "row": 27, "col": 4, "corrected_value": "Cinnaminson Twp Sch Dist"}
+{"dataset": "541441bd20832d75fbcc184a4cbdbebfc7ec19e8.xlsx_7713c972", "row": 29, "col": 4, "corrected_value": "Cinnaminson Twp Sch Dist"}
+{"dataset": "541441bd20832d75fbcc184a4cbdbebfc7ec19e8.xlsx_7713c972", "row": 30, "col": 4, "corrected_value": "Cinnaminson Twp Sch Dist"}
+{"dataset": "541441bd20832d75fbcc184a4cbdbebfc7ec19e8.xlsx_7713c972", "row": 31, "col": 4, "corrected_value": "Cinnaminson Twp Sch Dist"}
+{"dataset": "541441bd20832d75fbcc184a4cbdbebfc7ec19e8.xlsx_7713c972", "row": 32, "col": 4, "corrected_value": "Cinnaminson Twp Sch Dist"}
+{"dataset": "541441bd20832d75fbcc184a4cbdbebfc7ec19e8.xlsx_7713c972", "row": 36, "col": 4, "corrected_value": "Summit Sch Dist"}
+{"dataset": "541441bd20832d75fbcc184a4cbdbebfc7ec19e8.xlsx_7713c972", "row": 38, "col": 4, "corrected_value": "Cinnaminson Twp Sch Dist"}
+{"dataset": "541441bd20832d75fbcc184a4cbdbebfc7ec19e8.xlsx_7713c972", "row": 39, "col": 4, "corrected_value": "NYCSSS-K203/995"}
+{"dataset": "541441bd20832d75fbcc184a4cbdbebfc7ec19e8.xlsx_7713c972", "row": 40, "col": 4, "corrected_value": "Cinnaminson Twp Sch Dist"}
+{"dataset": "541441bd20832d75fbcc184a4cbdbebfc7ec19e8.xlsx_7713c972", "row": 41, "col": 4, "corrected_value": "Middlesex BOE"}
+{"dataset": "541441bd20832d75fbcc184a4cbdbebfc7ec19e8.xlsx_7713c972", "row": 45, "col": 4, "corrected_value": "Cinnaminson Twp Sch Dist"}
+{"dataset": "541441bd20832d75fbcc184a4cbdbebfc7ec19e8.xlsx_7713c972", "row": 46, "col": 4, "corrected_value": "Cinnaminson Twp Sch Dist"}
+{"dataset": "541441bd20832d75fbcc184a4cbdbebfc7ec19e8.xlsx_7713c972", "row": 47, "col": 4, "corrected_value": "Penns Grove-Carney Pt Reg Sch Dist"}
+{"dataset": "541441bd20832d75fbcc184a4cbdbebfc7ec19e8.xlsx_7713c972", "row": 48, "col": 4, "corrected_value": "Cinnaminson Twp Sch Dist"}
+{"dataset": "541441bd20832d75fbcc184a4cbdbebfc7ec19e8.xlsx_7713c972", "row": 50, "col": 4, "corrected_value": "Cinnaminson Twp Sch Dist"}
+{"dataset": "541441bd20832d75fbcc184a4cbdbebfc7ec19e8.xlsx_7713c972", "row": 51, "col": 4, "corrected_value": "Cinnaminson Twp Sch Dist"}
+{"dataset": "541441bd20832d75fbcc184a4cbdbebfc7ec19e8.xlsx_7713c972", "row": 53, "col": 4, "corrected_value": "Cinnaminson Twp Sch Dist"}
+{"dataset": "541441bd20832d75fbcc184a4cbdbebfc7ec19e8.xlsx_7713c972", "row": 54, "col": 4, "corrected_value": "?"}
+{"dataset": "541441bd20832d75fbcc184a4cbdbebfc7ec19e8.xlsx_7713c972", "row": 55, "col": 4, "corrected_value": "Upper Deerfield Township Schools"}
+{"dataset": "541441bd20832d75fbcc184a4cbdbebfc7ec19e8.xlsx_7713c972", "row": 56, "col": 4, "corrected_value": "Cinnaminson Twp Sch Dist"}
+{"dataset": "541441bd20832d75fbcc184a4cbdbebfc7ec19e8.xlsx_7713c972", "row": 57, "col": 4, "corrected_value": "Cinnaminson Twp Sch Dist"}
+{"dataset": "541441bd20832d75fbcc184a4cbdbebfc7ec19e8.xlsx_7713c972", "row": 62, "col": 4, "corrected_value": "Cinnaminson Twp Sch Dist"}
+{"dataset": "541441bd20832d75fbcc184a4cbdbebfc7ec19e8.xlsx_7713c972", "row": 65, "col": 4, "corrected_value": "Cinnaminson Twp Sch Dist"}
+{"dataset": "541441bd20832d75fbcc184a4cbdbebfc7ec19e8.xlsx_7713c972", "row": 67, "col": 4, "corrected_value": "Cinnaminson Twp Sch Dist"}
+{"dataset": "541441bd20832d75fbcc184a4cbdbebfc7ec19e8.xlsx_7713c972", "row": 71, "col": 4, "corrected_value": "Cinnaminson Twp Sch Dist"}
+{"dataset": "541441bd20832d75fbcc184a4cbdbebfc7ec19e8.xlsx_7713c972", "row": 74, "col": 4, "corrected_value": "Cinnaminson Twp Sch Dist"}
+{"dataset": "541441bd20832d75fbcc184a4cbdbebfc7ec19e8.xlsx_7713c972", "row": 77, "col": 4, "corrected_value": "Cinnaminson Twp Sch Dist"}
+{"dataset": "541441bd20832d75fbcc184a4cbdbebfc7ec19e8.xlsx_7713c972", "row": 80, "col": 4, "corrected_value": "Willingboro BOE"}
+{"dataset": "541441bd20832d75fbcc184a4cbdbebfc7ec19e8.xlsx_7713c972", "row": 82, "col": 4, "corrected_value": "Cinnaminson Twp Sch Dist"}
+{"dataset": "541441bd20832d75fbcc184a4cbdbebfc7ec19e8.xlsx_7713c972", "row": 83, "col": 4, "corrected_value": "Cinnaminson Twp Sch Dist"}
+{"dataset": "541441bd20832d75fbcc184a4cbdbebfc7ec19e8.xlsx_7713c972", "row": 85, "col": 4, "corrected_value": "Cinnaminson Twp Sch Dist"}
+{"dataset": "541441bd20832d75fbcc184a4cbdbebfc7ec19e8.xlsx_7713c972", "row": 86, "col": 4, "corrected_value": "Retired"}
+{"dataset": "541441bd20832d75fbcc184a4cbdbebfc7ec19e8.xlsx_7713c972", "row": 87, "col": 4, "corrected_value": "Cinnaminson Twp Sch Dist"}
+{"dataset": "541441bd20832d75fbcc184a4cbdbebfc7ec19e8.xlsx_7713c972", "row": 88, "col": 4, "corrected_value": "Cinnaminson Twp Sch Dist"}
+{"dataset": "541441bd20832d75fbcc184a4cbdbebfc7ec19e8.xlsx_7713c972", "row": 89, "col": 4, "corrected_value": "Hunterdon Developmental Ctr"}
+{"dataset": "541441bd20832d75fbcc184a4cbdbebfc7ec19e8.xlsx_7713c972", "row": 92, "col": 4, "corrected_value": "Cinnaminson Twp Sch Dist"}
+{"dataset": "541441bd20832d75fbcc184a4cbdbebfc7ec19e8.xlsx_7713c972", "row": 93, "col": 4, "corrected_value": "Cinnaminson Twp Sch Dist"}
+{"dataset": "541441bd20832d75fbcc184a4cbdbebfc7ec19e8.xlsx_7713c972", "row": 98, "col": 4, "corrected_value": "Cinnaminson Twp Sch Dist"}
+{"dataset": "571d4522", "row": 15, "col": 4, "corrected_value": "Portland VA Research Foundation"}
+{"dataset": "571d4522", "row": 33, "col": 3, "corrected_value": "Research Coordinator Manager"}
+{"dataset": "571d4522", "row": 59, "col": 3, "corrected_value": "Research Coordinator Manager"}
+{"dataset": "571d4522", "row": 64, "col": 3, "corrected_value": "?"}
+{"dataset": "571d4522", "row": 89, "col": 3, "corrected_value": "Research Coordinator Manager"}
+{"dataset": "5c4a8e8fcd95306401ccd74945cb6ae8814157df.xlsx_95a944be", "row": 4, "col": 3, "corrected_value": "NULL"}
+{"dataset": "5c4a8e8fcd95306401ccd74945cb6ae8814157df.xlsx_95a944be", "row": 4, "col": 6, "corrected_value": "NULL"}
+{"dataset": "5c4a8e8fcd95306401ccd74945cb6ae8814157df.xlsx_95a944be", "row": 22, "col": 3, "corrected_value": "NULL"}
+{"dataset": "5f25dfa07753501bd62f3e1dcc0e1dc48045f3e6.xlsx_48914739", "row": 22, "col": 3, "corrected_value": "All - BIOL, MEDTE, CHEM, CMPSC, CPSMA, EHS, CARTO, GECAR, GEOG, MATH, NRSG, PHSCI, PHYS courses"}
+{"dataset": "60898118711b02aeb1b71f332c2a6e452b817cb6.xlsx_db7d6df1", "row": 0, "col": 9, "corrected_value": "K-K"}
+{"dataset": "60898118711b02aeb1b71f332c2a6e452b817cb6.xlsx_db7d6df1", "row": 1, "col": 9, "corrected_value": "K-K"}
+{"dataset": "60898118711b02aeb1b71f332c2a6e452b817cb6.xlsx_db7d6df1", "row": 2, "col": 9, "corrected_value": "K-K"}
+{"dataset": "60898118711b02aeb1b71f332c2a6e452b817cb6.xlsx_db7d6df1", "row": 3, "col": 9, "corrected_value": "K-K"}
+{"dataset": "60898118711b02aeb1b71f332c2a6e452b817cb6.xlsx_db7d6df1", "row": 4, "col": 9, "corrected_value": "K-K"}
+{"dataset": "60898118711b02aeb1b71f332c2a6e452b817cb6.xlsx_db7d6df1", "row": 5, "col": 9, "corrected_value": "K-K"}
+{"dataset": "60898118711b02aeb1b71f332c2a6e452b817cb6.xlsx_db7d6df1", "row": 6, "col": 9, "corrected_value": "K-K"}
+{"dataset": "60898118711b02aeb1b71f332c2a6e452b817cb6.xlsx_db7d6df1", "row": 7, "col": 9, "corrected_value": "K-K"}
+{"dataset": "60898118711b02aeb1b71f332c2a6e452b817cb6.xlsx_db7d6df1", "row": 8, "col": 9, "corrected_value": "K-K"}
+{"dataset": "60898118711b02aeb1b71f332c2a6e452b817cb6.xlsx_db7d6df1", "row": 9, "col": 9, "corrected_value": "K-K"}
+{"dataset": "60898118711b02aeb1b71f332c2a6e452b817cb6.xlsx_db7d6df1", "row": 10, "col": 9, "corrected_value": "K-K"}
+{"dataset": "60898118711b02aeb1b71f332c2a6e452b817cb6.xlsx_db7d6df1", "row": 11, "col": 9, "corrected_value": "K-K"}
+{"dataset": "60898118711b02aeb1b71f332c2a6e452b817cb6.xlsx_db7d6df1", "row": 12, "col": 9, "corrected_value": "K-K"}
+{"dataset": "60898118711b02aeb1b71f332c2a6e452b817cb6.xlsx_db7d6df1", "row": 13, "col": 9, "corrected_value": "K-K"}
+{"dataset": "60898118711b02aeb1b71f332c2a6e452b817cb6.xlsx_db7d6df1", "row": 14, "col": 9, "corrected_value": "K-K"}
+{"dataset": "60898118711b02aeb1b71f332c2a6e452b817cb6.xlsx_db7d6df1", "row": 15, "col": 9, "corrected_value": "K-K"}
+{"dataset": "60898118711b02aeb1b71f332c2a6e452b817cb6.xlsx_db7d6df1", "row": 16, "col": 9, "corrected_value": "K-K"}
+{"dataset": "60898118711b02aeb1b71f332c2a6e452b817cb6.xlsx_db7d6df1", "row": 17, "col": 9, "corrected_value": "K-K"}
+{"dataset": "60898118711b02aeb1b71f332c2a6e452b817cb6.xlsx_db7d6df1", "row": 18, "col": 9, "corrected_value": "K-K"}
+{"dataset": "60898118711b02aeb1b71f332c2a6e452b817cb6.xlsx_db7d6df1", "row": 19, "col": 9, "corrected_value": "K-K"}
+{"dataset": "60898118711b02aeb1b71f332c2a6e452b817cb6.xlsx_db7d6df1", "row": 20, "col": 9, "corrected_value": "K-K"}
+{"dataset": "60898118711b02aeb1b71f332c2a6e452b817cb6.xlsx_db7d6df1", "row": 21, "col": 9, "corrected_value": "K-K"}
+{"dataset": "60898118711b02aeb1b71f332c2a6e452b817cb6.xlsx_db7d6df1", "row": 22, "col": 9, "corrected_value": "K-K"}
+{"dataset": "60898118711b02aeb1b71f332c2a6e452b817cb6.xlsx_db7d6df1", "row": 23, "col": 9, "corrected_value": "K-K"}
+{"dataset": "60898118711b02aeb1b71f332c2a6e452b817cb6.xlsx_db7d6df1", "row": 24, "col": 9, "corrected_value": "K-K"}
+{"dataset": "60898118711b02aeb1b71f332c2a6e452b817cb6.xlsx_db7d6df1", "row": 25, "col": 9, "corrected_value": "K-K"}
+{"dataset": "60898118711b02aeb1b71f332c2a6e452b817cb6.xlsx_db7d6df1", "row": 26, "col": 9, "corrected_value": "K-K"}
+{"dataset": "60898118711b02aeb1b71f332c2a6e452b817cb6.xlsx_db7d6df1", "row": 27, "col": 9, "corrected_value": "K-K"}
+{"dataset": "60898118711b02aeb1b71f332c2a6e452b817cb6.xlsx_db7d6df1", "row": 28, "col": 9, "corrected_value": "K-K"}
+{"dataset": "60898118711b02aeb1b71f332c2a6e452b817cb6.xlsx_db7d6df1", "row": 29, "col": 9, "corrected_value": "K-K"}
+{"dataset": "60898118711b02aeb1b71f332c2a6e452b817cb6.xlsx_db7d6df1", "row": 30, "col": 9, "corrected_value": "K-K"}
+{"dataset": "60898118711b02aeb1b71f332c2a6e452b817cb6.xlsx_db7d6df1", "row": 31, "col": 9, "corrected_value": "K-K"}
+{"dataset": "60898118711b02aeb1b71f332c2a6e452b817cb6.xlsx_db7d6df1", "row": 32, "col": 9, "corrected_value": "K-K"}
+{"dataset": "60898118711b02aeb1b71f332c2a6e452b817cb6.xlsx_db7d6df1", "row": 33, "col": 9, "corrected_value": "K-K"}
+{"dataset": "60898118711b02aeb1b71f332c2a6e452b817cb6.xlsx_db7d6df1", "row": 34, "col": 9, "corrected_value": "K-K"}
+{"dataset": "60898118711b02aeb1b71f332c2a6e452b817cb6.xlsx_db7d6df1", "row": 35, "col": 9, "corrected_value": "K-K"}
+{"dataset": "60898118711b02aeb1b71f332c2a6e452b817cb6.xlsx_db7d6df1", "row": 36, "col": 9, "corrected_value": "K-K"}
+{"dataset": "60898118711b02aeb1b71f332c2a6e452b817cb6.xlsx_db7d6df1", "row": 37, "col": 9, "corrected_value": "K-K"}
+{"dataset": "60898118711b02aeb1b71f332c2a6e452b817cb6.xlsx_db7d6df1", "row": 38, "col": 9, "corrected_value": "K-K"}
+{"dataset": "60898118711b02aeb1b71f332c2a6e452b817cb6.xlsx_db7d6df1", "row": 39, "col": 9, "corrected_value": "K-K"}
+{"dataset": "60898118711b02aeb1b71f332c2a6e452b817cb6.xlsx_db7d6df1", "row": 40, "col": 9, "corrected_value": "K-K"}
+{"dataset": "60898118711b02aeb1b71f332c2a6e452b817cb6.xlsx_db7d6df1", "row": 41, "col": 9, "corrected_value": "K-K"}
+{"dataset": "60898118711b02aeb1b71f332c2a6e452b817cb6.xlsx_db7d6df1", "row": 42, "col": 9, "corrected_value": "K-K"}
+{"dataset": "60898118711b02aeb1b71f332c2a6e452b817cb6.xlsx_db7d6df1", "row": 43, "col": 9, "corrected_value": "K-K"}
+{"dataset": "60898118711b02aeb1b71f332c2a6e452b817cb6.xlsx_db7d6df1", "row": 44, "col": 9, "corrected_value": "K-K"}
+{"dataset": "60898118711b02aeb1b71f332c2a6e452b817cb6.xlsx_db7d6df1", "row": 45, "col": 9, "corrected_value": "K-K"}
+{"dataset": "60898118711b02aeb1b71f332c2a6e452b817cb6.xlsx_db7d6df1", "row": 46, "col": 9, "corrected_value": "K-K"}
+{"dataset": "60898118711b02aeb1b71f332c2a6e452b817cb6.xlsx_db7d6df1", "row": 47, "col": 9, "corrected_value": "K-K"}
+{"dataset": "60898118711b02aeb1b71f332c2a6e452b817cb6.xlsx_db7d6df1", "row": 48, "col": 9, "corrected_value": "K-K"}
+{"dataset": "60898118711b02aeb1b71f332c2a6e452b817cb6.xlsx_db7d6df1", "row": 49, "col": 9, "corrected_value": "K-K"}
+{"dataset": "60898118711b02aeb1b71f332c2a6e452b817cb6.xlsx_db7d6df1", "row": 50, "col": 9, "corrected_value": "K-K"}
+{"dataset": "60898118711b02aeb1b71f332c2a6e452b817cb6.xlsx_db7d6df1", "row": 51, "col": 9, "corrected_value": "K-K"}
+{"dataset": "60898118711b02aeb1b71f332c2a6e452b817cb6.xlsx_db7d6df1", "row": 52, "col": 9, "corrected_value": "K-K"}
+{"dataset": "60898118711b02aeb1b71f332c2a6e452b817cb6.xlsx_db7d6df1", "row": 53, "col": 9, "corrected_value": "K-K"}
+{"dataset": "60898118711b02aeb1b71f332c2a6e452b817cb6.xlsx_db7d6df1", "row": 54, "col": 9, "corrected_value": "K-K"}
+{"dataset": "60898118711b02aeb1b71f332c2a6e452b817cb6.xlsx_db7d6df1", "row": 55, "col": 9, "corrected_value": "K-K"}
+{"dataset": "60898118711b02aeb1b71f332c2a6e452b817cb6.xlsx_db7d6df1", "row": 56, "col": 9, "corrected_value": "K-K"}
+{"dataset": "60898118711b02aeb1b71f332c2a6e452b817cb6.xlsx_db7d6df1", "row": 57, "col": 9, "corrected_value": "K-K"}
+{"dataset": "60898118711b02aeb1b71f332c2a6e452b817cb6.xlsx_db7d6df1", "row": 58, "col": 9, "corrected_value": "K-K"}
+{"dataset": "60898118711b02aeb1b71f332c2a6e452b817cb6.xlsx_db7d6df1", "row": 59, "col": 9, "corrected_value": "K-K"}
+{"dataset": "60898118711b02aeb1b71f332c2a6e452b817cb6.xlsx_db7d6df1", "row": 60, "col": 9, "corrected_value": "K-K"}
+{"dataset": "60898118711b02aeb1b71f332c2a6e452b817cb6.xlsx_db7d6df1", "row": 61, "col": 9, "corrected_value": "K-K"}
+{"dataset": "60898118711b02aeb1b71f332c2a6e452b817cb6.xlsx_db7d6df1", "row": 62, "col": 9, "corrected_value": "K-K"}
+{"dataset": "60898118711b02aeb1b71f332c2a6e452b817cb6.xlsx_db7d6df1", "row": 63, "col": 9, "corrected_value": "K-K"}
+{"dataset": "60898118711b02aeb1b71f332c2a6e452b817cb6.xlsx_db7d6df1", "row": 67, "col": 9, "corrected_value": "K-K"}
+{"dataset": "60898118711b02aeb1b71f332c2a6e452b817cb6.xlsx_db7d6df1", "row": 69, "col": 9, "corrected_value": "K-K"}
+{"dataset": "60898118711b02aeb1b71f332c2a6e452b817cb6.xlsx_db7d6df1", "row": 70, "col": 9, "corrected_value": "K-K"}
+{"dataset": "60898118711b02aeb1b71f332c2a6e452b817cb6.xlsx_db7d6df1", "row": 71, "col": 9, "corrected_value": "K-K"}
+{"dataset": "60898118711b02aeb1b71f332c2a6e452b817cb6.xlsx_db7d6df1", "row": 72, "col": 9, "corrected_value": "K-K"}
+{"dataset": "60898118711b02aeb1b71f332c2a6e452b817cb6.xlsx_db7d6df1", "row": 73, "col": 9, "corrected_value": "K-K"}
+{"dataset": "60898118711b02aeb1b71f332c2a6e452b817cb6.xlsx_db7d6df1", "row": 74, "col": 9, "corrected_value": "K-K"}
+{"dataset": "60898118711b02aeb1b71f332c2a6e452b817cb6.xlsx_db7d6df1", "row": 75, "col": 9, "corrected_value": "K-K"}
+{"dataset": "60898118711b02aeb1b71f332c2a6e452b817cb6.xlsx_db7d6df1", "row": 76, "col": 9, "corrected_value": "K-K"}
+{"dataset": "60898118711b02aeb1b71f332c2a6e452b817cb6.xlsx_db7d6df1", "row": 77, "col": 9, "corrected_value": "K-K"}
+{"dataset": "60898118711b02aeb1b71f332c2a6e452b817cb6.xlsx_db7d6df1", "row": 78, "col": 9, "corrected_value": "K-K"}
+{"dataset": "60898118711b02aeb1b71f332c2a6e452b817cb6.xlsx_db7d6df1", "row": 79, "col": 9, "corrected_value": "K-K"}
+{"dataset": "60898118711b02aeb1b71f332c2a6e452b817cb6.xlsx_db7d6df1", "row": 80, "col": 9, "corrected_value": "K-K"}
+{"dataset": "655655956_AI___chatbot_usage", "row": 0, "col": 0, "corrected_value": "null"}
+{"dataset": "655655956_AI___chatbot_usage", "row": 0, "col": 1, "corrected_value": "null"}
+{"dataset": "655655956_AI___chatbot_usage", "row": 0, "col": 2, "corrected_value": "null"}
+{"dataset": "655655956_AI___chatbot_usage", "row": 3, "col": 0, "corrected_value": "null"}
+{"dataset": "655655956_AI___chatbot_usage", "row": 3, "col": 1, "corrected_value": "null"}
+{"dataset": "655655956_AI___chatbot_usage", "row": 3, "col": 2, "corrected_value": "null"}
+{"dataset": "655655956_AI___chatbot_usage", "row": 9, "col": 0, "corrected_value": "null"}
+{"dataset": "655655956_AI___chatbot_usage", "row": 9, "col": 1, "corrected_value": "null"}
+{"dataset": "655655956_AI___chatbot_usage", "row": 9, "col": 2, "corrected_value": "null"}
+{"dataset": "701064216_Purchase", "row": 0, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 1, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 2, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 3, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 4, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 5, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 6, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 7, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 8, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 9, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 10, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 11, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 12, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 13, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 14, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 15, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 16, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 17, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 18, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 19, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 20, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 21, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 22, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 23, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 24, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 25, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 26, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 27, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 28, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 29, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 30, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 31, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 32, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 33, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 34, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 35, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 36, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 37, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 38, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 39, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 40, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 41, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 42, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 43, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 44, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 45, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 46, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 47, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 48, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 52, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 53, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 54, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 55, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 56, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 57, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 60, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 61, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 62, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 63, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 64, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 66, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 67, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 68, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 72, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 73, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 74, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 75, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 76, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 80, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 81, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 82, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 83, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 84, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 86, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 87, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 88, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 89, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 90, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 91, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 92, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 93, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 94, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 95, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 96, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 97, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 98, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "701064216_Purchase", "row": 99, "col": 9, "corrected_value": "Expensive"}
+{"dataset": "72bffd91d2a506553fa43ef2cafa6d5f366e87f4.xlsx_424c0301", "row": 10, "col": 1, "corrected_value": "Fredericksburg"}
+{"dataset": "72bffd91d2a506553fa43ef2cafa6d5f366e87f4.xlsx_424c0301", "row": 11, "col": 1, "corrected_value": "Fredericksburg"}
+{"dataset": "72bffd91d2a506553fa43ef2cafa6d5f366e87f4.xlsx_424c0301", "row": 12, "col": 1, "corrected_value": "Fredericksburg"}
+{"dataset": "72bffd91d2a506553fa43ef2cafa6d5f366e87f4.xlsx_424c0301", "row": 13, "col": 1, "corrected_value": "Fredericksburg"}
+{"dataset": "72bffd91d2a506553fa43ef2cafa6d5f366e87f4.xlsx_424c0301", "row": 14, "col": 1, "corrected_value": "Fredericksburg"}
+{"dataset": "72bffd91d2a506553fa43ef2cafa6d5f366e87f4.xlsx_424c0301", "row": 29, "col": 6, "corrected_value": "?"}
+{"dataset": "72bffd91d2a506553fa43ef2cafa6d5f366e87f4.xlsx_424c0301", "row": 30, "col": 6, "corrected_value": "?"}
+{"dataset": "72bffd91d2a506553fa43ef2cafa6d5f366e87f4.xlsx_424c0301", "row": 31, "col": 6, "corrected_value": "?"}
+{"dataset": "72bffd91d2a506553fa43ef2cafa6d5f366e87f4.xlsx_424c0301", "row": 32, "col": 6, "corrected_value": "?"}
+{"dataset": "72bffd91d2a506553fa43ef2cafa6d5f366e87f4.xlsx_424c0301", "row": 68, "col": 4, "corrected_value": "PO Box 61, Greenbackville, VA. 23356"}
+{"dataset": "72bffd91d2a506553fa43ef2cafa6d5f366e87f4.xlsx_424c0301", "row": 69, "col": 4, "corrected_value": "PO Box 61, Greenbackville, VA. 23356"}
+{"dataset": "72bffd91d2a506553fa43ef2cafa6d5f366e87f4.xlsx_424c0301", "row": 70, "col": 4, "corrected_value": "PO Box 61, Greenbackville, VA. 23356"}
+{"dataset": "72bffd91d2a506553fa43ef2cafa6d5f366e87f4.xlsx_424c0301", "row": 71, "col": 4, "corrected_value": "PO Box 61, Greenbackville, VA. 23356"}
+{"dataset": "72bffd91d2a506553fa43ef2cafa6d5f366e87f4.xlsx_424c0301", "row": 72, "col": 4, "corrected_value": "PO Box 61, Greenbackville, VA. 23356"}
+{"dataset": "72bffd91d2a506553fa43ef2cafa6d5f366e87f4.xlsx_424c0301", "row": 73, "col": 4, "corrected_value": "PO Box 61, Greenbackville, VA. 23356"}
+{"dataset": "72bffd91d2a506553fa43ef2cafa6d5f366e87f4.xlsx_424c0301", "row": 74, "col": 4, "corrected_value": "PO Box 61, Greenbackville, VA. 23356"}
+{"dataset": "72bffd91d2a506553fa43ef2cafa6d5f366e87f4.xlsx_424c0301", "row": 75, "col": 4, "corrected_value": "PO Box 61, Greenbackville, VA. 23356"}
+{"dataset": "72bffd91d2a506553fa43ef2cafa6d5f366e87f4.xlsx_424c0301", "row": 76, "col": 4, "corrected_value": "PO Box 61, Greenbackville, VA. 23356"}
+{"dataset": "72bffd91d2a506553fa43ef2cafa6d5f366e87f4.xlsx_424c0301", "row": 77, "col": 4, "corrected_value": "PO Box 61, Greenbackville, VA. 23356"}
+{"dataset": "72bffd91d2a506553fa43ef2cafa6d5f366e87f4.xlsx_424c0301", "row": 78, "col": 4, "corrected_value": "PO Box 61, Greenbackville, VA. 23356"}
+{"dataset": "72d00ba5963f4520e83167fbdaf8e9294e75f172.xlsx_3511068d", "row": 12, "col": 2, "corrected_value": "null"}
+{"dataset": "72d00ba5963f4520e83167fbdaf8e9294e75f172.xlsx_3511068d", "row": 14, "col": 2, "corrected_value": "null"}
+{"dataset": "72d304b6798b3a7faa45ec2a8a7205a0b66b2a90.xlsx_c4ee6ae6", "row": 21, "col": 1, "corrected_value": "Estimated Capital Expenditure - Payments made for licences to use intellectual products"}
+{"dataset": "72d304b6798b3a7faa45ec2a8a7205a0b66b2a90.xlsx_c4ee6ae6", "row": 22, "col": 1, "corrected_value": "Estimated Capital Expenditure - Payments made for licences to use intellectual products"}
+{"dataset": "72d304b6798b3a7faa45ec2a8a7205a0b66b2a90.xlsx_c4ee6ae6", "row": 23, "col": 1, "corrected_value": "Estimated Capital Expenditure - Payments made for licences to use intellectual products"}
+{"dataset": "72d304b6798b3a7faa45ec2a8a7205a0b66b2a90.xlsx_c4ee6ae6", "row": 24, "col": 1, "corrected_value": "Estimated Capital Expenditure - Payments made for licences to use intellectual products"}
+{"dataset": "72d304b6798b3a7faa45ec2a8a7205a0b66b2a90.xlsx_c4ee6ae6", "row": 25, "col": 1, "corrected_value": "Estimated Capital Expenditure - Payments made for licences to use intellectual products"}
+{"dataset": "72d304b6798b3a7faa45ec2a8a7205a0b66b2a90.xlsx_c4ee6ae6", "row": 26, "col": 1, "corrected_value": "Estimated Capital Expenditure - Payments made for licences to use intellectual products"}
+{"dataset": "72d304b6798b3a7faa45ec2a8a7205a0b66b2a90.xlsx_c4ee6ae6", "row": 27, "col": 1, "corrected_value": "Estimated Capital Expenditure - Payments made for licences to use intellectual products"}
+{"dataset": "72d304b6798b3a7faa45ec2a8a7205a0b66b2a90.xlsx_c4ee6ae6", "row": 28, "col": 1, "corrected_value": "Estimated Capital Expenditure - Payments made for licences to use intellectual products"}
+{"dataset": "72d304b6798b3a7faa45ec2a8a7205a0b66b2a90.xlsx_c4ee6ae6", "row": 75, "col": 1, "corrected_value": "Actual Capital Expenditure - Payments made for licences to use intellectual products"}
+{"dataset": "72d304b6798b3a7faa45ec2a8a7205a0b66b2a90.xlsx_c4ee6ae6", "row": 76, "col": 1, "corrected_value": "Actual Capital Expenditure - Payments made for licences to use intellectual products"}
+{"dataset": "72d304b6798b3a7faa45ec2a8a7205a0b66b2a90.xlsx_c4ee6ae6", "row": 77, "col": 1, "corrected_value": "Actual Capital Expenditure - Payments made for licences to use intellectual products"}
+{"dataset": "7387eb8e", "row": 30, "col": 0, "corrected_value": "null"}
+{"dataset": "7387eb8e", "row": 30, "col": 1, "corrected_value": "null"}
+{"dataset": "780502195_FACT_Sales__2_", "row": 31, "col": 1, "corrected_value": "Norway"}
+{"dataset": "780502195_FACT_Sales__2_", "row": 32, "col": 1, "corrected_value": "Norway"}
+{"dataset": "780502195_FACT_Sales__2_", "row": 33, "col": 1, "corrected_value": "Norway"}
+{"dataset": "780502195_FACT_Sales__2_", "row": 34, "col": 1, "corrected_value": "Norway"}
+{"dataset": "780502195_FACT_Sales__2_", "row": 35, "col": 1, "corrected_value": "Norway"}
+{"dataset": "780502195_FACT_Sales__2_", "row": 44, "col": 1, "corrected_value": "Italy"}
+{"dataset": "780502195_FACT_Sales__2_", "row": 45, "col": 1, "corrected_value": "Italy"}
+{"dataset": "780502195_FACT_Sales__2_", "row": 46, "col": 1, "corrected_value": "Italy"}
+{"dataset": "780502195_FACT_Sales__2_", "row": 47, "col": 1, "corrected_value": "Italy"}
+{"dataset": "780502195_FACT_Sales__2_", "row": 48, "col": 1, "corrected_value": "Italy"}
+{"dataset": "780502195_FACT_Sales__2_", "row": 49, "col": 1, "corrected_value": "Norway"}
+{"dataset": "780502195_FACT_Sales__2_", "row": 50, "col": 1, "corrected_value": "Spain"}
+{"dataset": "780502195_FACT_Sales__2_", "row": 51, "col": 1, "corrected_value": "Iceland"}
+{"dataset": "780502195_FACT_Sales__2_", "row": 52, "col": 1, "corrected_value": "Iceland"}
+{"dataset": "780502195_FACT_Sales__2_", "row": 53, "col": 1, "corrected_value": "Iceland"}
+{"dataset": "780502195_FACT_Sales__2_", "row": 54, "col": 1, "corrected_value": "Iceland"}
+{"dataset": "780502195_FACT_Sales__2_", "row": 55, "col": 1, "corrected_value": "Iceland"}
+{"dataset": "780502195_FACT_Sales__2_", "row": 56, "col": 1, "corrected_value": "Iceland"}
+{"dataset": "780502195_FACT_Sales__2_", "row": 57, "col": 1, "corrected_value": "Iceland"}
+{"dataset": "780502195_FACT_Sales__2_", "row": 63, "col": 1, "corrected_value": "Russia"}
+{"dataset": "780502195_FACT_Sales__2_", "row": 64, "col": 1, "corrected_value": "Russia"}
+{"dataset": "780502195_FACT_Sales__2_", "row": 65, "col": 1, "corrected_value": "Russia"}
+{"dataset": "780502195_FACT_Sales__2_", "row": 66, "col": 1, "corrected_value": "Russia"}
+{"dataset": "780502195_FACT_Sales__2_", "row": 67, "col": 1, "corrected_value": "Russia"}
+{"dataset": "780502195_FACT_Sales__2_", "row": 68, "col": 1, "corrected_value": "Russia"}
+{"dataset": "780502195_FACT_Sales__2_", "row": 69, "col": 1, "corrected_value": "Russia"}
+{"dataset": "780502195_FACT_Sales__2_", "row": 70, "col": 1, "corrected_value": "Russia"}
+{"dataset": "780502195_FACT_Sales__2_", "row": 71, "col": 1, "corrected_value": "Russia"}
+{"dataset": "780502195_FACT_Sales__2_", "row": 72, "col": 1, "corrected_value": "Russia"}
+{"dataset": "780502195_FACT_Sales__2_", "row": 73, "col": 1, "corrected_value": "Russia"}
+{"dataset": "780502195_FACT_Sales__2_", "row": 83, "col": 1, "corrected_value": "Poland"}
+{"dataset": "780502195_FACT_Sales__2_", "row": 84, "col": 1, "corrected_value": "Poland"}
+{"dataset": "780502195_FACT_Sales__2_", "row": 85, "col": 1, "corrected_value": "Poland"}
+{"dataset": "780502195_FACT_Sales__2_", "row": 86, "col": 1, "corrected_value": "Poland"}
+{"dataset": "780502195_FACT_Sales__2_", "row": 87, "col": 1, "corrected_value": "Poland"}
+{"dataset": "780502195_FACT_Sales__2_", "row": 88, "col": 1, "corrected_value": "Poland"}
+{"dataset": "780502195_FACT_Sales__2_", "row": 89, "col": 1, "corrected_value": "Poland"}
+{"dataset": "780502195_FACT_Sales__2_", "row": 90, "col": 1, "corrected_value": "Poland"}
+{"dataset": "780502195_FACT_Sales__2_", "row": 91, "col": 1, "corrected_value": "Poland"}
+{"dataset": "780502195_FACT_Sales__2_", "row": 92, "col": 1, "corrected_value": "Poland"}
+{"dataset": "780502195_FACT_Sales__2_", "row": 93, "col": 1, "corrected_value": "Poland"}
+{"dataset": "780502195_FACT_Sales__2_", "row": 94, "col": 1, "corrected_value": "Poland"}
+{"dataset": "780502195_FACT_Sales__2_", "row": 95, "col": 1, "corrected_value": "Poland"}
+{"dataset": "7be57dae01091d0302400d7d7cf182db842e53e0.xlsx_94849186", "row": 1, "col": 1, "corrected_value": "El Camino"}
+{"dataset": "7be57dae01091d0302400d7d7cf182db842e53e0.xlsx_94849186", "row": 2, "col": 1, "corrected_value": "Chaffey"}
+{"dataset": "7be57dae01091d0302400d7d7cf182db842e53e0.xlsx_94849186", "row": 5, "col": 1, "corrected_value": "El Camino"}
+{"dataset": "7be57dae01091d0302400d7d7cf182db842e53e0.xlsx_94849186", "row": 6, "col": 1, "corrected_value": "Peralta"}
+{"dataset": "7be57dae01091d0302400d7d7cf182db842e53e0.xlsx_94849186", "row": 8, "col": 1, "corrected_value": "El Camino"}
+{"dataset": "7be57dae01091d0302400d7d7cf182db842e53e0.xlsx_94849186", "row": 10, "col": 1, "corrected_value": "El Camino"}
+{"dataset": "7be57dae01091d0302400d7d7cf182db842e53e0.xlsx_94849186", "row": 12, "col": 1, "corrected_value": "Chaffey"}
+{"dataset": "7be57dae01091d0302400d7d7cf182db842e53e0.xlsx_94849186", "row": 13, "col": 1, "corrected_value": "Palo Verde"}
+{"dataset": "7be57dae01091d0302400d7d7cf182db842e53e0.xlsx_94849186", "row": 16, "col": 1, "corrected_value": "West Valley-Mission"}
+{"dataset": "7be57dae01091d0302400d7d7cf182db842e53e0.xlsx_94849186", "row": 17, "col": 1, "corrected_value": "West Valley-Mission"}
+{"dataset": "7be57dae01091d0302400d7d7cf182db842e53e0.xlsx_94849186", "row": 18, "col": 1, "corrected_value": "El Camino"}
+{"dataset": "7be57dae01091d0302400d7d7cf182db842e53e0.xlsx_94849186", "row": 20, "col": 1, "corrected_value": "Monterey Peninsula"}
+{"dataset": "7be57dae01091d0302400d7d7cf182db842e53e0.xlsx_94849186", "row": 25, "col": 1, "corrected_value": "El Camino"}
+{"dataset": "7be57dae01091d0302400d7d7cf182db842e53e0.xlsx_94849186", "row": 26, "col": 1, "corrected_value": "El Camino"}
+{"dataset": "7be57dae01091d0302400d7d7cf182db842e53e0.xlsx_94849186", "row": 31, "col": 1, "corrected_value": "Grossmont-Cuyamaca"}
+{"dataset": "7be57dae01091d0302400d7d7cf182db842e53e0.xlsx_94849186", "row": 33, "col": 1, "corrected_value": "El Camino"}
+{"dataset": "7be57dae01091d0302400d7d7cf182db842e53e0.xlsx_94849186", "row": 34, "col": 1, "corrected_value": "Palo Verde"}
+{"dataset": "7be57dae01091d0302400d7d7cf182db842e53e0.xlsx_94849186", "row": 36, "col": 1, "corrected_value": "Coast"}
+{"dataset": "7be57dae01091d0302400d7d7cf182db842e53e0.xlsx_94849186", "row": 37, "col": 1, "corrected_value": "Peralta"}
+{"dataset": "7be57dae01091d0302400d7d7cf182db842e53e0.xlsx_94849186", "row": 39, "col": 1, "corrected_value": "Grossmont-Cuyamaca"}
+{"dataset": "7be57dae01091d0302400d7d7cf182db842e53e0.xlsx_94849186", "row": 40, "col": 1, "corrected_value": "El Camino"}
+{"dataset": "7be57dae01091d0302400d7d7cf182db842e53e0.xlsx_94849186", "row": 42, "col": 1, "corrected_value": "Coast"}
+{"dataset": "7be57dae01091d0302400d7d7cf182db842e53e0.xlsx_94849186", "row": 44, "col": 1, "corrected_value": "El Camino"}
+{"dataset": "7be57dae01091d0302400d7d7cf182db842e53e0.xlsx_94849186", "row": 45, "col": 1, "corrected_value": "Palo Verde"}
+{"dataset": "7be57dae01091d0302400d7d7cf182db842e53e0.xlsx_94849186", "row": 46, "col": 1, "corrected_value": "Chaffey"}
+{"dataset": "7be57dae01091d0302400d7d7cf182db842e53e0.xlsx_94849186", "row": 47, "col": 1, "corrected_value": "Grossmont-Cuyamaca"}
+{"dataset": "7be57dae01091d0302400d7d7cf182db842e53e0.xlsx_94849186", "row": 50, "col": 1, "corrected_value": "West Valley-Mission"}
+{"dataset": "7be57dae01091d0302400d7d7cf182db842e53e0.xlsx_94849186", "row": 53, "col": 1, "corrected_value": "Allan Hancock"}
+{"dataset": "7be57dae01091d0302400d7d7cf182db842e53e0.xlsx_94849186", "row": 54, "col": 1, "corrected_value": "El Camino"}
+{"dataset": "7be57dae01091d0302400d7d7cf182db842e53e0.xlsx_94849186", "row": 55, "col": 1, "corrected_value": "El Camino"}
+{"dataset": "7be57dae01091d0302400d7d7cf182db842e53e0.xlsx_94849186", "row": 62, "col": 1, "corrected_value": "Coast"}
+{"dataset": "7be57dae01091d0302400d7d7cf182db842e53e0.xlsx_94849186", "row": 63, "col": 1, "corrected_value": "Grossmont-Cuyamaca"}
+{"dataset": "7be57dae01091d0302400d7d7cf182db842e53e0.xlsx_94849186", "row": 66, "col": 1, "corrected_value": "Chaffey"}
+{"dataset": "7be57dae01091d0302400d7d7cf182db842e53e0.xlsx_94849186", "row": 67, "col": 1, "corrected_value": "State Center"}
+{"dataset": "7be57dae01091d0302400d7d7cf182db842e53e0.xlsx_94849186", "row": 68, "col": 1, "corrected_value": "Kern"}
+{"dataset": "7d32fea328d60f43aa8020c1be4f9d19ebf11290.xlsx_50dd004f", "row": 16, "col": 0, "corrected_value": "Waingmaw"}
+{"dataset": "81c44d22221720f65ba61e2c7d30855d67256f56.xlsx_b39e0ac6", "row": 36, "col": 0, "corrected_value": "Chit Malt: BEST Chit Malt (BestMalz)"}
+{"dataset": "84b623fc986e583fd3636696cd46411671b95d12.xlsx_f75b1a4b", "row": 20, "col": 1, "corrected_value": "Vallivue #139"}
+{"dataset": "84b623fc986e583fd3636696cd46411671b95d12.xlsx_f75b1a4b", "row": 25, "col": 1, "corrected_value": "McCall Donnelly #421"}
+{"dataset": "84b623fc986e583fd3636696cd46411671b95d12.xlsx_f75b1a4b", "row": 28, "col": 1, "corrected_value": "Idaho Virtual #452"}
+{"dataset": "84b623fc986e583fd3636696cd46411671b95d12.xlsx_f75b1a4b", "row": 31, "col": 1, "corrected_value": "West Ada #002"}
+{"dataset": "856e5721f03d56af5874c1a430c840b4a48b80ff.xlsx_956c5120", "row": 18, "col": 0, "corrected_value": "NULL"}
+{"dataset": "856e5721f03d56af5874c1a430c840b4a48b80ff.xlsx_956c5120", "row": 18, "col": 2, "corrected_value": "NULL"}
+{"dataset": "856e5721f03d56af5874c1a430c840b4a48b80ff.xlsx_956c5120", "row": 18, "col": 3, "corrected_value": "NULL"}
+{"dataset": "856e5721f03d56af5874c1a430c840b4a48b80ff.xlsx_956c5120", "row": 18, "col": 12, "corrected_value": "NULL"}
+{"dataset": "856e5721f03d56af5874c1a430c840b4a48b80ff.xlsx_956c5120", "row": 40, "col": 0, "corrected_value": "NULL"}
+{"dataset": "856e5721f03d56af5874c1a430c840b4a48b80ff.xlsx_956c5120", "row": 40, "col": 1, "corrected_value": "NULL"}
+{"dataset": "856e5721f03d56af5874c1a430c840b4a48b80ff.xlsx_956c5120", "row": 58, "col": 0, "corrected_value": "NULL"}
+{"dataset": "856e5721f03d56af5874c1a430c840b4a48b80ff.xlsx_956c5120", "row": 58, "col": 1, "corrected_value": "NULL"}
+{"dataset": "856e5721f03d56af5874c1a430c840b4a48b80ff.xlsx_956c5120", "row": 97, "col": 0, "corrected_value": "NULL"}
+{"dataset": "856e5721f03d56af5874c1a430c840b4a48b80ff.xlsx_956c5120", "row": 97, "col": 1, "corrected_value": "NULL"}
+{"dataset": "8edcc88ca4075baf5d55f6e58299fb29df411369.xlsx_9c48379e", "row": 1, "col": 0, "corrected_value": "null"}
+{"dataset": "8edcc88ca4075baf5d55f6e58299fb29df411369.xlsx_9c48379e", "row": 6, "col": 0, "corrected_value": "null"}
+{"dataset": "8edcc88ca4075baf5d55f6e58299fb29df411369.xlsx_9c48379e", "row": 9, "col": 0, "corrected_value": "null"}
+{"dataset": "8edcc88ca4075baf5d55f6e58299fb29df411369.xlsx_9c48379e", "row": 10, "col": 0, "corrected_value": "null"}
+{"dataset": "969e7ecefd59daf6bd380e0d0f07e06b200bc4bf.xlsx_ed64335f", "row": 8, "col": 0, "corrected_value": "NULL"}
+{"dataset": "969e7ecefd59daf6bd380e0d0f07e06b200bc4bf.xlsx_ed64335f", "row": 8, "col": 8, "corrected_value": "NULL"}
+{"dataset": "969e7ecefd59daf6bd380e0d0f07e06b200bc4bf.xlsx_ed64335f", "row": 15, "col": 0, "corrected_value": "NULL"}
+{"dataset": "969e7ecefd59daf6bd380e0d0f07e06b200bc4bf.xlsx_ed64335f", "row": 15, "col": 3, "corrected_value": "NULL"}
+{"dataset": "969e7ecefd59daf6bd380e0d0f07e06b200bc4bf.xlsx_ed64335f", "row": 15, "col": 4, "corrected_value": "NULL"}
+{"dataset": "969e7ecefd59daf6bd380e0d0f07e06b200bc4bf.xlsx_ed64335f", "row": 15, "col": 7, "corrected_value": "NULL"}
+{"dataset": "969e7ecefd59daf6bd380e0d0f07e06b200bc4bf.xlsx_ed64335f", "row": 15, "col": 8, "corrected_value": "NULL"}
+{"dataset": "9ab7a8e594b3fb6a3a9e7e3ed299778ee79fcf1a.xlsx_4ad534da", "row": 7, "col": 3, "corrected_value": "Government & Institute - Additions & Alterations"}
+{"dataset": "9ab7a8e594b3fb6a3a9e7e3ed299778ee79fcf1a.xlsx_4ad534da", "row": 9, "col": 3, "corrected_value": "Government & Institute - Additions & Alterations"}
+{"dataset": "9ab7a8e594b3fb6a3a9e7e3ed299778ee79fcf1a.xlsx_4ad534da", "row": 74, "col": 1, "corrected_value": "DAYTONA COMMUNITIES (VISTA AT COPPERWOOD) LP"}
+{"dataset": "9ab7a8e594b3fb6a3a9e7e3ed299778ee79fcf1a.xlsx_4ad534da", "row": 76, "col": 4, "corrected_value": "STORAGE / WAREHOUSE"}
+{"dataset": "9ab7a8e594b3fb6a3a9e7e3ed299778ee79fcf1a.xlsx_4ad534da", "row": 85, "col": 2, "corrected_value": "154 PACIFIC LANDING W"}
+{"dataset": "a6e9bea9a3a5d8b5bb5ece1d3178c935a6de5480.xlsx_b9baecd7", "row": 29, "col": 2, "corrected_value": "NULL"}
+{"dataset": "a6e9bea9a3a5d8b5bb5ece1d3178c935a6de5480.xlsx_b9baecd7", "row": 29, "col": 4, "corrected_value": "NULL"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 0, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 1, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 2, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 3, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 4, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 5, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 6, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 7, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 8, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 9, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 10, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 11, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 12, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 13, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 14, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 15, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 16, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 17, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 18, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 19, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 20, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 21, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 22, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 23, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 24, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 25, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 26, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 27, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 28, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 29, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 30, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 31, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 32, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 33, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 34, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 35, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 36, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 37, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 38, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 39, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 40, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 41, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 42, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 43, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 44, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 45, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 46, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 47, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 48, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 49, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 50, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 51, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 52, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 53, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 54, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 55, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 56, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 57, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 58, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 59, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 60, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 61, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 62, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 63, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 64, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 65, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 66, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 67, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 68, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 69, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 70, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 71, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 72, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 73, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 74, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 75, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 76, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 77, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 78, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 79, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 80, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 81, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 82, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 83, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 84, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 85, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 86, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 87, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 88, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 89, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 90, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 91, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 92, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 93, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 94, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 95, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 96, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 97, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 98, "col": 7, "corrected_value": "null"}
+{"dataset": "aafb1af24d178e9eece659f46dbcaf72ae727556.xlsx_f9a76097", "row": 99, "col": 7, "corrected_value": "null"}
+{"dataset": "ab37ba55", "row": 10, "col": 1, "corrected_value": "Gomez, Rebecca/Chavarri, Elisa"}
+{"dataset": "ab37ba55", "row": 14, "col": 0, "corrected_value": "Goodnight Veggies"}
+{"dataset": "ab37ba55", "row": 21, "col": 1, "corrected_value": "Barnes, Derrick/James, Gordon C."}
+{"dataset": "ab37ba55", "row": 22, "col": 1, "corrected_value": "Rohner, Dorothia/Nastanlieva, Vanya"}
+{"dataset": "ab37ba55", "row": 25, "col": 1, "corrected_value": "Gehl, Laura/Neonakis, Alexandria"}
+{"dataset": "ab37ba55", "row": 49, "col": 1, "corrected_value": "Rosenthal, Amy Krouse/Magoon, Scott"}
+{"dataset": "ab37ba55", "row": 55, "col": 1, "corrected_value": "Paxton Kirsty/Lotter Megan"}
+{"dataset": "ab37ba55", "row": 65, "col": 1, "corrected_value": "Cooper, Susan/Kellogg, Steven"}
+{"dataset": "b5daa92c66efd5a0051d931814902971f086338d.xlsx_9aa2e0a3", "row": 70, "col": 9, "corrected_value": "PROVIDENCE, RI 02912"}
+{"dataset": "b5daa92c66efd5a0051d931814902971f086338d.xlsx_9aa2e0a3", "row": 92, "col": 2, "corrected_value": "STOCKROOM - TOCKWOTTON ST 271"}
+{"dataset": "bf18017ae46c556e4427cae67246f3af1c33925e.xlsx_55158837", "row": 8, "col": 0, "corrected_value": "null"}
+{"dataset": "bf18017ae46c556e4427cae67246f3af1c33925e.xlsx_55158837", "row": 8, "col": 1, "corrected_value": "null"}
+{"dataset": "bf18017ae46c556e4427cae67246f3af1c33925e.xlsx_55158837", "row": 72, "col": 1, "corrected_value": "null"}
+{"dataset": "bf18017ae46c556e4427cae67246f3af1c33925e.xlsx_55158837", "row": 75, "col": 0, "corrected_value": "null"}
+{"dataset": "bf18017ae46c556e4427cae67246f3af1c33925e.xlsx_55158837", "row": 82, "col": 1, "corrected_value": "null"}
+{"dataset": "bf18017ae46c556e4427cae67246f3af1c33925e.xlsx_55158837", "row": 88, "col": 1, "corrected_value": "null"}
+{"dataset": "c02f13a5c3fa6c437faac260e7222a81342fcc7d.xlsx_878c2cf7", "row": 5, "col": 1, "corrected_value": "ChantierD"}
+{"dataset": "c02f13a5c3fa6c437faac260e7222a81342fcc7d.xlsx_878c2cf7", "row": 6, "col": 1, "corrected_value": "ChantierD"}
+{"dataset": "c02f13a5c3fa6c437faac260e7222a81342fcc7d.xlsx_878c2cf7", "row": 7, "col": 1, "corrected_value": "ChantierD"}
+{"dataset": "c11f565a09ed7306625731726ee66c54b0706ae4.xlsx_01d2b33a", "row": 8, "col": 2, "corrected_value": ""}
+{"dataset": "c11f565a09ed7306625731726ee66c54b0706ae4.xlsx_01d2b33a", "row": 8, "col": 3, "corrected_value": ""}
+{"dataset": "c601612537464a98c4a3b7119bcaf10908039ced.xlsx_44e40712", "row": 0, "col": 1, "corrected_value": "Triple Pressed Stearic Acid"}
+{"dataset": "c601612537464a98c4a3b7119bcaf10908039ced.xlsx_44e40712", "row": 1, "col": 1, "corrected_value": "Triple Pressed Stearic Acid"}
+{"dataset": "c601612537464a98c4a3b7119bcaf10908039ced.xlsx_44e40712", "row": 2, "col": 1, "corrected_value": "Triple Pressed Stearic Acid"}
+{"dataset": "c601612537464a98c4a3b7119bcaf10908039ced.xlsx_44e40712", "row": 3, "col": 1, "corrected_value": "Triple Pressed Stearic Acid"}
+{"dataset": "c601612537464a98c4a3b7119bcaf10908039ced.xlsx_44e40712", "row": 4, "col": 1, "corrected_value": "Triple Pressed Stearic Acid"}
+{"dataset": "c601612537464a98c4a3b7119bcaf10908039ced.xlsx_44e40712", "row": 5, "col": 1, "corrected_value": "Triple Pressed Stearic Acid"}
+{"dataset": "c601612537464a98c4a3b7119bcaf10908039ced.xlsx_44e40712", "row": 6, "col": 1, "corrected_value": "Triple Pressed Stearic Acid"}
+{"dataset": "c601612537464a98c4a3b7119bcaf10908039ced.xlsx_44e40712", "row": 7, "col": 1, "corrected_value": "Triple Pressed Stearic Acid"}
+{"dataset": "c601612537464a98c4a3b7119bcaf10908039ced.xlsx_44e40712", "row": 8, "col": 1, "corrected_value": "Triple Pressed Stearic Acid"}
+{"dataset": "c601612537464a98c4a3b7119bcaf10908039ced.xlsx_44e40712", "row": 12, "col": 1, "corrected_value": "Triple Pressed Stearic Acid"}
+{"dataset": "c601612537464a98c4a3b7119bcaf10908039ced.xlsx_44e40712", "row": 13, "col": 1, "corrected_value": "Triple Pressed Stearic Acid"}
+{"dataset": "c601612537464a98c4a3b7119bcaf10908039ced.xlsx_44e40712", "row": 14, "col": 1, "corrected_value": "Topped Palm Kernel Fatty Acid"}
+{"dataset": "c601612537464a98c4a3b7119bcaf10908039ced.xlsx_44e40712", "row": 15, "col": 2, "corrected_value": "Semi-liquid"}
+{"dataset": "c601612537464a98c4a3b7119bcaf10908039ced.xlsx_44e40712", "row": 16, "col": 1, "corrected_value": "RBD Palm Olein"}
+{"dataset": "c601612537464a98c4a3b7119bcaf10908039ced.xlsx_44e40712", "row": 17, "col": 1, "corrected_value": "RBD Palm Olein"}
+{"dataset": "c601612537464a98c4a3b7119bcaf10908039ced.xlsx_44e40712", "row": 17, "col": 2, "corrected_value": "Liquid"}
+{"dataset": "c601612537464a98c4a3b7119bcaf10908039ced.xlsx_44e40712", "row": 18, "col": 1, "corrected_value": "Triple Pressed Stearic Acid"}
+{"dataset": "c601612537464a98c4a3b7119bcaf10908039ced.xlsx_44e40712", "row": 19, "col": 1, "corrected_value": "Triple Pressed Stearic Acid"}
+{"dataset": "c601612537464a98c4a3b7119bcaf10908039ced.xlsx_44e40712", "row": 20, "col": 1, "corrected_value": "Triple Pressed Stearic Acid"}
+{"dataset": "c601612537464a98c4a3b7119bcaf10908039ced.xlsx_44e40712", "row": 21, "col": 1, "corrected_value": "RBD Palm Olein"}
+{"dataset": "c601612537464a98c4a3b7119bcaf10908039ced.xlsx_44e40712", "row": 22, "col": 1, "corrected_value": "Triple Pressed Stearic Acid"}
+{"dataset": "c601612537464a98c4a3b7119bcaf10908039ced.xlsx_44e40712", "row": 23, "col": 1, "corrected_value": "Triple Pressed Stearic Acid"}
+{"dataset": "c601612537464a98c4a3b7119bcaf10908039ced.xlsx_44e40712", "row": 24, "col": 1, "corrected_value": "Triple Pressed Stearic Acid"}
+{"dataset": "c601612537464a98c4a3b7119bcaf10908039ced.xlsx_44e40712", "row": 25, "col": 1, "corrected_value": "Triple Pressed Stearic Acid"}
+{"dataset": "c601612537464a98c4a3b7119bcaf10908039ced.xlsx_44e40712", "row": 26, "col": 1, "corrected_value": "RBD Palm Olein"}
+{"dataset": "c601612537464a98c4a3b7119bcaf10908039ced.xlsx_44e40712", "row": 27, "col": 1, "corrected_value": "Triple Pressed Stearic Acid"}
+{"dataset": "c601612537464a98c4a3b7119bcaf10908039ced.xlsx_44e40712", "row": 28, "col": 1, "corrected_value": "Triple Pressed Stearic Acid"}
+{"dataset": "c601612537464a98c4a3b7119bcaf10908039ced.xlsx_44e40712", "row": 29, "col": 1, "corrected_value": "Triple Pressed Stearic Acid"}
+{"dataset": "c601612537464a98c4a3b7119bcaf10908039ced.xlsx_44e40712", "row": 30, "col": 1, "corrected_value": "Triple Pressed Stearic Acid"}
+{"dataset": "c601612537464a98c4a3b7119bcaf10908039ced.xlsx_44e40712", "row": 31, "col": 1, "corrected_value": "Triple Pressed Stearic Acid"}
+{"dataset": "c601612537464a98c4a3b7119bcaf10908039ced.xlsx_44e40712", "row": 32, "col": 1, "corrected_value": "Triple Pressed Stearic Acid"}
+{"dataset": "c601612537464a98c4a3b7119bcaf10908039ced.xlsx_44e40712", "row": 33, "col": 1, "corrected_value": "Triple Pressed Stearic Acid"}
+{"dataset": "c601612537464a98c4a3b7119bcaf10908039ced.xlsx_44e40712", "row": 34, "col": 1, "corrected_value": "RBD Palm Olein"}
+{"dataset": "c601612537464a98c4a3b7119bcaf10908039ced.xlsx_44e40712", "row": 35, "col": 1, "corrected_value": "?"}
+{"dataset": "c601612537464a98c4a3b7119bcaf10908039ced.xlsx_44e40712", "row": 38, "col": 1, "corrected_value": "Triple Pressed Stearic Acid"}
+{"dataset": "c601612537464a98c4a3b7119bcaf10908039ced.xlsx_44e40712", "row": 39, "col": 1, "corrected_value": "Triple Pressed Stearic Acid"}
+{"dataset": "c601612537464a98c4a3b7119bcaf10908039ced.xlsx_44e40712", "row": 40, "col": 1, "corrected_value": "Triple Pressed Stearic Acid"}
+{"dataset": "c601612537464a98c4a3b7119bcaf10908039ced.xlsx_44e40712", "row": 41, "col": 1, "corrected_value": "RBD Palm Olein"}
+{"dataset": "c601612537464a98c4a3b7119bcaf10908039ced.xlsx_44e40712", "row": 42, "col": 0, "corrected_value": "Palm Olein High IV"}
+{"dataset": "c601612537464a98c4a3b7119bcaf10908039ced.xlsx_44e40712", "row": 42, "col": 1, "corrected_value": "RBD Palm Olein"}
+{"dataset": "d768cd3f0f065483c785307856b6bb236eb9d88e.xlsx_3fcaa2ce", "row": 43, "col": 0, "corrected_value": "NULL"}
+{"dataset": "d768cd3f0f065483c785307856b6bb236eb9d88e.xlsx_3fcaa2ce", "row": 44, "col": 0, "corrected_value": "NULL"}
+{"dataset": "d768cd3f0f065483c785307856b6bb236eb9d88e.xlsx_3fcaa2ce", "row": 45, "col": 0, "corrected_value": "NULL"}
+{"dataset": "d768cd3f0f065483c785307856b6bb236eb9d88e.xlsx_3fcaa2ce", "row": 46, "col": 0, "corrected_value": "NULL"}
+{"dataset": "d768cd3f0f065483c785307856b6bb236eb9d88e.xlsx_3fcaa2ce", "row": 78, "col": 0, "corrected_value": "NULL"}
+{"dataset": "d768cd3f0f065483c785307856b6bb236eb9d88e.xlsx_3fcaa2ce", "row": 79, "col": 0, "corrected_value": "NULL"}
+{"dataset": "d768cd3f0f065483c785307856b6bb236eb9d88e.xlsx_3fcaa2ce", "row": 80, "col": 0, "corrected_value": "NULL"}
+{"dataset": "d768cd3f0f065483c785307856b6bb236eb9d88e.xlsx_3fcaa2ce", "row": 81, "col": 0, "corrected_value": "NULL"}
+{"dataset": "d768cd3f0f065483c785307856b6bb236eb9d88e.xlsx_3fcaa2ce", "row": 82, "col": 0, "corrected_value": "NULL"}
+{"dataset": "d768cd3f0f065483c785307856b6bb236eb9d88e.xlsx_3fcaa2ce", "row": 83, "col": 0, "corrected_value": "NULL"}
+{"dataset": "d768cd3f0f065483c785307856b6bb236eb9d88e.xlsx_3fcaa2ce", "row": 84, "col": 0, "corrected_value": "NULL"}
+{"dataset": "dda183edd6515e4cf62d95edde7d673cbd0a4588.xlsx_3dc66cf3", "row": 14, "col": 0, "corrected_value": "\u2014"}
+{"dataset": "dda183edd6515e4cf62d95edde7d673cbd0a4588.xlsx_3dc66cf3", "row": 14, "col": 1, "corrected_value": "\u2014"}
+{"dataset": "dda183edd6515e4cf62d95edde7d673cbd0a4588.xlsx_3dc66cf3", "row": 22, "col": 1, "corrected_value": "\u2014"}
+{"dataset": "dda183edd6515e4cf62d95edde7d673cbd0a4588.xlsx_3dc66cf3", "row": 31, "col": 0, "corrected_value": "\u2014"}
+{"dataset": "dda183edd6515e4cf62d95edde7d673cbd0a4588.xlsx_3dc66cf3", "row": 31, "col": 1, "corrected_value": "\u2014"}
+{"dataset": "dda183edd6515e4cf62d95edde7d673cbd0a4588.xlsx_3dc66cf3", "row": 37, "col": 0, "corrected_value": "\u2014"}
+{"dataset": "dda183edd6515e4cf62d95edde7d673cbd0a4588.xlsx_3dc66cf3", "row": 37, "col": 1, "corrected_value": "\u2014"}
+{"dataset": "e1de43c781cb50baf53e475cb54fc2589536251c.xlsx_17b5f9a9", "row": 19, "col": 0, "corrected_value": "null"}
+{"dataset": "e1de43c781cb50baf53e475cb54fc2589536251c.xlsx_17b5f9a9", "row": 19, "col": 1, "corrected_value": "null"}
+{"dataset": "e317bbe645def0a77249cd54f50a9119f2d5c843.xlsx_ae0b5637", "row": 2, "col": 0, "corrected_value": "null"}
+{"dataset": "e317bbe645def0a77249cd54f50a9119f2d5c843.xlsx_ae0b5637", "row": 2, "col": 1, "corrected_value": "null"}
+{"dataset": "e4b2cdaff2b0ada7a8c7c3b3dfb36a45ea825808.xlsx_e2931593", "row": 20, "col": 2, "corrected_value": "Appellant"}
+{"dataset": "eaff6e4cbe7d0cf12d25b2e162a7f20dab459f43.xlsx_7afc0506", "row": 94, "col": 0, "corrected_value": "VIEUX-FORT"}
+{"dataset": "eda836984b861bb438b44245b423697bb85252dd.xlsx_1c5b067b", "row": 51, "col": 12, "corrected_value": "Earth Dragons"}
+{"dataset": "f3c94b7e347d788cf3c55055bc86f53329a86907.xlsx_007d0e51", "row": 40, "col": 5, "corrected_value": "M 5:15 pm-6:10 pm"}
+{"dataset": "fda7cce4b862059919acbdede17179bc5e44e508.xlsx_5347bdf3", "row": 8, "col": 5, "corrected_value": "Tutorial - Kin 142"}

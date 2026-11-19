@@ -1,0 +1,805 @@
+{
+  "schema_version": 1,
+  "methods": [
+    {
+      "method": "SymSpell",
+      "category": "Dictionary lookup"
+    },
+    {
+      "method": "NeuSpell",
+      "category": "Pretrained models/checks"
+    },
+    {
+      "method": "BigDansing",
+      "category": "Constraint-based"
+    },
+    {
+      "method": "Holistic",
+      "category": "Constraint-based"
+    },
+    {
+      "method": "DaisyP",
+      "category": "Constraint-based"
+    },
+    {
+      "method": "Horizon",
+      "category": "Constraint-based"
+    },
+    {
+      "method": "Relative Trust",
+      "category": "Constraint-based"
+    },
+    {
+      "method": "NADEEF",
+      "category": "Constraint-based"
+    },
+    {
+      "method": "LLUNATIC",
+      "category": "Constraint-based"
+    },
+    {
+      "method": "UniClean",
+      "category": "Constraint-based"
+    },
+    {
+      "method": "KATARA (KB)",
+      "category": "Knowledge-based"
+    },
+    {
+      "method": "CleanAgent",
+      "category": "LLM workflows"
+    },
+    {
+      "method": "Cocoon",
+      "category": "LLM workflows"
+    },
+    {
+      "method": "Excel",
+      "category": "Industrial workflows"
+    },
+    {
+      "method": "Google Sheets",
+      "category": "Industrial workflows"
+    },
+    {
+      "method": "GPT-4.1 (Prompt-tuned)",
+      "category": "Direct LLMs (API)"
+    },
+    {
+      "method": "GPT-5.2 (Prompt-tuned)",
+      "category": "Direct LLMs (API)"
+    },
+    {
+      "method": "GPT-5.5 (Prompt-tuned)",
+      "category": "Direct LLMs (API)"
+    },
+    {
+      "method": "GPT-6-astra (Prompt-tuned)",
+      "category": "Direct LLMs (API)"
+    },
+    {
+      "method": "GPT-6-astra (Codex)",
+      "category": "Coding agents"
+    },
+    {
+      "method": "GPT-6-astra (Copilot)",
+      "category": "Coding agents"
+    }
+  ],
+  "runs": [
+    {
+      "identity": "cleanagent/run_01",
+      "method": "CleanAgent",
+      "run": 1,
+      "point_view": true,
+      "predictions": "methods/cleanagent/run_01/predictions.jsonl",
+      "counts": "methods/cleanagent/run_01/table_counts.jsonl",
+      "metadata": "methods/cleanagent/run_01/run.json"
+    },
+    {
+      "identity": "cleanagent/run_02",
+      "method": "CleanAgent",
+      "run": 2,
+      "point_view": true,
+      "predictions": "methods/cleanagent/run_02/predictions.jsonl",
+      "counts": "methods/cleanagent/run_02/table_counts.jsonl",
+      "metadata": "methods/cleanagent/run_02/run.json"
+    },
+    {
+      "identity": "cleanagent/run_03",
+      "method": "CleanAgent",
+      "run": 3,
+      "point_view": true,
+      "predictions": "methods/cleanagent/run_03/predictions.jsonl",
+      "counts": "methods/cleanagent/run_03/table_counts.jsonl",
+      "metadata": "methods/cleanagent/run_03/run.json"
+    },
+    {
+      "identity": "cocoon/run_01",
+      "method": "Cocoon",
+      "run": 1,
+      "point_view": true,
+      "predictions": "methods/cocoon/run_01/predictions.jsonl",
+      "counts": "methods/cocoon/run_01/table_counts.jsonl",
+      "metadata": "methods/cocoon/run_01/run.json"
+    },
+    {
+      "identity": "cocoon/run_02",
+      "method": "Cocoon",
+      "run": 2,
+      "point_view": true,
+      "predictions": "methods/cocoon/run_02/predictions.jsonl",
+      "counts": "methods/cocoon/run_02/table_counts.jsonl",
+      "metadata": "methods/cocoon/run_02/run.json"
+    },
+    {
+      "identity": "cocoon/run_03",
+      "method": "Cocoon",
+      "run": 3,
+      "point_view": true,
+      "predictions": "methods/cocoon/run_03/predictions.jsonl",
+      "counts": "methods/cocoon/run_03/table_counts.jsonl",
+      "metadata": "methods/cocoon/run_03/run.json"
+    },
+    {
+      "identity": "excel/run_01",
+      "method": "Excel",
+      "run": 1,
+      "point_view": true,
+      "predictions": "methods/excel/run_01/predictions.jsonl",
+      "counts": "methods/excel/run_01/table_counts.jsonl",
+      "metadata": "methods/excel/run_01/run.json"
+    },
+    {
+      "identity": "google_sheets/run_01",
+      "method": "Google Sheets",
+      "run": 1,
+      "point_view": true,
+      "predictions": "methods/google_sheets/run_01/predictions.jsonl",
+      "counts": "methods/google_sheets/run_01/table_counts.jsonl",
+      "metadata": "methods/google_sheets/run_01/run.json"
+    },
+    {
+      "identity": "gpt_4_1_prompt_tuned/run_01",
+      "method": "GPT-4.1 (Prompt-tuned)",
+      "run": 1,
+      "point_view": true,
+      "predictions": "methods/gpt_4_1_prompt_tuned/run_01/predictions.jsonl",
+      "counts": "methods/gpt_4_1_prompt_tuned/run_01/table_counts.jsonl",
+      "metadata": "methods/gpt_4_1_prompt_tuned/run_01/run.json"
+    },
+    {
+      "identity": "gpt_4_1_prompt_tuned/run_02",
+      "method": "GPT-4.1 (Prompt-tuned)",
+      "run": 2,
+      "point_view": true,
+      "predictions": "methods/gpt_4_1_prompt_tuned/run_02/predictions.jsonl",
+      "counts": "methods/gpt_4_1_prompt_tuned/run_02/table_counts.jsonl",
+      "metadata": "methods/gpt_4_1_prompt_tuned/run_02/run.json"
+    },
+    {
+      "identity": "gpt_4_1_prompt_tuned/run_03",
+      "method": "GPT-4.1 (Prompt-tuned)",
+      "run": 3,
+      "point_view": true,
+      "predictions": "methods/gpt_4_1_prompt_tuned/run_03/predictions.jsonl",
+      "counts": "methods/gpt_4_1_prompt_tuned/run_03/table_counts.jsonl",
+      "metadata": "methods/gpt_4_1_prompt_tuned/run_03/run.json"
+    },
+    {
+      "identity": "gpt_5_2_prompt_tuned/run_01",
+      "method": "GPT-5.2 (Prompt-tuned)",
+      "run": 1,
+      "point_view": true,
+      "predictions": "methods/gpt_5_2_prompt_tuned/run_01/predictions.jsonl",
+      "counts": "methods/gpt_5_2_prompt_tuned/run_01/table_counts.jsonl",
+      "metadata": "methods/gpt_5_2_prompt_tuned/run_01/run.json"
+    },
+    {
+      "identity": "gpt_5_2_prompt_tuned/run_02",
+      "method": "GPT-5.2 (Prompt-tuned)",
+      "run": 2,
+      "point_view": true,
+      "predictions": "methods/gpt_5_2_prompt_tuned/run_02/predictions.jsonl",
+      "counts": "methods/gpt_5_2_prompt_tuned/run_02/table_counts.jsonl",
+      "metadata": "methods/gpt_5_2_prompt_tuned/run_02/run.json"
+    },
+    {
+      "identity": "gpt_5_2_prompt_tuned/run_03",
+      "method": "GPT-5.2 (Prompt-tuned)",
+      "run": 3,
+      "point_view": true,
+      "predictions": "methods/gpt_5_2_prompt_tuned/run_03/predictions.jsonl",
+      "counts": "methods/gpt_5_2_prompt_tuned/run_03/table_counts.jsonl",
+      "metadata": "methods/gpt_5_2_prompt_tuned/run_03/run.json"
+    },
+    {
+      "identity": "gpt_5_5_prompt_tuned/run_01",
+      "method": "GPT-5.5 (Prompt-tuned)",
+      "run": 1,
+      "point_view": true,
+      "predictions": "methods/gpt_5_5_prompt_tuned/run_01/predictions.jsonl",
+      "counts": "methods/gpt_5_5_prompt_tuned/run_01/table_counts.jsonl",
+      "metadata": "methods/gpt_5_5_prompt_tuned/run_01/run.json"
+    },
+    {
+      "identity": "gpt_5_5_prompt_tuned/run_02",
+      "method": "GPT-5.5 (Prompt-tuned)",
+      "run": 2,
+      "point_view": true,
+      "predictions": "methods/gpt_5_5_prompt_tuned/run_02/predictions.jsonl",
+      "counts": "methods/gpt_5_5_prompt_tuned/run_02/table_counts.jsonl",
+      "metadata": "methods/gpt_5_5_prompt_tuned/run_02/run.json"
+    },
+    {
+      "identity": "gpt_5_5_prompt_tuned/run_03",
+      "method": "GPT-5.5 (Prompt-tuned)",
+      "run": 3,
+      "point_view": true,
+      "predictions": "methods/gpt_5_5_prompt_tuned/run_03/predictions.jsonl",
+      "counts": "methods/gpt_5_5_prompt_tuned/run_03/table_counts.jsonl",
+      "metadata": "methods/gpt_5_5_prompt_tuned/run_03/run.json"
+    },
+    {
+      "identity": "gpt_6_astra_prompt_tuned/run_01",
+      "method": "GPT-6-astra (Prompt-tuned)",
+      "run": 1,
+      "point_view": true,
+      "predictions": "methods/gpt_6_astra_prompt_tuned/run_01/predictions.jsonl",
+      "counts": "methods/gpt_6_astra_prompt_tuned/run_01/table_counts.jsonl",
+      "metadata": "methods/gpt_6_astra_prompt_tuned/run_01/run.json"
+    },
+    {
+      "identity": "gpt_6_astra_prompt_tuned/run_02",
+      "method": "GPT-6-astra (Prompt-tuned)",
+      "run": 2,
+      "point_view": true,
+      "predictions": "methods/gpt_6_astra_prompt_tuned/run_02/predictions.jsonl",
+      "counts": "methods/gpt_6_astra_prompt_tuned/run_02/table_counts.jsonl",
+      "metadata": "methods/gpt_6_astra_prompt_tuned/run_02/run.json"
+    },
+    {
+      "identity": "gpt_6_astra_prompt_tuned/run_03",
+      "method": "GPT-6-astra (Prompt-tuned)",
+      "run": 3,
+      "point_view": true,
+      "predictions": "methods/gpt_6_astra_prompt_tuned/run_03/predictions.jsonl",
+      "counts": "methods/gpt_6_astra_prompt_tuned/run_03/table_counts.jsonl",
+      "metadata": "methods/gpt_6_astra_prompt_tuned/run_03/run.json"
+    },
+    {
+      "identity": "katara_kb/run_01",
+      "method": "KATARA (KB)",
+      "run": 1,
+      "point_view": true,
+      "predictions": "methods/katara_kb/run_01/predictions.jsonl",
+      "counts": "methods/katara_kb/run_01/table_counts.jsonl",
+      "metadata": "methods/katara_kb/run_01/run.json"
+    },
+    {
+      "identity": "katara_kb/run_02",
+      "method": "KATARA (KB)",
+      "run": 2,
+      "point_view": true,
+      "predictions": "methods/katara_kb/run_02/predictions.jsonl",
+      "counts": "methods/katara_kb/run_02/table_counts.jsonl",
+      "metadata": "methods/katara_kb/run_02/run.json"
+    },
+    {
+      "identity": "katara_kb/run_03",
+      "method": "KATARA (KB)",
+      "run": 3,
+      "point_view": true,
+      "predictions": "methods/katara_kb/run_03/predictions.jsonl",
+      "counts": "methods/katara_kb/run_03/table_counts.jsonl",
+      "metadata": "methods/katara_kb/run_03/run.json"
+    },
+    {
+      "identity": "neuspell/run_01",
+      "method": "NeuSpell",
+      "run": 1,
+      "point_view": true,
+      "predictions": "methods/neuspell/run_01/predictions.jsonl",
+      "counts": "methods/neuspell/run_01/table_counts.jsonl",
+      "metadata": "methods/neuspell/run_01/run.json"
+    },
+    {
+      "identity": "neuspell/run_02",
+      "method": "NeuSpell",
+      "run": 2,
+      "point_view": true,
+      "predictions": "methods/neuspell/run_02/predictions.jsonl",
+      "counts": "methods/neuspell/run_02/table_counts.jsonl",
+      "metadata": "methods/neuspell/run_02/run.json"
+    },
+    {
+      "identity": "neuspell/run_03",
+      "method": "NeuSpell",
+      "run": 3,
+      "point_view": true,
+      "predictions": "methods/neuspell/run_03/predictions.jsonl",
+      "counts": "methods/neuspell/run_03/table_counts.jsonl",
+      "metadata": "methods/neuspell/run_03/run.json"
+    },
+    {
+      "identity": "symspell/run_01",
+      "method": "SymSpell",
+      "run": 1,
+      "point_view": true,
+      "predictions": "methods/symspell/run_01/predictions.jsonl",
+      "counts": "methods/symspell/run_01/table_counts.jsonl",
+      "metadata": "methods/symspell/run_01/run.json"
+    },
+    {
+      "identity": "symspell/run_02",
+      "method": "SymSpell",
+      "run": 2,
+      "point_view": true,
+      "predictions": "methods/symspell/run_02/predictions.jsonl",
+      "counts": "methods/symspell/run_02/table_counts.jsonl",
+      "metadata": "methods/symspell/run_02/run.json"
+    },
+    {
+      "identity": "symspell/run_03",
+      "method": "SymSpell",
+      "run": 3,
+      "point_view": true,
+      "predictions": "methods/symspell/run_03/predictions.jsonl",
+      "counts": "methods/symspell/run_03/table_counts.jsonl",
+      "metadata": "methods/symspell/run_03/run.json"
+    },
+    {
+      "identity": "bigdansing/run_01",
+      "method": "BigDansing",
+      "run": 1,
+      "point_view": true,
+      "predictions": "methods/bigdansing/run_01/predictions.jsonl",
+      "counts": "methods/bigdansing/run_01/table_counts.jsonl",
+      "metadata": "methods/bigdansing/run_01/run.json"
+    },
+    {
+      "identity": "bigdansing/run_02",
+      "method": "BigDansing",
+      "run": 2,
+      "point_view": true,
+      "predictions": "methods/bigdansing/run_02/predictions.jsonl",
+      "counts": "methods/bigdansing/run_02/table_counts.jsonl",
+      "metadata": "methods/bigdansing/run_02/run.json"
+    },
+    {
+      "identity": "bigdansing/run_03",
+      "method": "BigDansing",
+      "run": 3,
+      "point_view": true,
+      "predictions": "methods/bigdansing/run_03/predictions.jsonl",
+      "counts": "methods/bigdansing/run_03/table_counts.jsonl",
+      "metadata": "methods/bigdansing/run_03/run.json"
+    },
+    {
+      "identity": "daisyp/run_01",
+      "method": "DaisyP",
+      "run": 1,
+      "point_view": true,
+      "predictions": "methods/daisyp/run_01/predictions.jsonl",
+      "counts": "methods/daisyp/run_01/table_counts.jsonl",
+      "metadata": "methods/daisyp/run_01/run.json"
+    },
+    {
+      "identity": "daisyp/run_02",
+      "method": "DaisyP",
+      "run": 2,
+      "point_view": true,
+      "predictions": "methods/daisyp/run_02/predictions.jsonl",
+      "counts": "methods/daisyp/run_02/table_counts.jsonl",
+      "metadata": "methods/daisyp/run_02/run.json"
+    },
+    {
+      "identity": "daisyp/run_03",
+      "method": "DaisyP",
+      "run": 3,
+      "point_view": true,
+      "predictions": "methods/daisyp/run_03/predictions.jsonl",
+      "counts": "methods/daisyp/run_03/table_counts.jsonl",
+      "metadata": "methods/daisyp/run_03/run.json"
+    },
+    {
+      "identity": "holistic/run_01",
+      "method": "Holistic",
+      "run": 1,
+      "point_view": true,
+      "predictions": "methods/holistic/run_01/predictions.jsonl",
+      "counts": "methods/holistic/run_01/table_counts.jsonl",
+      "metadata": "methods/holistic/run_01/run.json"
+    },
+    {
+      "identity": "holistic/run_02",
+      "method": "Holistic",
+      "run": 2,
+      "point_view": true,
+      "predictions": "methods/holistic/run_02/predictions.jsonl",
+      "counts": "methods/holistic/run_02/table_counts.jsonl",
+      "metadata": "methods/holistic/run_02/run.json"
+    },
+    {
+      "identity": "holistic/run_03",
+      "method": "Holistic",
+      "run": 3,
+      "point_view": true,
+      "predictions": "methods/holistic/run_03/predictions.jsonl",
+      "counts": "methods/holistic/run_03/table_counts.jsonl",
+      "metadata": "methods/holistic/run_03/run.json"
+    },
+    {
+      "identity": "horizon/run_01",
+      "method": "Horizon",
+      "run": 1,
+      "point_view": true,
+      "predictions": "methods/horizon/run_01/predictions.jsonl",
+      "counts": "methods/horizon/run_01/table_counts.jsonl",
+      "metadata": "methods/horizon/run_01/run.json"
+    },
+    {
+      "identity": "horizon/run_02",
+      "method": "Horizon",
+      "run": 2,
+      "point_view": true,
+      "predictions": "methods/horizon/run_02/predictions.jsonl",
+      "counts": "methods/horizon/run_02/table_counts.jsonl",
+      "metadata": "methods/horizon/run_02/run.json"
+    },
+    {
+      "identity": "horizon/run_03",
+      "method": "Horizon",
+      "run": 3,
+      "point_view": true,
+      "predictions": "methods/horizon/run_03/predictions.jsonl",
+      "counts": "methods/horizon/run_03/table_counts.jsonl",
+      "metadata": "methods/horizon/run_03/run.json"
+    },
+    {
+      "identity": "llunatic/run_01",
+      "method": "LLUNATIC",
+      "run": 1,
+      "point_view": true,
+      "predictions": "methods/llunatic/run_01/predictions.jsonl",
+      "counts": "methods/llunatic/run_01/table_counts.jsonl",
+      "metadata": "methods/llunatic/run_01/run.json"
+    },
+    {
+      "identity": "llunatic/run_02",
+      "method": "LLUNATIC",
+      "run": 2,
+      "point_view": true,
+      "predictions": "methods/llunatic/run_02/predictions.jsonl",
+      "counts": "methods/llunatic/run_02/table_counts.jsonl",
+      "metadata": "methods/llunatic/run_02/run.json"
+    },
+    {
+      "identity": "llunatic/run_03",
+      "method": "LLUNATIC",
+      "run": 3,
+      "point_view": true,
+      "predictions": "methods/llunatic/run_03/predictions.jsonl",
+      "counts": "methods/llunatic/run_03/table_counts.jsonl",
+      "metadata": "methods/llunatic/run_03/run.json"
+    },
+    {
+      "identity": "nadeef/run_01",
+      "method": "NADEEF",
+      "run": 1,
+      "point_view": true,
+      "predictions": "methods/nadeef/run_01/predictions.jsonl",
+      "counts": "methods/nadeef/run_01/table_counts.jsonl",
+      "metadata": "methods/nadeef/run_01/run.json"
+    },
+    {
+      "identity": "nadeef/run_02",
+      "method": "NADEEF",
+      "run": 2,
+      "point_view": true,
+      "predictions": "methods/nadeef/run_02/predictions.jsonl",
+      "counts": "methods/nadeef/run_02/table_counts.jsonl",
+      "metadata": "methods/nadeef/run_02/run.json"
+    },
+    {
+      "identity": "nadeef/run_03",
+      "method": "NADEEF",
+      "run": 3,
+      "point_view": true,
+      "predictions": "methods/nadeef/run_03/predictions.jsonl",
+      "counts": "methods/nadeef/run_03/table_counts.jsonl",
+      "metadata": "methods/nadeef/run_03/run.json"
+    },
+    {
+      "identity": "relative_trust/run_01",
+      "method": "Relative Trust",
+      "run": 1,
+      "point_view": true,
+      "predictions": "methods/relative_trust/run_01/predictions.jsonl",
+      "counts": "methods/relative_trust/run_01/table_counts.jsonl",
+      "metadata": "methods/relative_trust/run_01/run.json"
+    },
+    {
+      "identity": "relative_trust/run_02",
+      "method": "Relative Trust",
+      "run": 2,
+      "point_view": true,
+      "predictions": "methods/relative_trust/run_02/predictions.jsonl",
+      "counts": "methods/relative_trust/run_02/table_counts.jsonl",
+      "metadata": "methods/relative_trust/run_02/run.json"
+    },
+    {
+      "identity": "relative_trust/run_03",
+      "method": "Relative Trust",
+      "run": 3,
+      "point_view": true,
+      "predictions": "methods/relative_trust/run_03/predictions.jsonl",
+      "counts": "methods/relative_trust/run_03/table_counts.jsonl",
+      "metadata": "methods/relative_trust/run_03/run.json"
+    },
+    {
+      "identity": "uniclean/run_01",
+      "method": "UniClean",
+      "run": 1,
+      "point_view": true,
+      "predictions": "methods/uniclean/run_01/predictions.jsonl",
+      "counts": "methods/uniclean/run_01/table_counts.jsonl",
+      "metadata": "methods/uniclean/run_01/run.json"
+    },
+    {
+      "identity": "uniclean/run_02",
+      "method": "UniClean",
+      "run": 2,
+      "point_view": true,
+      "predictions": "methods/uniclean/run_02/predictions.jsonl",
+      "counts": "methods/uniclean/run_02/table_counts.jsonl",
+      "metadata": "methods/uniclean/run_02/run.json"
+    },
+    {
+      "identity": "uniclean/run_03",
+      "method": "UniClean",
+      "run": 3,
+      "point_view": true,
+      "predictions": "methods/uniclean/run_03/predictions.jsonl",
+      "counts": "methods/uniclean/run_03/table_counts.jsonl",
+      "metadata": "methods/uniclean/run_03/run.json"
+    },
+    {
+      "identity": "gpt_6_astra_codex/run_01",
+      "method": "GPT-6-astra (Codex)",
+      "run": 1,
+      "point_view": true,
+      "predictions": "methods/gpt_6_astra_codex/run_01/predictions.jsonl",
+      "counts": "methods/gpt_6_astra_codex/run_01/table_counts.jsonl",
+      "metadata": "methods/gpt_6_astra_codex/run_01/run.json"
+    },
+    {
+      "identity": "gpt_6_astra_copilot/run_01",
+      "method": "GPT-6-astra (Copilot)",
+      "run": 1,
+      "point_view": true,
+      "predictions": "methods/gpt_6_astra_copilot/run_01/predictions.jsonl",
+      "counts": "methods/gpt_6_astra_copilot/run_01/table_counts.jsonl",
+      "metadata": "methods/gpt_6_astra_copilot/run_01/run.json"
+    },
+    {
+      "identity": "gpt_6_astra_codex/run_02",
+      "method": "GPT-6-astra (Codex)",
+      "run": 2,
+      "point_view": true,
+      "predictions": "methods/gpt_6_astra_codex/run_02/predictions.jsonl",
+      "counts": "methods/gpt_6_astra_codex/run_02/table_counts.jsonl",
+      "metadata": "methods/gpt_6_astra_codex/run_02/run.json"
+    },
+    {
+      "identity": "gpt_6_astra_codex/run_03",
+      "method": "GPT-6-astra (Codex)",
+      "run": 3,
+      "point_view": true,
+      "predictions": "methods/gpt_6_astra_codex/run_03/predictions.jsonl",
+      "counts": "methods/gpt_6_astra_codex/run_03/table_counts.jsonl",
+      "metadata": "methods/gpt_6_astra_codex/run_03/run.json"
+    },
+    {
+      "identity": "gpt_6_astra_copilot/run_02",
+      "method": "GPT-6-astra (Copilot)",
+      "run": 2,
+      "point_view": true,
+      "predictions": "methods/gpt_6_astra_copilot/run_02/predictions.jsonl",
+      "counts": "methods/gpt_6_astra_copilot/run_02/table_counts.jsonl",
+      "metadata": "methods/gpt_6_astra_copilot/run_02/run.json"
+    },
+    {
+      "identity": "gpt_6_astra_copilot/run_03",
+      "method": "GPT-6-astra (Copilot)",
+      "run": 3,
+      "point_view": true,
+      "predictions": "methods/gpt_6_astra_copilot/run_03/predictions.jsonl",
+      "counts": "methods/gpt_6_astra_copilot/run_03/table_counts.jsonl",
+      "metadata": "methods/gpt_6_astra_copilot/run_03/run.json"
+    }
+  ],
+  "sha256": {
+    "expected/table3_point.csv": "c65a451d5bf8f5f354ea7969196390e69fa4b02c16de176013026a88b3d56e2f",
+    "expected/table3_variability.csv": "7707a81595707e1f18e422468ecbd1e9f76a91abd0124e34cc0bb554615b53e1",
+    "methods/bigdansing/run_01/predictions.jsonl": "d73c6e661ba6e664766dd6c13006419fc5db5dc4e1c3e74578e6e47dcfcd8d57",
+    "methods/bigdansing/run_01/run.json": "2e8a4968787b0f7cd5be2bd624c0929a4df52dcce70de4a3ceaefb2c02638207",
+    "methods/bigdansing/run_01/table_counts.jsonl": "befa12e75fb14948e16030e0f9f7720c145fa6b8f86368f4e4ddf2b403bb504e",
+    "methods/bigdansing/run_02/predictions.jsonl": "d73c6e661ba6e664766dd6c13006419fc5db5dc4e1c3e74578e6e47dcfcd8d57",
+    "methods/bigdansing/run_02/run.json": "ef25f02f307f3e6c8d4a2dced18956701788b4818757f326961aee8160055067",
+    "methods/bigdansing/run_02/table_counts.jsonl": "befa12e75fb14948e16030e0f9f7720c145fa6b8f86368f4e4ddf2b403bb504e",
+    "methods/bigdansing/run_03/predictions.jsonl": "d73c6e661ba6e664766dd6c13006419fc5db5dc4e1c3e74578e6e47dcfcd8d57",
+    "methods/bigdansing/run_03/run.json": "24ad9d6e90388c2ff327b318a19b44497fd0ceec57e840c1a4b7ae1a2f6d1af5",
+    "methods/bigdansing/run_03/table_counts.jsonl": "befa12e75fb14948e16030e0f9f7720c145fa6b8f86368f4e4ddf2b403bb504e",
+    "methods/cleanagent/run_01/predictions.jsonl": "3e30d19ec51dc627e22b0fe5ec636f7a2b0f070793b9411638f99d6982711da0",
+    "methods/cleanagent/run_01/run.json": "a2500ab89e0c3f030ea6f3eb3fab63eccc16e2977d621965e32a900327450735",
+    "methods/cleanagent/run_01/table_counts.jsonl": "2d36bb5f3edd686c3d8df2f0327b084eb8df83822e7e1ad798589360d768eef1",
+    "methods/cleanagent/run_02/predictions.jsonl": "a2e2a42f0d10423f71db7053a1a93abd673b3077b76cdadf81bdb0af77d6f4bf",
+    "methods/cleanagent/run_02/run.json": "8373a60318214258791f1f4e108982f5022c658279bce003e115feb07ae0a1ff",
+    "methods/cleanagent/run_02/table_counts.jsonl": "de2b98dd33366a2e62359c8ef83ce7110b5d9c563890e7fd0bbaeb9fc729c24e",
+    "methods/cleanagent/run_03/predictions.jsonl": "e498421828a51379cca121e53d870abb7716578af66c336b03de4420f5bc8c1c",
+    "methods/cleanagent/run_03/run.json": "96bcc9a6ca62dda27723e72783c32ae1dd5bc95cbcd9e5a0e78df6362dcb7409",
+    "methods/cleanagent/run_03/table_counts.jsonl": "0aa6a4dd70b7c2acb3b952177970bf4e066884ab693101250db4d6fc080c979e",
+    "methods/cocoon/run_01/predictions.jsonl": "457b5f20f0b3d9a0e5395719ff48335988d7a0e04c610dbcf3c7f8789a8b9bf5",
+    "methods/cocoon/run_01/run.json": "91cc99fa26a3d0dd0eaf81958d6138bb4919e26e1549d26641eaf2292632aed0",
+    "methods/cocoon/run_01/table_counts.jsonl": "081484d7e2c6437bb17b00beb08374234c00f1c7643a6b882cb1c6ebc0f04e26",
+    "methods/cocoon/run_02/predictions.jsonl": "6d404230be90abf697ec0fc856e472c2044489baad0c4c27b2adddadab95158f",
+    "methods/cocoon/run_02/run.json": "1c30e72118eda164120bee0ceabb64b345e0cd7d2dc65f9cc9bf8018283c10b0",
+    "methods/cocoon/run_02/table_counts.jsonl": "60aa61339005398596b199898c319da330199e4e07a8bdee7aa068cc3e8d335e",
+    "methods/cocoon/run_03/predictions.jsonl": "16b8e46b441913ee63a9f74deb1e1bdde751d2fcfc3d79d55202f0306c20c0d9",
+    "methods/cocoon/run_03/run.json": "5e85330dc7299fdf20fdea774adf9885f22c0d33a4a6abcc23d895712c5154cb",
+    "methods/cocoon/run_03/table_counts.jsonl": "5d9b0cea8671ae95677ffaf9e81365680831cb55bf8c9813312a02ee303ab6d3",
+    "methods/daisyp/run_01/predictions.jsonl": "7cf269e0c8d3f0fcdd91d816325c87b7d395e1a052f0135b6223992800c19a9e",
+    "methods/daisyp/run_01/run.json": "5d222c69ef321697cdf8a2ac7e7efe82900144309c225f311ab834c181389eef",
+    "methods/daisyp/run_01/table_counts.jsonl": "24558bcfd90d239f8b9cb4ca6d630e289bb8e09cc8e83287da7068d99fa09f00",
+    "methods/daisyp/run_02/predictions.jsonl": "7cf269e0c8d3f0fcdd91d816325c87b7d395e1a052f0135b6223992800c19a9e",
+    "methods/daisyp/run_02/run.json": "f8c58875e2512f443190edfc6324cdeffe56af59aecef4e36c390000cd5d039c",
+    "methods/daisyp/run_02/table_counts.jsonl": "24558bcfd90d239f8b9cb4ca6d630e289bb8e09cc8e83287da7068d99fa09f00",
+    "methods/daisyp/run_03/predictions.jsonl": "7cf269e0c8d3f0fcdd91d816325c87b7d395e1a052f0135b6223992800c19a9e",
+    "methods/daisyp/run_03/run.json": "38fbbf16070baaa10fc838a2ba7ccb917db59abdc283c8f51cfc01f9ce15a92d",
+    "methods/daisyp/run_03/table_counts.jsonl": "24558bcfd90d239f8b9cb4ca6d630e289bb8e09cc8e83287da7068d99fa09f00",
+    "methods/excel/run_01/predictions.jsonl": "7a1f5fd27a11597f8319a47f918edefbce315225049956398526c1c88cb946e8",
+    "methods/excel/run_01/run.json": "9c59613f476227b12c316a39f3827d9c4ccddb2c1e1cdcd794529a3e7144316b",
+    "methods/excel/run_01/table_counts.jsonl": "ff89cf10298135ddbf2e9fe183135e42b763bf3c3f1331e890c99995b69c1d6b",
+    "methods/google_sheets/run_01/predictions.jsonl": "1c0fa7f439112de1ddf240757a9a248819dce7e01d12db3e13adf81b0a78dafe",
+    "methods/google_sheets/run_01/run.json": "5e10d9b10a8c9a55277f39e5a370625809b3e3afafdf4ad12134e57700fb45b8",
+    "methods/google_sheets/run_01/table_counts.jsonl": "09ab086110e1abe90118905990dbda73eb8fcdd9fb62b642548921e481899cfc",
+    "methods/gpt_4_1_prompt_tuned/run_01/predictions.jsonl": "0d2f429e9a53de6986b27bb30f7ccef583f9c85e9d76415e0b83a6c326322250",
+    "methods/gpt_4_1_prompt_tuned/run_01/run.json": "897d53b3a68227207847496ca3389003e1e6762b91a03fe9468853ec582ee784",
+    "methods/gpt_4_1_prompt_tuned/run_01/table_counts.jsonl": "1bcfc0587a5b477f9fb69a801155b5364925e7a74c33effbc6301f3cf4a4a194",
+    "methods/gpt_4_1_prompt_tuned/run_02/predictions.jsonl": "52f247ec6c85eeefe95f16110f74f0db5b06ddbac054fb2c9091f3fa29f4e00a",
+    "methods/gpt_4_1_prompt_tuned/run_02/run.json": "90228f2a83582dc3465c78d979f4121a446bbdd190a003f5e1fcd27b3b4a83ee",
+    "methods/gpt_4_1_prompt_tuned/run_02/table_counts.jsonl": "3718af0e6b523f9cbc6b22b8a29c2d348e648e744805ab5135ae0db33174e9fa",
+    "methods/gpt_4_1_prompt_tuned/run_03/predictions.jsonl": "60cec85bae3dd1cc63cb0af68721ff5b917c9dd195b70daa80677f6b8df5e823",
+    "methods/gpt_4_1_prompt_tuned/run_03/run.json": "f4eb0590c9b0741f14faf4fbca6faaac2c91d752fac600933cf69bdf62434c62",
+    "methods/gpt_4_1_prompt_tuned/run_03/table_counts.jsonl": "65d09f02b8096c509390eef31a0f101af21e554d3aa023cbd005b048f58df103",
+    "methods/gpt_5_2_prompt_tuned/run_01/predictions.jsonl": "ce7b29df543b6ec376fc9029a456142a566ef8c2ad8364ac2e4d92926d4dd8f6",
+    "methods/gpt_5_2_prompt_tuned/run_01/run.json": "797eef2168b5722f69d199e3f1baf7ae1efb0bb20d464d411c73b7598f4fbe6f",
+    "methods/gpt_5_2_prompt_tuned/run_01/table_counts.jsonl": "208c2334dc7f2258d2fc3e567bd004731e1527ddcfd21c52bdc10c31c0730951",
+    "methods/gpt_5_2_prompt_tuned/run_02/predictions.jsonl": "d05d56922face2a6a9c1b03f045cb1254837b9c4744a75230b2c14370b7e6bd7",
+    "methods/gpt_5_2_prompt_tuned/run_02/run.json": "fa228625c23b64fbf2c73893d336d31bddcd7add1cd155d3dbcbb6a20d9c59a5",
+    "methods/gpt_5_2_prompt_tuned/run_02/table_counts.jsonl": "5567fb0406263806c61be2e39ded7284d4a0e5cd8996eff1c32ce44ed9ff1dea",
+    "methods/gpt_5_2_prompt_tuned/run_03/predictions.jsonl": "93b14512d4e5e71ecf54a0572836daad17f2391cd14ae8c0e4abf0a46d2100b6",
+    "methods/gpt_5_2_prompt_tuned/run_03/run.json": "7462b9221e2dfc6fe34b5b5c7985ffff33ad6bac3b989f662a9dd4685e46b80f",
+    "methods/gpt_5_2_prompt_tuned/run_03/table_counts.jsonl": "3dc5925ff1aae9d096f68eb5463d099f2ebb5eca3dde4092282c46606c24c645",
+    "methods/gpt_5_5_prompt_tuned/run_01/predictions.jsonl": "2d36d72c5f4316ca1d95d75619696dcbcbef6d2710162eb5b0e1aaa02eeebe67",
+    "methods/gpt_5_5_prompt_tuned/run_01/run.json": "109140e6345a7303f400087c795c754ce7841b6a30664904c70774624f0e9f6d",
+    "methods/gpt_5_5_prompt_tuned/run_01/table_counts.jsonl": "dc212aa7da4a93aa0a3893a368d88ecdf77bd6ebea057d938cc8eac773b3fa34",
+    "methods/gpt_5_5_prompt_tuned/run_02/predictions.jsonl": "dbf7ad0bd3c3c1f57708208b4ae67aedcdb091b33d3e5d6815cab0432370ae8a",
+    "methods/gpt_5_5_prompt_tuned/run_02/run.json": "88858fe28f75642e907ba0649f09ad305904f353e4e6072e3028968839648788",
+    "methods/gpt_5_5_prompt_tuned/run_02/table_counts.jsonl": "0c0ac850747db970fe717a4248725feca4d51cfa428984bc80ee8c38dfa1bebd",
+    "methods/gpt_5_5_prompt_tuned/run_03/predictions.jsonl": "1d4b79bd5cd54bfd1a844acf0d3e5a10f92104ca398ae1b0b7649fad4c59c36d",
+    "methods/gpt_5_5_prompt_tuned/run_03/run.json": "adcd5be102a8ffbc65fc772af73f3cf8435d1b768ed077802489a255a9278790",
+    "methods/gpt_5_5_prompt_tuned/run_03/table_counts.jsonl": "494b622c1312d3e68e2289afef72de42885e28a9daac627002fb5926d545ebb9",
+    "methods/gpt_6_astra_codex/run_01/predictions.jsonl": "0f3825b7580a50fceb90d87f4460908aa9f0e978d85e89c112e4b2bf710b0624",
+    "methods/gpt_6_astra_codex/run_01/run.json": "5c8a07dedfa86c029863f467a3da5bd2a321dbde75be49c211c2b28379c3a084",
+    "methods/gpt_6_astra_codex/run_01/table_counts.jsonl": "07c0b1e9b6985e7176b41ceda6bf4e73d2d4e7509b3ff75518ac67668c7792e2",
+    "methods/gpt_6_astra_codex/run_02/predictions.jsonl": "17a22528fb44b9110563acc93e66ea6e2e32c3436c088b8c12f72641b6484daa",
+    "methods/gpt_6_astra_codex/run_02/run.json": "cefe2b224e3f8af6c4d28af640091e19f8337b1d5486153462b4b9346ee0414c",
+    "methods/gpt_6_astra_codex/run_02/table_counts.jsonl": "3ba5b2d1bbc6d2ab034d94c29c72622c6e92ff425a50bf39ac0422e3d1821694",
+    "methods/gpt_6_astra_codex/run_03/predictions.jsonl": "a0c03539de851663c00209173607e20e33f52c34ce201d65a9a8b3b20f040b38",
+    "methods/gpt_6_astra_codex/run_03/run.json": "392b66faba89aed1f3795bbcbd21095268a716a853ae4859f2f7af2d08265267",
+    "methods/gpt_6_astra_codex/run_03/table_counts.jsonl": "3229c1956657264d2a154ee333f470369b0f5d9de5c4243e4fb49e5a385d2385",
+    "methods/gpt_6_astra_copilot/run_01/predictions.jsonl": "5f3ec8d30adf26b1f6a521c472358000326a50292e7c0b152f9768daa5827de1",
+    "methods/gpt_6_astra_copilot/run_01/run.json": "1513cbd3f5cb35548b7499876a06b7aa55623f40d36b9485f0a402e09aea2c48",
+    "methods/gpt_6_astra_copilot/run_01/table_counts.jsonl": "0c1536565bef4165ef30b7f3dd5f24046f6386868bc5a20af5c63b4cbc508c46",
+    "methods/gpt_6_astra_copilot/run_02/predictions.jsonl": "7487289405574ed22b5bff93552ec92f6dc5819362f5585561057aba3f8d922d",
+    "methods/gpt_6_astra_copilot/run_02/run.json": "05f0f5eacff331ac2d4b39ef59960e4eb035307b82a064759f85f0549d1fbe14",
+    "methods/gpt_6_astra_copilot/run_02/table_counts.jsonl": "56308a208c0b32a4bdc5f90397b473f2db7cccbe6dc6aca1395bf71a1f0fd9fb",
+    "methods/gpt_6_astra_copilot/run_03/predictions.jsonl": "09555ad4c349cd0864379a31f6250c5b235cdfc9009f56d368c93affc13cca7e",
+    "methods/gpt_6_astra_copilot/run_03/run.json": "c017e89454fdbd60fc97be31ee451c61964d087aad07875537b8b4ac15f4aafd",
+    "methods/gpt_6_astra_copilot/run_03/table_counts.jsonl": "d5a40521868641d13494556bc39e08c3a19533b6ef29cc23a10c22475e93d532",
+    "methods/gpt_6_astra_prompt_tuned/run_01/predictions.jsonl": "cfc7e9700704902d56677be5f977b04bfd5eeb4fb5767217ef0f4a82dbf8488a",
+    "methods/gpt_6_astra_prompt_tuned/run_01/run.json": "5b224d74725ba1f3caf82800e7330e22f41f3ed24a3bb9e4e7103a4b20adbe19",
+    "methods/gpt_6_astra_prompt_tuned/run_01/table_counts.jsonl": "5798382ea65f549fa80bc4c65d05e50032266db5e4b00cb3fb1e20fae6f752a4",
+    "methods/gpt_6_astra_prompt_tuned/run_02/predictions.jsonl": "8a67860e923bb76a1e1fad3ab48190da6f666e06a48aa55edec9d5103375bde5",
+    "methods/gpt_6_astra_prompt_tuned/run_02/run.json": "0e645317dfdd852198d4c3fd15aa11d4c17bfac0ead5a0ff4a59a2ec9083aa1f",
+    "methods/gpt_6_astra_prompt_tuned/run_02/table_counts.jsonl": "47daba849f6827a8fe19af7b595e9ca33e23380a240fd0c5085ae1b309fd016e",
+    "methods/gpt_6_astra_prompt_tuned/run_03/predictions.jsonl": "8ce5680f5fed3c0abd037df04adcdaa2206babc44bb365e6bd226f164d7a948e",
+    "methods/gpt_6_astra_prompt_tuned/run_03/run.json": "48be0989d15ecc363dce4dfab9ea1dec467767e0ac13e1e1c20728d0c1acdd48",
+    "methods/gpt_6_astra_prompt_tuned/run_03/table_counts.jsonl": "aedfb2cea5562af8e35c36ede7899c2f4f5e37939531de8e3b970cc05d6ba3f8",
+    "methods/holistic/run_01/predictions.jsonl": "4959a4c742bebbfd00d8c8df119d1ba7f1d2fa52e5b3ed6dd92db045ec9d476e",
+    "methods/holistic/run_01/run.json": "df2ded365a01d3738bec019effadea3696fafe06275eafbc34c9cd95cc27831a",
+    "methods/holistic/run_01/table_counts.jsonl": "cd1b6e0212ecdc939b65f49a714729c4e294c3e6dbfc8e2f761c2213ccb8ee61",
+    "methods/holistic/run_02/predictions.jsonl": "4959a4c742bebbfd00d8c8df119d1ba7f1d2fa52e5b3ed6dd92db045ec9d476e",
+    "methods/holistic/run_02/run.json": "9409d69bba2f06cdfef9424bb97c1d81c9dbe608c208571f459f23800582b1a0",
+    "methods/holistic/run_02/table_counts.jsonl": "cd1b6e0212ecdc939b65f49a714729c4e294c3e6dbfc8e2f761c2213ccb8ee61",
+    "methods/holistic/run_03/predictions.jsonl": "4959a4c742bebbfd00d8c8df119d1ba7f1d2fa52e5b3ed6dd92db045ec9d476e",
+    "methods/holistic/run_03/run.json": "94ccc7d7e67fe65ead8a8b61b939b111a9c8162454f6abe53fadc8af521ed5a8",
+    "methods/holistic/run_03/table_counts.jsonl": "cd1b6e0212ecdc939b65f49a714729c4e294c3e6dbfc8e2f761c2213ccb8ee61",
+    "methods/horizon/run_01/predictions.jsonl": "46ac22af7ba32f3ac607fffa8b15cc6b4de40111766a36a121200638f7e1bd7a",
+    "methods/horizon/run_01/run.json": "1e3210eac961f4efb33aa29d86f361b968368f2a67188d5941444d08e152757b",
+    "methods/horizon/run_01/table_counts.jsonl": "a8aa36a684ccbc9aee2e8bac7a9c006554c6b2b8cce328a36ad45c8e7dfdfbe9",
+    "methods/horizon/run_02/predictions.jsonl": "46ac22af7ba32f3ac607fffa8b15cc6b4de40111766a36a121200638f7e1bd7a",
+    "methods/horizon/run_02/run.json": "f9b8168432804a43a614db3747ce468f42f840f5540e19c93c9d0cd6f87fd76b",
+    "methods/horizon/run_02/table_counts.jsonl": "a8aa36a684ccbc9aee2e8bac7a9c006554c6b2b8cce328a36ad45c8e7dfdfbe9",
+    "methods/horizon/run_03/predictions.jsonl": "46ac22af7ba32f3ac607fffa8b15cc6b4de40111766a36a121200638f7e1bd7a",
+    "methods/horizon/run_03/run.json": "4139d3e23dbbef87ada2ef1b408492be810ecc948c2d50bf885f7c916921ced6",
+    "methods/horizon/run_03/table_counts.jsonl": "a8aa36a684ccbc9aee2e8bac7a9c006554c6b2b8cce328a36ad45c8e7dfdfbe9",
+    "methods/katara_kb/run_01/predictions.jsonl": "33fa455edf29aafdc46820dd59a14e628fd5eb863fe10c76de8211d88840ac83",
+    "methods/katara_kb/run_01/run.json": "b27b5dd570ed255c872b770049acaae087a1e77205e90e5a5f019edc859b6bf7",
+    "methods/katara_kb/run_01/table_counts.jsonl": "c53ae2279d4dfa9875e700af20abad7dad428292baeb14e3ec4f6e04c0745bb7",
+    "methods/katara_kb/run_02/predictions.jsonl": "33fa455edf29aafdc46820dd59a14e628fd5eb863fe10c76de8211d88840ac83",
+    "methods/katara_kb/run_02/run.json": "17aa3727f5c95a9c1b6d76394a3db0b07c2992e2c54bb7fab14d221b06048426",
+    "methods/katara_kb/run_02/table_counts.jsonl": "c53ae2279d4dfa9875e700af20abad7dad428292baeb14e3ec4f6e04c0745bb7",
+    "methods/katara_kb/run_03/predictions.jsonl": "33fa455edf29aafdc46820dd59a14e628fd5eb863fe10c76de8211d88840ac83",
+    "methods/katara_kb/run_03/run.json": "786d8564d108517f3e705cd4e51a3fd75b2aff611872627fa62ef25fb6a2d035",
+    "methods/katara_kb/run_03/table_counts.jsonl": "c53ae2279d4dfa9875e700af20abad7dad428292baeb14e3ec4f6e04c0745bb7",
+    "methods/llunatic/run_01/predictions.jsonl": "c20fe998029e07d8844b6dac83a1b3b471de74524571138bf806ca4a5ce22527",
+    "methods/llunatic/run_01/run.json": "868cdb6a6d8aee6ca306863d37cb29297151e38c4a3ca023113650dd6cdc8d37",
+    "methods/llunatic/run_01/table_counts.jsonl": "2cb113bca5fa1ca64f5204c166be880470109337bed8bd624d94ec88fa7ba3cf",
+    "methods/llunatic/run_02/predictions.jsonl": "c20fe998029e07d8844b6dac83a1b3b471de74524571138bf806ca4a5ce22527",
+    "methods/llunatic/run_02/run.json": "f01fc7625e557cca31fa8cc9d0731f301bd6ab248c95a2a1b084004f4887930a",
+    "methods/llunatic/run_02/table_counts.jsonl": "2cb113bca5fa1ca64f5204c166be880470109337bed8bd624d94ec88fa7ba3cf",
+    "methods/llunatic/run_03/predictions.jsonl": "c20fe998029e07d8844b6dac83a1b3b471de74524571138bf806ca4a5ce22527",
+    "methods/llunatic/run_03/run.json": "e12f249de26e63e5760a7e49afe0b61b9a14be14a201873f17bd3bdb39cfc59f",
+    "methods/llunatic/run_03/table_counts.jsonl": "2cb113bca5fa1ca64f5204c166be880470109337bed8bd624d94ec88fa7ba3cf",
+    "methods/nadeef/run_01/predictions.jsonl": "70a3a754a2c1436ed2be0d29516408689278178a0b3b65f6a93355bf773ef247",
+    "methods/nadeef/run_01/run.json": "ce3c5bcb6ddad8c47e0702dcf33f39feeb7bf431c0cd39d1ceff6e0eb84807ec",
+    "methods/nadeef/run_01/table_counts.jsonl": "fe8c71ab7a05ac8d9246a90a475083721e0e9ff587b33ced696754704eb47c07",
+    "methods/nadeef/run_02/predictions.jsonl": "70a3a754a2c1436ed2be0d29516408689278178a0b3b65f6a93355bf773ef247",
+    "methods/nadeef/run_02/run.json": "da2393b070eb009595e4e5cf6dc38038439d0b95c8bec3b81599cecc184ece99",
+    "methods/nadeef/run_02/table_counts.jsonl": "fe8c71ab7a05ac8d9246a90a475083721e0e9ff587b33ced696754704eb47c07",
+    "methods/nadeef/run_03/predictions.jsonl": "70a3a754a2c1436ed2be0d29516408689278178a0b3b65f6a93355bf773ef247",
+    "methods/nadeef/run_03/run.json": "f7d19a577cfd18b897d59572f47cdc663469c23236c5f88f2726e1e2aadc027b",
+    "methods/nadeef/run_03/table_counts.jsonl": "fe8c71ab7a05ac8d9246a90a475083721e0e9ff587b33ced696754704eb47c07",
+    "methods/neuspell/run_01/predictions.jsonl": "ae667eb5d0aa07c82a5b10e65a52d33229b5d9af76bba8331e61d3e61fa9a5b2",
+    "methods/neuspell/run_01/run.json": "b58719cdbc276781eb36df4e6980c387cd942ac4f77ef3afcd12581a03246752",
+    "methods/neuspell/run_01/table_counts.jsonl": "ec1c2352be72c084082303dc9294bcae912b118e4c02ad9123d916cad767540b",
+    "methods/neuspell/run_02/predictions.jsonl": "ae667eb5d0aa07c82a5b10e65a52d33229b5d9af76bba8331e61d3e61fa9a5b2",
+    "methods/neuspell/run_02/run.json": "fb6b8a0a8b4060e8f6837af4ac901beca40de89ae5e6739cd1b37a1c3b308b1d",
+    "methods/neuspell/run_02/table_counts.jsonl": "ec1c2352be72c084082303dc9294bcae912b118e4c02ad9123d916cad767540b",
+    "methods/neuspell/run_03/predictions.jsonl": "ae667eb5d0aa07c82a5b10e65a52d33229b5d9af76bba8331e61d3e61fa9a5b2",
+    "methods/neuspell/run_03/run.json": "ad61785c89d7e489649fbaafff2e25e39bc10483532f66777aba8c78affd2413",
+    "methods/neuspell/run_03/table_counts.jsonl": "ec1c2352be72c084082303dc9294bcae912b118e4c02ad9123d916cad767540b",
+    "methods/relative_trust/run_01/predictions.jsonl": "2be48f0600286ee1a093b8cdf64f60a76d8cc42d007fafc84e59bc47099a9055",
+    "methods/relative_trust/run_01/run.json": "2743c211dea4bade17c72d1fa69f55cfac344748a07c3eba8bb40e053b3b7f09",
+    "methods/relative_trust/run_01/table_counts.jsonl": "f8f0e4427f7b3ed265f8464e9a329c7acd7dce7ee8c5f953761010c45275fe46",
+    "methods/relative_trust/run_02/predictions.jsonl": "caf842e40b87f31b455d5568710e1044adc6512c9eec328cd95008165e02b9cf",
+    "methods/relative_trust/run_02/run.json": "5fcc55ee53be7958dc4e6414483491d5b10ef1a84a6c203829da3c365d4d0a4c",
+    "methods/relative_trust/run_02/table_counts.jsonl": "66a48209925c83b5bbc3b34d1b7873465ee0214bf2b95f02e6f3ca3ba5d4ee5a",
+    "methods/relative_trust/run_03/predictions.jsonl": "a2940404372af9fde38b6391d61b22d0200b9c6dba1ab62754ceb3b15be7ef1b",
+    "methods/relative_trust/run_03/run.json": "5f1b7c578e06a088dd103d44d6ba264c7f72410677e38177816330c00f8c7ea1",
+    "methods/relative_trust/run_03/table_counts.jsonl": "af9275fa9148124605c6bf061d960edf59b8ef16b1abd39ac911919436e48965",
+    "methods/symspell/run_01/predictions.jsonl": "ea719cff179e11bdb78242e0c8ed9087bd9e5a7a4f25040408a282a12aa977b3",
+    "methods/symspell/run_01/run.json": "eabc77b9c3e0055fa5f0c36f41ff728fe69c78535358f8f510a8ad6198d32689",
+    "methods/symspell/run_01/table_counts.jsonl": "99b6a7bca2194c3404ca967a234bfaa9e978f4f6c54b69f4abce6905a1dfeaeb",
+    "methods/symspell/run_02/predictions.jsonl": "ea719cff179e11bdb78242e0c8ed9087bd9e5a7a4f25040408a282a12aa977b3",
+    "methods/symspell/run_02/run.json": "bdfc231641b37b369942f463214008505a4f632733e8ab8005b4f9ac9062f036",
+    "methods/symspell/run_02/table_counts.jsonl": "99b6a7bca2194c3404ca967a234bfaa9e978f4f6c54b69f4abce6905a1dfeaeb",
+    "methods/symspell/run_03/predictions.jsonl": "ea719cff179e11bdb78242e0c8ed9087bd9e5a7a4f25040408a282a12aa977b3",
+    "methods/symspell/run_03/run.json": "b7eb3d2ccae5d7f9533a1c6fedc076335aa19f294fbb3adca22baa71a9b80b41",
+    "methods/symspell/run_03/table_counts.jsonl": "99b6a7bca2194c3404ca967a234bfaa9e978f4f6c54b69f4abce6905a1dfeaeb",
+    "methods/uniclean/run_01/predictions.jsonl": "699d55d3d81e8d791b38f2b813164cf647394759e26a95fb0367f434947b7059",
+    "methods/uniclean/run_01/run.json": "5f43c22c63abdc6a1aebf87616f48bf0e84d162b3f59b09739b788cf9c3ec332",
+    "methods/uniclean/run_01/table_counts.jsonl": "e373df068d7f7f16d1ec79994aedbdeb10df5ba7bca17191f86da8c7262f64ea",
+    "methods/uniclean/run_02/predictions.jsonl": "699d55d3d81e8d791b38f2b813164cf647394759e26a95fb0367f434947b7059",
+    "methods/uniclean/run_02/run.json": "b22fea26521012a13492e674f1abd27833ee72b5ad3c94afca1dfbe3b889fa5e",
+    "methods/uniclean/run_02/table_counts.jsonl": "e373df068d7f7f16d1ec79994aedbdeb10df5ba7bca17191f86da8c7262f64ea",
+    "methods/uniclean/run_03/predictions.jsonl": "699d55d3d81e8d791b38f2b813164cf647394759e26a95fb0367f434947b7059",
+    "methods/uniclean/run_03/run.json": "67d0a09dc92487eb8a0b01a50d1db5a2678303bbb0dd26e62b00a764ac4e2b4b",
+    "methods/uniclean/run_03/table_counts.jsonl": "e373df068d7f7f16d1ec79994aedbdeb10df5ba7bca17191f86da8c7262f64ea",
+    "reference.json": "e43e816d03ea803620a467e52c1e0c5bc04bea23ef4d7152e6cd6ac2cae77d4b",
+    "source_hashes.json": "378a6dab2b5c970f43e5e8a810ece71e0eec2c856d8d19b8c2f9fa4e3df324bc"
+  }
+}
