@@ -3,9 +3,6 @@
 - [Read the full paper](CleanBench-full.pdf) (24 pages).
 - [Download the Overleaf source package](CleanBench-overleaf.zip).
 
-Recent revisions are highlighted in blue for author review. Set
-`\togglefalse{reviewchanges}` in `preamble.tex` for the clean presentation.
-
 Table 3 uses the original method configurations and evaluates all 1,409 labeled
 error cells. The constraint-generation, score-threshold, and violation-coverage
 experiments are reported separately in the appendix.
