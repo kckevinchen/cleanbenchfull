@@ -391,18 +391,50 @@ def main() -> None:
             fp_keys.add(key)
             wrong_correction_keys.add(key)
 
-    unchanged_correct: set[CellKey] = set()
-    if args.task == "end_to_end":
-        for key, original in gold_originals.items():
-            if key in predicted and predicted_corrections.get(key) is not None:
+    reference_path = bench_dir.parent / "reproducibility/table3/reference.json"
+    if args.task == "end_to_end" and reference_path.exists():
+        import sys
+
+        sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
+        from src.reproducibility.table3 import metrics, read, score_run, write_csv
+
+        reference = read(reference_path)
+        lookup = {}
+        states = {}
+        for name, table in reference["tables"].items():
+            dataset, source = table["source_path"].split("/", 1)
+            lookup[dataset, source] = (
+                name,
+                {v: i for i, v in enumerate(table["original_rows"])},
+                {v: i for i, v in enumerate(table["headers"])},
+            )
+            states[name] = (
+                "complete" if _execution_complete((dataset, source, 0, ""), execution) else "failed"
+            )
+        edits = []
+        for key, value in predicted_corrections.items():
+            if key in ambiguous or ignore_index.contains(key):
                 continue
-            if ignore_index.contains(key) or not _execution_complete(key, execution):
-                continue
-            if _correction_matches(original, gold_corrections[key]):
-                unchanged_correct.add(key)
-        tp_keys.update(unchanged_correct)
-        fp_keys.difference_update(unchanged_correct)
-        wrong_correction_keys.difference_update(unchanged_correct)
+            dataset, source, row, col = key
+            name, rows, columns = lookup[dataset, source]
+            edits.append(dict(dataset=name, row=rows[row], col=columns[col], corrected_value=value))
+        tables = score_run(edits, reference, states)
+        values, totals = metrics(tables)
+        for metric in ["tp", "fp", "fn"]:
+            print(f"{metric.upper()}: {totals[metric]}")
+        for metric in ["precision", "recall", "f1"]:
+            print(f"{metric}: {values[metric] / 100:.6f}")
+        if args.details_csv:
+            path = Path(args.details_csv)
+            path.parent.mkdir(parents=True, exist_ok=True)
+            write_csv(
+                path,
+                [
+                    dict(dataset=n, **{k: t[k] for k in ("tp", "fp", "fn", "execution")})
+                    for n, t in tables.items()
+                ],
+            )
+        return
 
     ignored_immune_gold = {k for k in positive if ignore_index.contains(k)}
     fn_keys = positive - tp_keys - ignored_immune_gold
@@ -419,9 +451,7 @@ def main() -> None:
             writer = csv.writer(fh)
             writer.writerow(["kind", "dataset", "source", "row", "column", "classification"])
             for key in sorted(tp_keys):
-                kind = "gold_error" if key in unchanged_correct else "prediction"
-                label = "tp_unchanged" if key in unchanged_correct else "tp"
-                writer.writerow([kind, *key, label])
+                writer.writerow(["prediction", *key, "tp"])
             for key in sorted(fp_keys):
                 label = "fp_wrong_correction" if key in wrong_correction_keys else "fp"
                 writer.writerow(["prediction", *key, label])

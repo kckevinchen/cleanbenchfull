@@ -84,7 +84,7 @@ def test_detection_and_wrong_correction(tmp_path):
 @pytest.mark.parametrize(
     ("task", "edit", "execution", "expected"),
     [
-        ("end_to_end", None, None, (2, 0, 0)),
+        ("end_to_end", None, None, (1, 0, 1)),
         ("end_to_end", "wrong", None, (1, 1, 1)),
         ("end_to_end", "New York", None, (2, 0, 0)),
         ("end_to_end", None, "failed", (1, 0, 1)),
@@ -92,7 +92,7 @@ def test_detection_and_wrong_correction(tmp_path):
         ("detection", None, None, (1, 0, 1)),
     ],
 )
-def test_all_errors_include_accepted_unchanged_values(tmp_path, task, edit, execution, expected):
+def test_ordinary_errors_require_explicit_repairs(tmp_path, task, edit, execution, expected):
     base = {"dataset": "pbi_500", "source": "x.csv", "column": "city"}
     write_jsonl(
         tmp_path / "benchmark_cell.json",

@@ -3,7 +3,7 @@
 - [Read the full paper](CleanBench-full.pdf) (24 pages).
 - [Download the Overleaf source package](CleanBench-overleaf.zip).
 
-Table 3 uses the original method configurations and evaluates all 1,409 labeled
+Table 3 uses the original method configurations and scores 1,178 repair requirements across the 1,409 labeled
 error cells. The constraint-generation, score-threshold, and violation-coverage
 experiments are reported separately in the appendix.
 

@@ -75,8 +75,8 @@ def replay(repo, output):
     root = repo / "reproducibility/constraints"
     manifest = verify(root, repo)
     reference = read(repo / "reproducibility/table3/reference.json")
-    if len(reference["targets"]) != 1409:
-        raise ValueError("Expected the full-paper 1,409-cell reference")
+    if reference["population"]["targets"] != 1178:
+        raise ValueError("Expected the full-paper 1,178-requirement reference")
     plans, folds = read(root / "plans.json"), read(root / "folds.json")
     pool = read(repo / "baselines/constraints/config/pool.json")
     selections = read(repo / "baselines/constraints/config/selections.json")
@@ -95,7 +95,7 @@ def replay(repo, output):
                     )
                 tables = cache[key]
                 values, counts = metrics(tables)
-                if counts["tables"] != 1000 or counts["targets"] != 1409:
+                if counts["tables"] != 1000 or counts["targets"] != 1178:
                     raise ValueError("Incomplete evaluation population")
                 curves[threshold] = tables
                 if policy == "numeric":
@@ -149,7 +149,7 @@ def replay(repo, output):
         match=not differences,
         differences=differences,
         tables=1000,
-        targets=1409,
+        targets=1178,
         methods=len(METHODS),
         method_bank_runs=len(cache),
     )

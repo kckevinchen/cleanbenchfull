@@ -70,11 +70,34 @@ def test_failed_empty_table_preserves_false_negatives(reference):
         score_run([], reference, {})
 
 
-def test_accepted_original_is_scored_without_an_edit(reference):
+def test_unchanged_original_earns_no_repair_credit(reference):
     reference["targets"][1]["original_value"] = "City"
     counts = score_run([], reference, {"t": "complete"})["t"]
-    assert (counts["tp"], counts["fp"], counts["fn"]) == (1, 0, 1)
-    assert counts["types"]["inconsistency"] == {"hit": 1, "gt": 1}
+    assert (counts["tp"], counts["fp"], counts["fn"]) == (0, 0, 2)
+    assert counts["types"]["inconsistency"] == {"hit": 0, "gt": 1}
+
+
+def test_group_requires_positive_improvement(reference):
+    members = [
+        dict(table="t", local_row=0, col=i, accepted=["A", "B"], original_value=value)
+        for i, value in enumerate(["A", "B"])
+    ]
+    reference["targets"] = []
+    reference["consistency_groups"] = [
+        dict(
+            id="group",
+            scoring_rule="literal_unification",
+            canonical_options=["A", "B"],
+            members=members,
+        )
+    ]
+    for edits, expected in [
+        ([], (0, 1)),
+        ([prediction(0, "B")], (1, 0)),
+        ([prediction(0, "B"), prediction(1, "A")], (0, 1)),
+    ]:
+        counts = score_run(edits, reference, {"t": "complete"})["t"]
+        assert (counts["tp"], counts["fn"]) == expected
 
 
 def test_wrong_edit_overrides_an_accepted_original(reference):

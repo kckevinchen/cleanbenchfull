@@ -12,8 +12,7 @@ across 168 tables. A separate GPT-5.2 pass scored semantic validity from 0 to 10
 using dirty tables, rule definitions, and their violations. The fixed cutoffs are
 0, 20, 40, 60, 80, and 90. Each method uses its supported native projections.
 
-All 1,000 tables are evaluated with the full paper's 1,409-cell scoring rule.
-Accepted unchanged original values count as correct on completed tables.
+All 1,000 tables are evaluated with the same scoring rule as Table 3. Ordinary errors earn credit for an accepted repair. For each bidirectional consistency component, credit equals the positive reduction in the number of edits needed to reach a valid completion. The recall denominator is 1,178 (1,078 ordinary errors and 100 units of initial repair distance).
 Five-fold selection groups source workbooks and duplicate tables, chooses a
 method's cutoff on the other four folds, and aggregates evaluation counts.
 The GT-assisted candidate bank is fixed across all folds. Three score-shuffling

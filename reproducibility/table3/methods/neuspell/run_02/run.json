@@ -1041,12 +1041,12 @@
   },
   "population": {
     "tables": 1000,
-    "targets": 1409,
+    "targets": 1178,
     "clean_cells": 362393
   },
   "scoring": {
-    "population": "all_labeled_error_cells",
-    "accepted_unchanged_original": "correct",
-    "implicit_credit_requires": "complete_execution"
+    "ordinary_errors": 1078,
+    "initial_component_distance": 100,
+    "component_credit": "positive reduction in distance to a valid completion"
   }
 }

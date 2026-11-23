@@ -53,10 +53,7 @@ file uses the saved independent repetitions and reports their mean and sample st
 deviation (`ddof=1`). Metrics are computed from summed TP/FP/FN within each run
 and then averaged across runs.
 
-End-to-end scoring includes all 1,409 labeled error cells. An unchanged value
-counts as correct if it is already an accepted repair; an incorrect replacement
-counts as both a false positive and a false negative. Unsubmitted repairs receive
-this credit only for completed table executions.
+Ordinary errors earn credit for an accepted repair. For each bidirectional consistency component, credit equals the positive reduction in the number of edits needed to reach a valid completion. The recall denominator is 1,178 (1,078 ordinary errors and 100 units of initial repair distance).
 
 
 ## (2). Re-run all methods from scratch (can take a few hours)

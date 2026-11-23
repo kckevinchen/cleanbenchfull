@@ -72,11 +72,10 @@ def score_run(predictions, reference, executions):
     types = {k: {tuple(c) for c in cells} for k, cells in reference["types"].items()}
     if targets.keys() & immune:
         raise ValueError("Correction targets cannot also be immune")
-    hits = {
-        (row["dataset"], row["row"], row["col"])
-        for row in reference["targets"]
-        if row.get("original_value") in row["accepted"] and executions[row["dataset"]] == "complete"
-    }
+    from src.reproducibility.consistency_scoring import components, score_tables
+
+    predictions = list(predictions)
+    hits = set()
     attempts, seen = set(), set()
     for row in predictions:
         dataset, i, j = row["dataset"], row["row"], row["col"]
@@ -123,6 +122,9 @@ def score_run(predictions, reference, executions):
                 for kind, cells in types.items()
             },
         }
+    groups = reference.get("consistency_groups", [])
+    if groups:
+        return score_tables(per_table, predictions, targets, types, components(groups, targets))
     return per_table
 
 

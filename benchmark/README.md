@@ -73,12 +73,7 @@ and per-cell skips are FP/FN-immune. `ignored.jsonl` takes precedence over legac
 exclusion projections in `neutral_cells.jsonl`; a legacy skip with an empty
 column refers to a row-level finding and does not mask that row in cell scoring.
 
-End-to-end scoring evaluates all 1,409 labeled error cells against their accepted
-values. An unchanged original value counts as correct when it is accepted; an
-incorrect replacement contributes both an FP and an FN. String comparison
-is case-sensitive after trimming surrounding whitespace; a prediction list
-matches if it contains an accepted value. Report micro-F1 from summed TP, FP,
-and FN, and disclose any supervised use of benchmark labels.
+Ordinary errors earn credit for an accepted repair. For each bidirectional consistency component, credit equals the positive reduction in the number of edits needed to reach a valid completion. The recall denominator is 1,178 (1,078 ordinary errors and 100 units of initial repair distance). For the released benchmark, end-to-end details report counts per table. Supply one literal replacement string per proposed correction.
 
 An optional `--execution execution.json` supplies table states (`complete`,
 `failed`, or `unknown`), keyed by `dataset/source.csv`. Without this file, inputs
