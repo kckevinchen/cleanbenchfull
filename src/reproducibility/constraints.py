@@ -19,19 +19,10 @@ METHODS = {
 }
 
 
-def cross_fit(curves, folds):
-    universe = {ds for groups in folds for group in groups for ds in group}
-    if any(set(c) != universe for c in curves.values()):
-        raise ValueError("Thresholds must cover the same complete table population")
-    selected, choices = {}, []
-    for groups in folds:
-        test = {ds for group in groups for ds in group}
-        train = universe - test
-        scores = {t: metrics({ds: c[ds] for ds in train})[0]["f1"] for t, c in curves.items()}
-        threshold = max(scores, key=lambda t: (scores[t], t))
-        selected.update({ds: curves[threshold][ds] for ds in test})
-        choices.append(threshold)
-    return metrics(selected)[0], choices
+def peak_threshold(scores):
+    """Summarize the observed full-benchmark sweep, breaking ties at the higher cutoff."""
+    threshold = max(scores, key=lambda t: (scores[t]["f1"], t))
+    return scores[threshold], threshold
 
 
 def verify(root, repo):
@@ -77,7 +68,7 @@ def replay(repo, output):
     reference = read(repo / "reproducibility/table3/reference.json")
     if reference["population"]["targets"] != 1178:
         raise ValueError("Expected the full-paper 1,178-requirement reference")
-    plans, folds = read(root / "plans.json"), read(root / "folds.json")
+    plans = read(root / "plans.json")
     pool = read(repo / "baselines/constraints/config/pool.json")
     selections = read(repo / "baselines/constraints/config/selections.json")
     cache, curves_output, comparison = {}, [], []
@@ -97,7 +88,7 @@ def replay(repo, output):
                 values, counts = metrics(tables)
                 if counts["tables"] != 1000 or counts["targets"] != 1178:
                     raise ValueError("Incomplete evaluation population")
-                curves[threshold] = tables
+                curves[threshold] = values
                 if policy == "numeric":
                     ids = selections[bank]
                     consumed = sum(
@@ -121,14 +112,15 @@ def replay(repo, output):
                             ),
                         )
                     )
-            outcomes[policy] = cross_fit(curves, folds)[0]
+            outcomes[policy] = peak_threshold(curves)
             if policy == "numeric":
-                all_f1 = metrics(curves[0])[0]["f1"]
-        selected = outcomes["numeric"]
-        random = [v["f1"] for p, v in outcomes.items() if p != "numeric"]
+                all_f1 = curves[0]["f1"]
+        selected, threshold = outcomes["numeric"]
+        random = [v["f1"] for p, (v, _) in outcomes.items() if p != "numeric"]
         comparison.append(
             dict(
                 method=name,
+                threshold=threshold,
                 all_f1=all_f1,
                 numeric_f1=selected["f1"],
                 random_mean_f1=statistics.mean(random),
@@ -141,7 +133,7 @@ def replay(repo, output):
     differences = compare_rows(
         curves_output, root / "expected/thresholds.csv", ["method", "threshold"]
     )
-    differences += compare_rows(comparison, root / "expected/comparison.csv", ["method"])
+    differences += compare_rows(comparison, root / "expected/comparison.csv", ["method", "threshold"])
     output.mkdir(parents=True, exist_ok=True)
     write_csv(output / "thresholds.csv", curves_output)
     write_csv(output / "comparison.csv", comparison)

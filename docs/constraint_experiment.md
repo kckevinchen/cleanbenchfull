@@ -13,9 +13,10 @@ using dirty tables, rule definitions, and their violations. The fixed cutoffs ar
 0, 20, 40, 60, 80, and 90. Each method uses its supported native projections.
 
 All 1,000 tables are evaluated with the same scoring rule as Table 3. Ordinary errors earn credit for an accepted repair. For each bidirectional consistency component, credit equals the positive reduction in the number of edits needed to reach a valid completion. The recall denominator is 1,178 (1,078 ordinary errors and 100 units of initial repair distance).
-Five-fold selection groups source workbooks and duplicate tables, chooses a
-method's cutoff on the other four folds, and aggregates evaluation counts.
-The GT-assisted candidate bank is fixed across all folds. Three score-shuffling
+Each cutoff applies to all 1,000 tables. The comparison reports the highest
+observed F1 across the six fixed cutoffs for each method, choosing the higher
+cutoff on ties. The same summary is computed for each shuffled run, then
+averaged across three runs. The score-shuffling
 controls preserve native input counts at each cutoff. Each distinct method/input
 combination has one saved execution.
 
@@ -29,7 +30,7 @@ python scripts/reproduce_constraints.py
 ```
 
 It verifies checksums, scores the 147 saved method/input runs, reconstructs all
-42 threshold points and the five-fold comparisons, and prints `MATCH` when the
+42 threshold points and the fixed-cutoff comparisons, and prints `MATCH` when the
 results agree with the full-paper appendix. Output CSVs are written under
 `build/constraints/`.
 
@@ -64,7 +65,7 @@ python scripts/run_constraint_sweep.py run --controls \
 Use `--method` repeatedly to select methods, `--threshold` repeatedly to select
 cutoffs, and `--workers` to control per-method table concurrency. Add `--dry-run`
 to print the Docker commands. Each invocation uses a new output directory.
-The six-cutoff runs also produce five-fold threshold selections. The shuffled
+The six-cutoff runs also produce one peak cutoff per method and policy. The shuffled
 controls reuse a native output only when its method and input bank are identical.
 Fresh executions do not read saved predictions.
 

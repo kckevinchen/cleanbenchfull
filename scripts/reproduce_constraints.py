@@ -1,4 +1,4 @@
-"""Reproduce constraint threshold curves and five-fold results without API keys."""
+"""Reproduce constraint threshold curves and fixed-threshold results without API keys."""
 
 import argparse
 import json

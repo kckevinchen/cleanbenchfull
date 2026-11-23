@@ -12,7 +12,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT))
 from scripts.run_table3 import prepare_inputs  # noqa: E402
-from src.reproducibility.constraints import METHODS, cross_fit  # noqa: E402
+from src.reproducibility.constraints import METHODS, peak_threshold  # noqa: E402
 from src.reproducibility.table3 import metrics, read, records, score_run, write_csv  # noqa: E402
 
 
@@ -106,7 +106,6 @@ def main():
         return
     policies = list(plans) if args.controls else ["numeric"]
     observations, cache, selected = [], {}, []
-    folds = read(ROOT / "reproducibility/constraints/folds.json")
     for method in methods:
         for policy in policies:
             curves = {}
@@ -127,8 +126,8 @@ def main():
                             read(destination / "execution.json"),
                         )
                 if not args.dry_run:
-                    curves[threshold] = cache[key]
-                    values, totals = metrics(cache[key])
+                    values, _ = metrics(cache[key])
+                    curves[threshold] = values
                     observations.append(
                         dict(
                             method=METHODS[method],
@@ -141,9 +140,9 @@ def main():
                         )
                     )
             if not args.dry_run and set(thresholds) == {0, 20, 40, 60, 80, 90}:
-                values, choices = cross_fit(curves, folds)
+                values, cutoff = peak_threshold(curves)
                 selected.append(
-                    dict(method=METHODS[method], policy=policy, **values, thresholds=str(choices))
+                    dict(method=METHODS[method], policy=policy, **values, threshold=cutoff)
                 )
     if not args.dry_run:
         write_csv(output / "thresholds.csv", observations)

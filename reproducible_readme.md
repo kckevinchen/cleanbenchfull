@@ -112,6 +112,6 @@ execution record, and per-table score counts.
 ## Constraint selection experiments
 
 Run `python scripts/reproduce_constraints.py` to reconstruct the full-paper
-constraint threshold curves and five-fold comparisons from saved predictions.
+constraint threshold curves and fixed-threshold comparisons from saved predictions.
 See [the experiment guide](docs/constraint_experiment.md) for fresh native runs
 with Docker, fixed rule inputs, and semantic scores.
