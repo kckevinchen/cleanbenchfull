@@ -1,6 +1,6 @@
 # Full paper
 
-- [Read the full paper](CleanBench-full.pdf) (24 pages).
+- [Read the full paper](CleanBench-full.pdf) (23 pages).
 - [Download the Overleaf source package](CleanBench-overleaf.zip).
 
 Table 3 uses the original method configurations and scores 1,178 repair requirements across the 1,409 labeled
