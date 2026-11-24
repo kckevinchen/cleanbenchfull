@@ -8,5 +8,7 @@ error cells. The constraint-generation, score-threshold, and violation-coverage
 experiments are reported separately in the appendix.
 
 From the repository root, run `python scripts/reproduce_table3.py` to reproduce
-Table 3 from its 59 saved runs, and `python scripts/reproduce_constraints.py` to
+Table 3 from its 59 saved runs,
+`python scripts/reproduce_table6.py` to score the 30 repair-only runs with the
+same metric, and `python scripts/reproduce_constraints.py` to
 reproduce the appendix's threshold and selection results.
